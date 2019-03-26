@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-init",
+  "baselineid": "master",
+  "description": "Working schema, database and node for auth",
+  "created": 1553563535,
+  "updated": 1553563535,
+  "status": "active"
+}
