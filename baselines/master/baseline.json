@@ -1,0 +1,9 @@
+{
+  "baselineid": "master",
+  "description": "Live production baseline\n[Only features from stage/hot fix features]",
+  "releases": [],
+  "hierarchy": [],
+  "created": 1553563478,
+  "updated": 1553563478,
+  "status": "active"
+}
