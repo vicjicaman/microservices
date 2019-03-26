@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-container.git",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-container",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the user auth functionality",
+  "created": 1553565630,
+  "updated": 1553565630,
+  "status": "active"
+}

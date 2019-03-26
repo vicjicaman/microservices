@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-data",
+  "type": "service-stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "fullname": "microservice-auth-data",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Stateful service and schema configuration for user auth",
+  "created": 1553564162,
+  "updated": 1553564162,
+  "status": "active"
+}

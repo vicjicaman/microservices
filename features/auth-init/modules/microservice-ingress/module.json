@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-ingress",
+  "type": "ingress",
+  "url": "github.com:vicjicaman/microservice-ingress.git",
+  "fullname": "microservice-ingress",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Ingress config for microservices",
+  "created": 1553626424,
+  "updated": 1553626424,
+  "status": "active"
+}
