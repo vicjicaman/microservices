@@ -9,7 +9,7 @@
   "release": {
     "type": "patch"
   },
-  "description": "Stateful service and schema configuration for user auth",
+  "description": "Stateful kubernetes service and schema configuration for user auth",
   "created": 1553564162,
   "updated": 1553564162,
   "status": "active"
