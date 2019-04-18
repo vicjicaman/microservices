@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "fullname": "microservice-config",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General configuration for microservices",
+  "created": 1555569560,
+  "updated": 1555569560,
+  "status": "active"
+}

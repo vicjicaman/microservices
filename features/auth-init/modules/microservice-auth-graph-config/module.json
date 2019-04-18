@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-graph-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "fullname": "microservice-auth-graph-config",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Configuration for the graph and events service",
+  "created": 1555500752,
+  "updated": 1555500752,
+  "status": "active"
+}
