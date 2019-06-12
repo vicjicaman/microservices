@@ -1,8 +1,8 @@
 {
   "pluginid": "namespace",
   "fullname": "@nebulario/repoflow-plugin-namespace",
-  "version": "1.0.0-master",
-  "created": 1555402914,
-  "updated": 1555402914,
+  "version": "linked",
+  "created": 1560327039,
+  "updated": 1560327039,
   "status": "active"
 }

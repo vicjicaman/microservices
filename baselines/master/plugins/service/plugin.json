@@ -1,8 +1,8 @@
 {
   "pluginid": "service",
   "fullname": "@nebulario/repoflow-plugin-service",
-  "version": "1.0.0-master",
-  "created": 1554891546,
-  "updated": 1554891546,
+  "version": "linked",
+  "created": 1560327057,
+  "updated": 1560327057,
   "status": "active"
 }
