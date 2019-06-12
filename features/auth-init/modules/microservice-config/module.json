@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-config.git",
   "fullname": "microservice-config",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "General configuration for microservices",
   "created": 1555569560,
   "updated": 1555569560,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "572e5d3d459ffd4c651c2179c6761730ae71f731",
+    "message": "Add initial configuration to namespace and service\n"
+  }
 }
