@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-config",
+  "mode": "prod",
+  "version": "1.70.0-auth-init-prod",
+  "fullname": "microservice-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "572e5d3d459ffd4c651c2179c6761730ae71f731",
+    "message": "Add initial configuration to namespace and service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1560369566,
+  "updated": 1560369566,
+  "status": "active"
+}
