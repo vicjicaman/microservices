@@ -1,8 +1,8 @@
 {
   "pluginid": "config",
   "fullname": "@nebulario/repoflow-plugin-config",
-  "version": "linked",
-  "created": 1560326915,
-  "updated": 1560326915,
+  "version": "default",
+  "created": 1560335375,
+  "updated": 1560335375,
   "status": "active"
 }
