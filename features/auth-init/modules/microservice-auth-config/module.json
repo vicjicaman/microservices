@@ -2,7 +2,7 @@
   "moduleid": "microservice-auth-config",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "fullname": "microservice-auth-config",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "iteration": {
     "mode": "prod"
   },
