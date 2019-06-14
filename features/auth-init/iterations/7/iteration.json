@@ -1,0 +1,29 @@
+{
+  "iterationid": 7,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-graph-config",
+    "microservice-auth-config",
+    "microservice-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-graph-config",
+      "version": "1.70.6-auth-init-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "version": "1.70.6-auth-init-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-config",
+      "version": "1.70.6-auth-init-prod",
+      "iterationid": 7
+    }
+  ],
+  "created": 1560511651,
+  "updated": 1560511651,
+  "status": "active"
+}
