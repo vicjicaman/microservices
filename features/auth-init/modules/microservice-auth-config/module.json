@@ -14,7 +14,7 @@
   "updated": 1555835788,
   "status": "active",
   "commit": {
-    "commitid": "8e1f6e9fad5cd660534e5f92389cdf311089723b",
-    "message": "Add microservices build for namespace and service\n"
+    "commitid": "4585b889f021939716583265b6b2305485c64b7b",
+    "message": "Ignore tmp content\n"
   }
 }

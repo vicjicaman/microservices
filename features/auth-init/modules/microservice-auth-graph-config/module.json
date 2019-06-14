@@ -14,7 +14,7 @@
   "updated": 1555500752,
   "status": "active",
   "commit": {
-    "commitid": "7f9a39b44a74e3ba5df952ab07f0a67cbdeffaf5",
-    "message": "Add microservices build for namespace and service\n"
+    "commitid": "53f93535fabac094b84c7cc4b3449d9cccfaf95e",
+    "message": "Modify config to fullname url\n"
   }
 }

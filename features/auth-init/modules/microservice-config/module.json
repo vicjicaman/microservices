@@ -14,7 +14,7 @@
   "updated": 1555569560,
   "status": "active",
   "commit": {
-    "commitid": "572e5d3d459ffd4c651c2179c6761730ae71f731",
-    "message": "Add initial configuration to namespace and service\n"
+    "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
+    "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
   }
 }
