@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-config",
+  "mode": "prod",
+  "version": "1.70.3-auth-init-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "53f93535fabac094b84c7cc4b3449d9cccfaf95e",
+    "message": "Modify config to fullname url\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1560508865,
+  "updated": 1560508865,
+  "status": "active"
+}
