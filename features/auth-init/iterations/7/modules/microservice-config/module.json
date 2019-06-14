@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
+    "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
+  },
   "iterate": {
     "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
     "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
+    "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
+  },
   "releasedOn": 7,
   "created": 1560511651,
   "updated": 1560511651,
