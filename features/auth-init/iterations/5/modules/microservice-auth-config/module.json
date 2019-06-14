@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-config",
+  "mode": "prod",
+  "version": "1.70.4-auth-init-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4585b889f021939716583265b6b2305485c64b7b",
+    "message": "Ignore tmp content\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1560510557,
+  "updated": 1560510557,
+  "status": "active"
+}
