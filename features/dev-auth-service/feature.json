@@ -1,0 +1,8 @@
+{
+  "featureid": "dev-auth-service",
+  "baselineid": "master",
+  "description": "-  Development buffer for auth service",
+  "created": 1560512527,
+  "updated": 1560512527,
+  "status": "active"
+}

@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-service",
+  "baselineid": "master",
+  "description": "- Initial service and graph for auth",
+  "created": 1560512412,
+  "updated": 1560512412,
+  "status": "active"
+}
