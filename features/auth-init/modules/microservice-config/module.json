@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-config.git",
   "fullname": "github.com:vicjicaman/microservice-config.git",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
