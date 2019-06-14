@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph-config",
+  "mode": "prod",
+  "version": "1.70.6-auth-init-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "publish": {
+    "commitid": "68dbc59637f211e80c342ac276c829a0358b9593",
+    "message": "Sync to iteration dependencies\n"
+  },
+  "iterate": {
+    "commitid": "f16d8e07858533a7e52214689a0789e74f4ed6de",
+    "message": "ITERATION:6\n"
+  },
+  "mergeback": {
+    "commitid": "e0409a6ccedac0aa6926d51f86a4b8ff7d194072",
+    "message": "ITERATION:7\n"
+  },
+  "releasedOn": 7,
+  "created": 1560511651,
+  "updated": 1560511651,
+  "status": "active"
+}

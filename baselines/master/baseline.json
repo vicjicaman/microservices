@@ -6,7 +6,11 @@
       "releaseid": "auth-init"
     }
   ],
-  "hierarchy": [],
+  "hierarchy": [
+    "microservice-auth-graph-config",
+    "microservice-auth-config",
+    "microservice-config"
+  ],
   "created": 1553563478,
   "updated": 1553563478,
   "status": "active"

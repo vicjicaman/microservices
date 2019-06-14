@@ -1,6 +1,6 @@
 {
   "releaseid": "auth-init",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-graph-config",
     "microservice-auth-config",

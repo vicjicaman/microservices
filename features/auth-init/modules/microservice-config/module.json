@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General configuration for microservices",
+  "created": 1555569560,
+  "updated": 1555569560,
+  "status": "active",
+  "commit": {
+    "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
+    "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
+  }
+}
