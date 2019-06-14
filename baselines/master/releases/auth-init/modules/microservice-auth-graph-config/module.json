@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-init",
+  "moduleid": "microservice-auth-graph-config",
+  "version": "1.70.0-master",
+  "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "e0409a6ccedac0aa6926d51f86a4b8ff7d194072",
+    "message": "ITERATION:7\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Configuration for the graph and events service",
+  "dependencies": [],
+  "created": 1560512069,
+  "updated": 1560512069,
+  "status": "active"
+}
