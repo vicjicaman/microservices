@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-config.git",
   "fullname": "github.com:vicjicaman/microservice-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "General configuration for microservices",
   "created": 1567387236,
   "updated": 1567387236,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d807e6419d7b08e2b15e835c64b82029ae12e5af",
+    "message": "Namespace, ingress, service and deployment base\n"
+  }
 }

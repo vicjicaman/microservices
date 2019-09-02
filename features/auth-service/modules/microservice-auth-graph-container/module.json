@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the auth graph",
   "created": 1567428512,
   "updated": 1567428512,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5d73371d4d3631b42ec498a6a9508a3cdfb7eb9b",
+    "message": "Namespace, ingress, service and deployment base\n"
+  }
 }

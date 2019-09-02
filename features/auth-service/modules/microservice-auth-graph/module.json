@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1567428928,
   "updated": 1567428928,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9fba16830ee0b6ee8f030c6b1de5d1488001ef80",
+    "message": "Namespace, ingress, service and deployment base\n"
+  }
 }

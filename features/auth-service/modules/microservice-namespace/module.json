@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-namespace.git",
   "fullname": "microservice-namespace",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Namespace for the microservices demo",
   "created": 1567387458,
   "updated": 1567387458,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "305ca8f03f66a9a9594d0a4e488f07cb731b94c0",
+    "message": "Namespace, ingress, service and deployment base\n"
+  }
 }

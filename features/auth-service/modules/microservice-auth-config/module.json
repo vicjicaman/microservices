@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-config.git",
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "General configuration for auth service, web, graph and others",
   "created": 1567387232,
   "updated": 1567387232,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "27c30e9491a0254fdad060040b85bd1f109606d4",
+    "message": "RELEASE:auth-init:1.70.0-master\n"
+  }
 }
