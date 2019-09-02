@@ -1,8 +1,16 @@
 {
   "baselineid": "master",
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
-  "releases": [],
-  "hierarchy": [],
+  "releases": [
+    {
+      "releaseid": "auth-init"
+    }
+  ],
+  "hierarchy": [
+    "microservice-auth-graph-config",
+    "microservice-auth-config",
+    "microservice-config"
+  ],
   "created": 1553563478,
   "updated": 1553563478,
   "status": "active"

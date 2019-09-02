@@ -1,0 +1,12 @@
+{
+  "releaseid": "auth-init",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-auth-graph-config",
+    "microservice-auth-config",
+    "microservice-config"
+  ],
+  "created": 1560512069,
+  "updated": 1560512069,
+  "status": "active"
+}

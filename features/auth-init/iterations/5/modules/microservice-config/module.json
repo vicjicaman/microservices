@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-config",
+  "mode": "prod",
+  "version": "1.70.4-auth-init-prod",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "publish": {
+    "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
+    "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
+  },
+  "iterate": {
+    "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
+    "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
+  },
+  "mergeback": {
+    "commitid": "e5e3de8a7b4667fa43ac8c10f723f61f8629b12f",
+    "message": "Merge remote-tracking branch 'origin/auth-init/master' into auth-init/master\n"
+  },
+  "releasedOn": 5,
+  "created": 1560510557,
+  "updated": 1560510557,
+  "status": "active"
+}
