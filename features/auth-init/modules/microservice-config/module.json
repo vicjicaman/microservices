@@ -2,7 +2,7 @@
   "moduleid": "microservice-config",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-config.git",
-  "fullname": "microservice-config",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
   "iteration": {
     "mode": "dev"
   },
