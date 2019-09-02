@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "prod",
+  "version": "1.70.0-auth-service-prod",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "305ca8f03f66a9a9594d0a4e488f07cb731b94c0",
+    "message": "Namespace, ingress, service and deployment base\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567463451,
+  "updated": 1567463451,
+  "status": "active"
+}
