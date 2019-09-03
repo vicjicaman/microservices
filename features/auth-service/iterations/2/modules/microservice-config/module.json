@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-config",
+  "mode": "prod",
+  "version": "1.70.1-auth-service-prod",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d807e6419d7b08e2b15e835c64b82029ae12e5af",
+    "message": "Namespace, ingress, service and deployment base\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1567482437,
+  "updated": 1567482437,
+  "status": "active"
+}

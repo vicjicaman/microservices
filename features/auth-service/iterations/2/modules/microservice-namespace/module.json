@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "prod",
+  "version": "1.70.1-auth-service-prod",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2f388ec21bb1fc18f42d3590565cdf0c754ddf21",
+    "message": "Test change version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1567482437,
+  "updated": 1567482437,
+  "status": "active"
+}

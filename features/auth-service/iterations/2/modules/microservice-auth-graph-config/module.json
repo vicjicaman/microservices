@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-config",
+  "mode": "prod",
+  "version": "1.70.1-auth-service-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f77ea2a0d688eb9a404e8e0dbeb126c420d7639d",
+    "message": "RELEASE:auth-init:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1567482437,
+  "updated": 1567482437,
+  "status": "active"
+}
