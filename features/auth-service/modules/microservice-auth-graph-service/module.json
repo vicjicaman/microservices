@@ -14,7 +14,7 @@
   "updated": 1567392753,
   "status": "active",
   "commit": {
-    "commitid": "1748fd73887d78efbf3bc205e5f9976717d67c34",
-    "message": "Namespace, ingress, service and deployment base\n"
+    "commitid": "965668591298451608b2ef3e43af72e8a8a864ef",
+    "message": "Test change version\n"
   }
 }
