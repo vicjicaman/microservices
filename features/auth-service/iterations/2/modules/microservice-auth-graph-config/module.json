@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ec3e2e47fcec0fa9dc8ce2040f2de28987536805",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "f77ea2a0d688eb9a404e8e0dbeb126c420d7639d",
     "message": "RELEASE:auth-init:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "18543861ea679999f4823861dc567cef432516af",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1567482437,
   "updated": 1567482437,
