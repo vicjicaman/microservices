@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the auth graph",
   "created": 1567607593,
   "updated": 1567607593,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b22e7ad2100a8d1e009a962b2697967a3fdb6e7f",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  }
 }

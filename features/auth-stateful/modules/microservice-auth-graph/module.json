@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1567607600,
   "updated": 1567607600,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ee61c2dbdce8b16f06bcc69593cb04c65b1ec226",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  }
 }

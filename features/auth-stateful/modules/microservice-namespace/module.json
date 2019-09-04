@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-namespace.git",
   "fullname": "microservice-namespace",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Namespace for the microservices demo",
   "created": 1567607584,
   "updated": 1567607584,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e56bc20c64f6b1f4e8db3d896efdcd85acab878d",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  }
 }
