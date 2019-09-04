@@ -5,15 +5,70 @@
   "fullname": "microservice-auth-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a9a25c311bd728958b4f3d707a102754ed3a7664",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "8514b8980cf1bb1cf9b274767bdb330428830130",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "548a8f09b5c43ed8becdddf2b8b8132b0c8cde62",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Graph service for the user auth",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-graph-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|deployment.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-graph-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "deployment.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "deployment.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-graph-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-graph-config.version"
+    }
+  ],
   "created": 1567566671,
   "updated": 1567566671,
   "status": "active"

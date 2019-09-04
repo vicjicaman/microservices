@@ -1,6 +1,6 @@
 {
   "releaseid": "auth-service",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-graph-service",
     "microservice-namespace",

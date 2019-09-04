@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "mode": "prod",
+  "version": "1.70.0-auth-service-prod",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9fba16830ee0b6ee8f030c6b1de5d1488001ef80",
+    "message": "Namespace, ingress, service and deployment base\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567463451,
+  "updated": 1567463451,
+  "status": "active"
+}
