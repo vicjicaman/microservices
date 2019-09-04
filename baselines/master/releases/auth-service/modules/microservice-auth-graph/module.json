@@ -5,15 +5,78 @@
   "fullname": "@nebulario/microservice-auth-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d81d46e6321fded7c0d68c8045bfcd3adf32c426",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "e646428901ddce2d0efc69e5de8b374d4f94173b",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ee61c2dbdce8b16f06bcc69593cb04c65b1ec226",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Service app for the auth graph ",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/microservice-auth-graph",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.dotenv",
+      "fullname": "dotenv",
+      "version": "^7.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.dotenv"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express",
+      "fullname": "express",
+      "version": "^4.16.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express-graphql",
+      "fullname": "express-graphql",
+      "version": "^0.7.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express-graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql",
+      "fullname": "graphql",
+      "version": "^14.2.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-tools",
+      "fullname": "graphql-tools",
+      "version": "^4.0.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-tools"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-tools-types",
+      "fullname": "graphql-tools-types",
+      "version": "^1.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-tools-types"
+    }
+  ],
   "created": 1567566671,
   "updated": 1567566671,
   "status": "active"

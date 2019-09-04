@@ -2,13 +2,43 @@
   "moduleid": "microservice-auth-graph-config",
   "releases": [
     {
+      "releaseid": "auth-service"
+    },
+    {
       "releaseid": "auth-init"
     }
   ],
   "created": 1560512228,
   "updated": 1560512228,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-graph-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-graph-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-graph-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-graph-config.version"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "microservice-config",
@@ -16,7 +46,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
           "fullname": "github.com:vicjicaman/microservice-config.git",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"
@@ -29,7 +59,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
