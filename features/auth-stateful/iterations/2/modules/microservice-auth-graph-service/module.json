@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.1-auth-stateful-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "724ed0e17b58c57ac790af7bb16141afb3b68516",
+    "message": "Remove invalid updated version for container\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1567638157,
+  "updated": 1567638157,
+  "status": "active"
+}
