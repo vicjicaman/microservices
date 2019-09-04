@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9504740a2aab4c98811d2cc88ba4153b7b134191",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "fd95a34d08a152a1ea721e70883427425d71aaf5",
     "message": "Add moduleid and version to labels\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "fecbe0c38e31505082a49ce538230366f575ce91",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1567638157,
   "updated": 1567638157,

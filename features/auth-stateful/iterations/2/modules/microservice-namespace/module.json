@@ -5,12 +5,18 @@
   "fullname": "microservice-namespace",
   "type": "namespace",
   "url": "github.com:vicjicaman/microservice-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e56bc20c64f6b1f4e8db3d896efdcd85acab878d",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
   "iterate": {
     "commitid": "e56bc20c64f6b1f4e8db3d896efdcd85acab878d",
     "message": "RELEASE:auth-service:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e56bc20c64f6b1f4e8db3d896efdcd85acab878d",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
   "releasedOn": 2,
   "created": 1567638157,
   "updated": 1567638157,

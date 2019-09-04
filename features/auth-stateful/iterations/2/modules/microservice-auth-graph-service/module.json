@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6e2c1d496d46a00323cc9bc907f97ea4b7500a32",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "724ed0e17b58c57ac790af7bb16141afb3b68516",
     "message": "Remove invalid updated version for container\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6d08f76168b305168a70518f6ef07b24289d5ade",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1567638157,
   "updated": 1567638157,

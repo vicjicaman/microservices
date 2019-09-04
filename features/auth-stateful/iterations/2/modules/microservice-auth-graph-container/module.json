@@ -5,12 +5,18 @@
   "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1556ff3e05100bf7e2e1ed45ab7dec45ab086060",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "b22e7ad2100a8d1e009a962b2697967a3fdb6e7f",
     "message": "RELEASE:auth-service:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8a048ec56789e9e5e7aa25a9cd23bc4200f206a3",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1567638157,
   "updated": 1567638157,
