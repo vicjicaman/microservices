@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-stateful-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b22e7ad2100a8d1e009a962b2697967a3fdb6e7f",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567625368,
+  "updated": 1567625368,
+  "status": "active"
+}

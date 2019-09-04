@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "mode": "prod",
+  "version": "1.70.0-auth-stateful-prod",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ee61c2dbdce8b16f06bcc69593cb04c65b1ec226",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567625368,
+  "updated": 1567625368,
+  "status": "active"
+}
