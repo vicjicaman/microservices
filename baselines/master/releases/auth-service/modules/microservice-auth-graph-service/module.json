@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-service",
+  "moduleid": "microservice-auth-graph-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "8514b8980cf1bb1cf9b274767bdb330428830130",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph service for the user auth",
+  "dependencies": [],
+  "created": 1567566671,
+  "updated": 1567566671,
+  "status": "active"
+}
