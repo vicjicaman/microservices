@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "fullname": "microservice-auth-graph-service",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Graph service for the user auth",
+  "created": 1567607596,
+  "updated": 1567607596,
+  "status": "active"
+}
