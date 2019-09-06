@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-stateful",
+  "moduleid": "microservice-auth-data",
+  "version": "1.70.0-master",
+  "fullname": "microservice-auth-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "publish": null,
+  "released": {
+    "commitid": "39a11f8c40cec526a5083c11a86008513e14dbbf",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service for auth data\nThis is a doc database 1 replica set",
+  "dependencies": [],
+  "created": 1567791097,
+  "updated": 1567791097,
+  "status": "active"
+}
