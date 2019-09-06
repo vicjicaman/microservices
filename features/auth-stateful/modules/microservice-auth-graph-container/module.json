@@ -14,7 +14,7 @@
   "updated": 1567607593,
   "status": "active",
   "commit": {
-    "commitid": "b22e7ad2100a8d1e009a962b2697967a3fdb6e7f",
-    "message": "RELEASE:auth-service:1.70.0-master\n"
+    "commitid": "df0c23381d4cca93e3be0a36c6933a7cd253896a",
+    "message": "Add mongo connection and stateful service\n"
   }
 }

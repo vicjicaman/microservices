@@ -14,7 +14,7 @@
   "updated": 1567607596,
   "status": "active",
   "commit": {
-    "commitid": "724ed0e17b58c57ac790af7bb16141afb3b68516",
-    "message": "Remove invalid updated version for container\n"
+    "commitid": "cefa8e7999264cb26e0f5991996540dd2622205f",
+    "message": "Add mongo connection and stateful service\n"
   }
 }

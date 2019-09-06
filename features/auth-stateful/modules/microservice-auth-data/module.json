@@ -14,7 +14,7 @@
   "updated": 1567608191,
   "status": "active",
   "commit": {
-    "commitid": "fd95a34d08a152a1ea721e70883427425d71aaf5",
-    "message": "Add moduleid and version to labels\n"
+    "commitid": "54b7e19611e62685750211238bba2f8f7d371d04",
+    "message": "Add mongo connection and stateful service\n"
   }
 }
