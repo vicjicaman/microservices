@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "mode": "prod",
+  "version": "1.70.2-auth-stateful-prod",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2ae702f4915cffad979cb532dba6007108327782",
+    "message": "Add mongo connection and stateful service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1567788802,
+  "updated": 1567788802,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.2-auth-stateful-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "df0c23381d4cca93e3be0a36c6933a7cd253896a",
+    "message": "Add mongo connection and stateful service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1567788802,
+  "updated": 1567788802,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.2-auth-stateful-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "cefa8e7999264cb26e0f5991996540dd2622205f",
+    "message": "Add mongo connection and stateful service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1567788802,
+  "updated": 1567788802,
+  "status": "active"
+}
