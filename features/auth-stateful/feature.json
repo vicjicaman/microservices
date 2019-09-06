@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-stateful",
+  "baselineid": "master",
+  "description": "- Kubernertes service for auth database",
+  "created": 1560512800,
+  "updated": 1560512800,
+  "status": "active"
+}

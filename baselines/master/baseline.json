@@ -3,10 +3,21 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "auth-stateful"
+    },
+    {
+      "releaseid": "auth-service"
+    },
+    {
       "releaseid": "auth-init"
     }
   ],
   "hierarchy": [
+    "microservice-auth-data",
+    "microservice-auth-graph-service",
+    "microservice-namespace",
+    "microservice-auth-graph-container",
+    "microservice-auth-graph",
     "microservice-auth-graph-config",
     "microservice-auth-config",
     "microservice-config"

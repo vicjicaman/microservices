@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-service-prod",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5d73371d4d3631b42ec498a6a9508a3cdfb7eb9b",
+    "message": "Namespace, ingress, service and deployment base\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567463451,
+  "updated": 1567463451,
+  "status": "active"
+}

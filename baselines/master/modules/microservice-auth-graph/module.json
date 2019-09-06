@@ -1,0 +1,30 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "releases": [
+    {
+      "releaseid": "auth-stateful"
+    },
+    {
+      "releaseid": "auth-service"
+    }
+  ],
+  "created": 1567567491,
+  "updated": 1567567491,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-graph",
+          "fullname": "@nebulario/microservice-auth-graph",
+          "version": "1.70.1-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-auth-graph"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the auth graph",
+  "created": 1567428512,
+  "updated": 1567428512,
+  "status": "active",
+  "commit": {
+    "commitid": "c811d3995718048336a3c84c0af71399cc802d99",
+    "message": "ITERATION:2\n"
+  }
+}

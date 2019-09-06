@@ -1,0 +1,14 @@
+{
+  "releaseid": "auth-stateful",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-auth-data",
+    "microservice-auth-graph-service",
+    "microservice-namespace",
+    "microservice-auth-graph-container",
+    "microservice-auth-graph"
+  ],
+  "created": 1567791096,
+  "updated": 1567791096,
+  "status": "active"
+}

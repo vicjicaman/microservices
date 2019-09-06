@@ -1,0 +1,16 @@
+{
+  "releaseid": "auth-service",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-auth-graph-service",
+    "microservice-namespace",
+    "microservice-auth-graph-container",
+    "microservice-auth-graph",
+    "microservice-auth-graph-config",
+    "microservice-auth-config",
+    "microservice-config"
+  ],
+  "created": 1567566671,
+  "updated": 1567566671,
+  "status": "active"
+}

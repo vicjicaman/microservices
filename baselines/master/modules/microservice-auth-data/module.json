@@ -1,0 +1,27 @@
+{
+  "moduleid": "microservice-auth-data",
+  "releases": [
+    {
+      "releaseid": "auth-stateful"
+    }
+  ],
+  "created": 1567791784,
+  "updated": 1567791784,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    }
+  ]
+}

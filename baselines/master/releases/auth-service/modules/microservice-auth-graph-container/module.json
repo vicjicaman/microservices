@@ -1,0 +1,43 @@
+{
+  "releaseid": "auth-service",
+  "moduleid": "microservice-auth-graph-container",
+  "version": "1.70.0-master",
+  "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": {
+    "commitid": "d8faf1727e12b8886579c7d2da831ba91842fa6f",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "c811d3995718048336a3c84c0af71399cc802d99",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "b22e7ad2100a8d1e009a962b2697967a3fdb6e7f",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container for the auth graph",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-graph",
+      "fullname": "@nebulario/microservice-auth-graph",
+      "version": "1.70.0-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-auth-graph"
+    }
+  ],
+  "created": 1567566671,
+  "updated": 1567566671,
+  "status": "active"
+}

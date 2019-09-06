@@ -1,0 +1,43 @@
+{
+  "releaseid": "auth-service",
+  "moduleid": "microservice-auth-graph-config",
+  "version": "1.70.1-master",
+  "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
+  "publish": {
+    "commitid": "0984626bbe61facf84e42873f553228bbb391e81",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "18543861ea679999f4823861dc567cef432516af",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "573b5fba59d53cbccb4fbc49924b8f4e7c57a4e2",
+    "message": "RELEASE:auth-service:1.70.1-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Configuration for the graph and events service",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    }
+  ],
+  "created": 1567566671,
+  "updated": 1567566671,
+  "status": "active"
+}

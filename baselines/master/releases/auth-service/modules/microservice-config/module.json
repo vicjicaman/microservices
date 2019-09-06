@@ -1,0 +1,26 @@
+{
+  "releaseid": "auth-service",
+  "moduleid": "microservice-config",
+  "version": "1.70.1-master",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "publish": {
+    "commitid": "d807e6419d7b08e2b15e835c64b82029ae12e5af",
+    "message": "Namespace, ingress, service and deployment base\n"
+  },
+  "released": {
+    "commitid": "d807e6419d7b08e2b15e835c64b82029ae12e5af",
+    "message": "Namespace, ingress, service and deployment base\n"
+  },
+  "mergeback": {
+    "commitid": "9d3e2f69c60f48230df675e59a51530032dffd41",
+    "message": "RELEASE:auth-service:1.70.1-master\n"
+  },
+  "releaseType": "patch",
+  "description": "General configuration for microservices",
+  "dependencies": [],
+  "created": 1567566671,
+  "updated": 1567566671,
+  "status": "active"
+}

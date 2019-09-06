@@ -1,0 +1,41 @@
+{
+  "iterationid": 1,
+  "phase": "invalid",
+  "hierarchy": [
+    "microservice-auth-data",
+    "microservice-auth-graph-service",
+    "microservice-namespace",
+    "microservice-auth-graph-container",
+    "microservice-auth-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-data",
+      "iterationid": 1,
+      "version": "1.70.0-auth-stateful-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-auth-stateful-prod"
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "iterationid": 1,
+      "version": "1.70.0-auth-stateful-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-stateful-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "iterationid": 1,
+      "version": "1.70.0-auth-stateful-prod"
+    }
+  ],
+  "created": 1567625367,
+  "updated": 1567625367,
+  "status": "active"
+}

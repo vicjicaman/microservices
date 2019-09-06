@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-data",
+  "mode": "prod",
+  "version": "1.70.0-auth-stateful-prod",
+  "fullname": "microservice-auth-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fd95a34d08a152a1ea721e70883427425d71aaf5",
+    "message": "Add moduleid and version to labels\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1567625367,
+  "updated": 1567625367,
+  "status": "active"
+}

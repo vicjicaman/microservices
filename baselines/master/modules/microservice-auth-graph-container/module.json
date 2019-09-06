@@ -1,0 +1,44 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "releases": [
+    {
+      "releaseid": "auth-stateful"
+    },
+    {
+      "releaseid": "auth-service"
+    }
+  ],
+  "created": 1567567491,
+  "updated": 1567567491,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "919446158824.dkr.ecr.us-east-1.amazonaws.com/microservice-auth-graph-container",
+          "version": "1.70.1-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-auth-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-graph",
+          "fullname": "@nebulario/microservice-auth-graph",
+          "version": "1.70.1-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-auth-graph"
+        }
+      ]
+    }
+  ]
+}

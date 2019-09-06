@@ -1,0 +1,35 @@
+{
+  "releaseid": "auth-service",
+  "moduleid": "microservice-auth-config",
+  "version": "1.70.1-master",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": {
+    "commitid": "26d28845ab8483aa4e363d5580bdedcb51e24ce2",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "363288c31003a9e2c0aa902a58860d40f81e7eff",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "7a27e3d06d36a3ae579462ad098bbc997f88512b",
+    "message": "RELEASE:auth-service:1.70.1-master\n"
+  },
+  "releaseType": "patch",
+  "description": "General configuration for auth service, web, graph and others",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
+  "created": 1567566671,
+  "updated": 1567566671,
+  "status": "active"
+}

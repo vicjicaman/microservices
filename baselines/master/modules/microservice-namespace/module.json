@@ -1,0 +1,56 @@
+{
+  "moduleid": "microservice-namespace",
+  "releases": [
+    {
+      "releaseid": "auth-stateful"
+    },
+    {
+      "releaseid": "auth-service"
+    }
+  ],
+  "created": 1567567491,
+  "updated": 1567567491,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-graph-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-graph-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-graph-config.version"
+        }
+      ]
+    }
+  ]
+}
