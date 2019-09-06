@@ -1,6 +1,6 @@
 {
   "releaseid": "auth-stateful",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-data",
     "microservice-auth-graph-service",
