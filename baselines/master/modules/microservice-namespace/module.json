@@ -2,6 +2,9 @@
   "moduleid": "microservice-namespace",
   "releases": [
     {
+      "releaseid": "auth-stateful"
+    },
+    {
       "releaseid": "auth-service"
     }
   ],
