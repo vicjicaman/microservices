@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-stateful",
+  "moduleid": "microservice-namespace",
+  "version": "1.70.1-master",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "e56bc20c64f6b1f4e8db3d896efdcd85acab878d",
+    "message": "RELEASE:auth-service:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Namespace for the microservices demo",
+  "dependencies": [],
+  "created": 1567791097,
+  "updated": 1567791097,
+  "status": "active"
+}
