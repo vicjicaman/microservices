@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b3590f9664142ec579dd8d0aa3920aa1309d5f81",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "54b7e19611e62685750211238bba2f8f7d371d04",
     "message": "Add mongo connection and stateful service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "39a11f8c40cec526a5083c11a86008513e14dbbf",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1567788802,
   "updated": 1567788802,

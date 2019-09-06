@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-auth-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3fbcda710288c591f61183614d37949b3a0d4178",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "2ae702f4915cffad979cb532dba6007108327782",
     "message": "Add mongo connection and stateful service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7e2aba10177b561b3d54bf8734db5237605f1bc3",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1567788802,
   "updated": 1567788802,
