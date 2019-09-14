@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "mode": "prod",
+  "version": "1.70.1-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "45e4ac1fbc5b59a86416890a990d7bf8d49bc6ec",
+    "message": "Replace published iteration numbers env variables to strings\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568497307,
+  "updated": 1568497307,
+  "status": "active"
+}

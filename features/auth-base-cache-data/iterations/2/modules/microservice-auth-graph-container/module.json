@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.1-auth-base-cache-data-prod",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f8dda368bbc5f599b7837a8174b3661ccbc4d2d8",
+    "message": "Remove .yarn-integrity\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568497307,
+  "updated": 1568497307,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "mode": "prod",
+  "version": "1.70.1-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "67f81b07920e72df932a37d86c6b6efbe166c708",
+    "message": "Replace published iteration numbers env variables to strings\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568497307,
+  "updated": 1568497307,
+  "status": "active"
+}

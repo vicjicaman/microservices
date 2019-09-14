@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.1-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9a0bbcc2c684a165a101e9e1de1c97c18a17c1cb",
+    "message": "Replace published iteration numbers env variables to strings\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568497307,
+  "updated": 1568497307,
+  "status": "active"
+}
