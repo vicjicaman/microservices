@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
   "fullname": "microservice-auth-web-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes service and deployment for the web app",
   "created": 1568487905,
   "updated": 1568487905,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "265e19cc9050547fa53fc448da9a16e7bb0a2dae",
+    "message": "Fix port string to number replace\n"
+  }
 }

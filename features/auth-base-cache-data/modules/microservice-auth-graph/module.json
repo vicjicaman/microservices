@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1568490763,
   "updated": 1568490763,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9e5181e47a4db4c87a761feddcf9c856f6d57f0a",
+    "message": "Fix port string to number replace\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
   "fullname": "repoflow/microservice-auth-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the auth graph",
   "created": 1568490742,
   "updated": 1568490742,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f2f7db1ff649535c29e0d758f2c9403df0297d2b",
+    "message": "Fix port string to number replace\n"
+  }
 }

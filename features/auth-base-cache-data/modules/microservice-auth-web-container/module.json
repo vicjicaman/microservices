@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
   "fullname": "repoflow/microservice-auth-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the web app",
   "created": 1568490734,
   "updated": 1568490734,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "06bea3100f4789401217d6371995896f21edac34",
+    "message": "RELEASE:dev-auth-service:1.70.0-master\n"
+  }
 }

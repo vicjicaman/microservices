@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-cache.git",
   "fullname": "microservice-auth-cache",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Redis service to store auth sessions",
   "created": 1568481986,
   "updated": 1568481986,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "fd61f389245923d105f50eae4234d783732e9fe6",
+    "message": "Fix port string to number replace\n"
+  }
 }
