@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-layout",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "@nebulario/microservice-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-layout.git",
+  "publish": {
+    "commitid": "66adc5550d84f0beecaa15f32978425d3a922820",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "c4a8ea632fd306ee593ab4b2033f91329b2c1714",
+    "message": "Common shared components for microservices layout\n"
+  },
+  "mergeback": {
+    "commitid": "ff7d6c9ebe5035a79ebfee1cc94961bc9ed6dd0d",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}

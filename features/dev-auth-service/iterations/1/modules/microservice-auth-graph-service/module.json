@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": {
+    "commitid": "de802d1cac3b3325204639e2893525b33a7c8e32",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "d4a4e746a0a86cebc40c9b4ddfb30ba0a7306b27",
+    "message": "Add cache service config\n"
+  },
+  "mergeback": {
+    "commitid": "95e9f73aca523eb9893d9a080b4926b5710dbe12",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": {
+    "commitid": "435c0512c8d5f83da2693621405504db21fa1544",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "c89c8efbd96c8d3a964e709ea7472c02d5f20d98",
+    "message": "Add port to internal backend url for graph and events\n"
+  },
+  "mergeback": {
+    "commitid": "454c3bb4dc77f1a46879573f384efb20c4c494d1",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}

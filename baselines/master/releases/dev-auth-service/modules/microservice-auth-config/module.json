@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0276bef92087f28680c6bfc9965156dcac54785a",
+    "message": "Add shared layout component\n"
+  },
   "released": {
     "commitid": "0276bef92087f28680c6bfc9965156dcac54785a",
     "message": "Add shared layout component\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6b6b6b41140d39f815de3215a4e65f6907234f4b",
+    "message": "RELEASE:dev-auth-service:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "General configuration for auth service, web, graph and others",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1568477723,
   "updated": 1568477723,
   "status": "active"

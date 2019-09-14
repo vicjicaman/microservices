@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": {
+    "commitid": "23ded023c0cf8f43e746d8bab1a5534b0a32b754",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "b5dca5fd22c2dab916f09c05ebb357159760be7a",
+    "message": "Add node rights for the node_modules folders\n"
+  },
+  "mergeback": {
+    "commitid": "7a4057a7be8661ca99ef9155d9ecc05e4101c666",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}

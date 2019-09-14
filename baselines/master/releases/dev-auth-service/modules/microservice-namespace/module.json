@@ -5,15 +5,38 @@
   "fullname": "microservice-namespace",
   "type": "namespace",
   "url": "github.com:vicjicaman/microservice-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "abf8ad5b529fd792912dbd6bfb309dbd0341b2b2",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "3823f06a7734256e2908a6a42dfb9722e12322db",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "28ccf899b963d0c34b0b921645240084af0848cd",
+    "message": "RELEASE:dev-auth-service:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Namespace for the microservices demo",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    }
+  ],
   "created": 1568477723,
   "updated": 1568477723,
   "status": "active"
