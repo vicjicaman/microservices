@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-web-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "acd229ed1dd1cd39462f6ba2b31ba58792921afe",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "45e4ac1fbc5b59a86416890a990d7bf8d49bc6ec",
     "message": "Replace published iteration numbers env variables to strings\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "772f3476848615296579359f78d212fe9c711f3c",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1568497307,
   "updated": 1568497307,

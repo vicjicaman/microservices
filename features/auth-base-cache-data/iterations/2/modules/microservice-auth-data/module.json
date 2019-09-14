@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "30d6c555d12bb5ac9bf08d79f0bee48ed0509eac",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "f89cdd182cee1a0c2561393e2abc12a0235e5429",
     "message": "Replace published iteration numbers env variables to strings\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d6c253de5d1aeb86fb720c25471527c93b1d836c",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1568497307,
   "updated": 1568497307,
