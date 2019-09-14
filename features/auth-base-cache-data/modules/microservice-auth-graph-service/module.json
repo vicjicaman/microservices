@@ -14,7 +14,7 @@
   "updated": 1568487896,
   "status": "active",
   "commit": {
-    "commitid": "a4399e475b9ff39eebef01b836d2e7b91b76c6cb",
-    "message": "Test with port string conversion\n"
+    "commitid": "6108bc14aba2bb079ffafa0c0f6a588e9259a1cb",
+    "message": "Test string port fix for cluster entities\n"
   }
 }
