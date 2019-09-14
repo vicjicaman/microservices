@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "fullname": "microservice-auth-web-service",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Kubernetes service and deployment for the web app",
+  "created": 1567896887,
+  "updated": 1567896887,
+  "status": "active",
+  "commit": {
+    "commitid": "454c3bb4dc77f1a46879573f384efb20c4c494d1",
+    "message": "ITERATION:1\n"
+  }
+}

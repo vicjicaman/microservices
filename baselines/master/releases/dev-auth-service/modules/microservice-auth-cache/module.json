@@ -1,0 +1,75 @@
+{
+  "releaseid": "dev-auth-service",
+  "moduleid": "microservice-auth-cache",
+  "version": "1.70.0-master",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": {
+    "commitid": "b680905a41e653735f0a1ac6fba4bb27409dbe9b",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "267c4f1f5b20029828bac097cb7d7996f69f879e",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "768c4615d49ba01c864c9f9797e400bbd2e6cf94",
+    "message": "RELEASE:dev-auth-service:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Redis service to store auth sessions",
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-cache",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-cache",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|spec.template.metadata.labels.version",
+      "fullname": "microservice-auth-cache",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "spec.template.metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|stateful.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "redis",
+      "version": "3.2-alpine",
+      "kind": "container",
+      "filename": "stateful.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    }
+  ],
+  "created": 1568477723,
+  "updated": 1568477723,
+  "status": "active"
+}

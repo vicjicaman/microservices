@@ -1,0 +1,131 @@
+{
+  "releaseid": "dev-auth-service",
+  "moduleid": "microservice-layout",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/microservice-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-layout.git",
+  "publish": {
+    "commitid": "cfb923463281d4a4e8386e978bad2ef17d6af262",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "ff7d6c9ebe5035a79ebfee1cc94961bc9ed6dd0d",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "98a9f16b3d1627cfca07aee8870a358b9c0bf976",
+    "message": "RELEASE:dev-auth-service:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Shared layout for microservices",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/microservice-layout",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-react",
+      "fullname": "@babel/preset-react",
+      "version": "^7.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react",
+      "fullname": "react",
+      "version": "^16.9.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.react-dom",
+      "fullname": "react-dom",
+      "version": "^16.9.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.react-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.reactstrap",
+      "fullname": "reactstrap",
+      "version": "^8.0.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.reactstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react",
+      "fullname": "react",
+      "version": "^16.3.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.react-dom",
+      "fullname": "react-dom",
+      "version": "^16.3.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.react-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|peerDependencies.reactstrap",
+      "fullname": "reactstrap",
+      "version": "^8.0.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "peerDependencies.reactstrap"
+    }
+  ],
+  "created": 1568477723,
+  "updated": 1568477723,
+  "status": "active"
+}

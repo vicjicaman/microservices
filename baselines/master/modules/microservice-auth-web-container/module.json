@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "releases": [
+    {
+      "releaseid": "dev-auth-service"
+    }
+  ],
+  "created": 1568479645,
+  "updated": 1568479645,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-auth-web-service",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-auth-web-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservices-auth-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservices-auth-web",
+          "fullname": "@nebulario/microservices-auth-web",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservices-auth-web"
+        }
+      ]
+    }
+  ]
+}

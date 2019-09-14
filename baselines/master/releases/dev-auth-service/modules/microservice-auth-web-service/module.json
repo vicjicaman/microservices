@@ -1,0 +1,67 @@
+{
+  "releaseid": "dev-auth-service",
+  "moduleid": "microservice-auth-web-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": {
+    "commitid": "2bc9eb32a91d929f41e13e834588e5d75e852527",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "454c3bb4dc77f1a46879573f384efb20c4c494d1",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "4ad07e87de579296478321c92c9c778411432e94",
+    "message": "RELEASE:dev-auth-service:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Kubernetes service and deployment for the web app",
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-web-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|deployment.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-web-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "deployment.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-auth-web-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "deployment.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    }
+  ],
+  "created": 1568477723,
+  "updated": 1568477723,
+  "status": "active"
+}

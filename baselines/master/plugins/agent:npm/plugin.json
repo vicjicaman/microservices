@@ -1,0 +1,8 @@
+{
+  "pluginid": "agent:npm",
+  "fullname": "@nebulario/repoflow-agent-npm",
+  "version": "linked",
+  "created": 1568251472,
+  "updated": 1568251472,
+  "status": "active"
+}
