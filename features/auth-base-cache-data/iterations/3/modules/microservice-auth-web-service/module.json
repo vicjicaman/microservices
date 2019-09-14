@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-web-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "553af4443384c8d8f0908868828318e03f9c0be1",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "365a1c62082fa2ecaf96cee0dc85549c0fc40e3c",
     "message": "Test with port string conversion\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "137183c641807e19ba57e45f819950e35dcb1101",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1568498244,
   "updated": 1568498244,
