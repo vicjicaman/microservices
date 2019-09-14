@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-data.git",
   "fullname": "microservice-auth-data",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service for auth data\nThis is a doc database 1 replica set",
   "created": 1568032298,
   "updated": 1568032298,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "41119b9ee5f36844395870500c5e384756c665e9",
+    "message": "Build entity's name based on the auth config\n"
+  }
 }

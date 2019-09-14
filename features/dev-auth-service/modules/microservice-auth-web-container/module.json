@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
   "fullname": "repoflow/microservice-auth-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the web app",
   "created": 1567896762,
   "updated": 1567896762,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b5dca5fd22c2dab916f09c05ebb357159760be7a",
+    "message": "Add node rights for the node_modules folders\n"
+  }
 }

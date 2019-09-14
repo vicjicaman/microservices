@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-layout.git",
   "fullname": "@nebulario/microservice-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Shared layout for microservices",
   "created": 1568165349,
   "updated": 1568165349,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c4a8ea632fd306ee593ab4b2033f91329b2c1714",
+    "message": "Common shared components for microservices layout\n"
+  }
 }

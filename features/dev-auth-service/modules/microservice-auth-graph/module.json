@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1567830037,
   "updated": 1567830037,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2752c2bfa3151bf558127592b76e64a65f00ce81",
+    "message": "Add login functionality after user register\n"
+  }
 }

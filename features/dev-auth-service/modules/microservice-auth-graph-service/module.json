@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
   "fullname": "microservice-auth-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph service for the user auth",
   "created": 1567829474,
   "updated": 1567829474,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d4a4e746a0a86cebc40c9b4ddfb30ba0a7306b27",
+    "message": "Add cache service config\n"
+  }
 }

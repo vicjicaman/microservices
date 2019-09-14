@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
   "fullname": "repoflow/microservice-auth-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the auth graph",
   "created": 1567827896,
   "updated": 1567827896,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "cf965808ce91cba2414788fd01477c16031ca72d",
+    "message": "Add node user rights to the node_modules folder\n"
+  }
 }

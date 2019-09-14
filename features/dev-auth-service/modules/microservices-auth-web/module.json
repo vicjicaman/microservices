@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservices-auth-web.git",
   "fullname": "@nebulario/microservices-auth-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Auth web UI for register, login and user profile",
   "created": 1567871114,
   "updated": 1567871114,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1ef8ddf1f54283acc0ce7a1873e7154185e3d2a7",
+    "message": "Add shared layout component\n"
+  }
 }

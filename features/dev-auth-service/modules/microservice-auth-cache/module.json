@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-cache.git",
   "fullname": "microservice-auth-cache",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Redis service to store auth sessions",
   "created": 1568051067,
   "updated": 1568051067,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c0c52cd4c998cccbd603344156ff13cb7394b863",
+    "message": "Initial cache stateful service\n"
+  }
 }

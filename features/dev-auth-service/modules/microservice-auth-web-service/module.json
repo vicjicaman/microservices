@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
   "fullname": "microservice-auth-web-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes service and deployment for the web app",
   "created": 1567896887,
   "updated": 1567896887,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c89c8efbd96c8d3a964e709ea7472c02d5f20d98",
+    "message": "Add port to internal backend url for graph and events\n"
+  }
 }
