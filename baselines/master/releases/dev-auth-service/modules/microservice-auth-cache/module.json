@@ -1,0 +1,20 @@
+{
+  "releaseid": "dev-auth-service",
+  "moduleid": "microservice-auth-cache",
+  "version": "1.70.0-master",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": null,
+  "released": {
+    "commitid": "267c4f1f5b20029828bac097cb7d7996f69f879e",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Redis service to store auth sessions",
+  "dependencies": [],
+  "created": 1568477723,
+  "updated": 1568477723,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "dev-auth-service",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-graph-service",
+    "microservice-auth-cache",
+    "microservice-auth-data",
+    "microservice-namespace",
+    "microservice-auth-web-service",
+    "microservice-auth-web-container",
+    "microservice-auth-graph-container",
+    "microservice-auth-graph",
+    "microservices-auth-web",
+    "microservice-layout",
+    "microservice-auth-config"
+  ],
+  "created": 1568477723,
+  "updated": 1568477723,
+  "status": "active"
+}

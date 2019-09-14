@@ -1,0 +1,20 @@
+{
+  "releaseid": "dev-auth-service",
+  "moduleid": "microservice-auth-web-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "454c3bb4dc77f1a46879573f384efb20c4c494d1",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes service and deployment for the web app",
+  "dependencies": [],
+  "created": 1568477723,
+  "updated": 1568477723,
+  "status": "active"
+}
