@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-config",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0276bef92087f28680c6bfc9965156dcac54785a",
+    "message": "Add shared layout component\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservices-auth-web",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "@nebulario/microservices-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservices-auth-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1ef8ddf1f54283acc0ce7a1873e7154185e3d2a7",
+    "message": "Add shared layout component\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}

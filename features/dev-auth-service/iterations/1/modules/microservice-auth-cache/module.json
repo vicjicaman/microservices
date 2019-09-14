@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c0c52cd4c998cccbd603344156ff13cb7394b863",
+    "message": "Initial cache stateful service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-dev-auth-service-prod",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "cf965808ce91cba2414788fd01477c16031ca72d",
+    "message": "Add node user rights to the node_modules folder\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568474707,
+  "updated": 1568474707,
+  "status": "active"
+}
