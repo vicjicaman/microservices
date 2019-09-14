@@ -1,0 +1,8 @@
+{
+  "featureid": "home-service",
+  "baselineid": "master",
+  "description": "Home service to show the components of the microservices",
+  "created": 1568479878,
+  "updated": 1568479878,
+  "status": "active"
+}
