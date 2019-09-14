@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "mode": "prod",
+  "version": "1.70.3-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0146e7d3f220a4690ce0e220c1c9b502934b613a",
+    "message": "Test string port fix for cluster entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1568498834,
+  "updated": 1568498834,
+  "status": "active"
+}

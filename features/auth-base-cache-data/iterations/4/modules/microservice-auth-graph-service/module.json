@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.3-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6108bc14aba2bb079ffafa0c0f6a588e9259a1cb",
+    "message": "Test string port fix for cluster entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1568498834,
+  "updated": 1568498834,
+  "status": "active"
+}
