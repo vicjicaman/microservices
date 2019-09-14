@@ -1,18 +1,28 @@
 {
-  "moduleid": "microservice-auth-data",
+  "moduleid": "microservice-auth-web-service",
   "releases": [
     {
       "releaseid": "dev-auth-service"
-    },
-    {
-      "releaseid": "auth-stateful"
     }
   ],
-  "created": 1567791784,
-  "updated": 1567791784,
+  "created": 1568479645,
+  "updated": 1568479645,
   "status": "active",
   "dependants": [],
   "dependents": [
+    {
+      "moduleid": "microservice-auth-web-container",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-auth-web-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
     {
       "moduleid": "microservice-config",
       "references": [

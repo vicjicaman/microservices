@@ -16,12 +16,17 @@
     }
   ],
   "hierarchy": [
-    "microservice-auth-data",
     "microservice-auth-graph-service",
+    "microservice-auth-cache",
+    "microservice-auth-data",
     "microservice-namespace",
+    "microservice-auth-graph-config",
+    "microservice-auth-web-service",
+    "microservice-auth-web-container",
     "microservice-auth-graph-container",
     "microservice-auth-graph",
-    "microservice-auth-graph-config",
+    "microservices-auth-web",
+    "microservice-layout",
     "microservice-auth-config",
     "microservice-config"
   ],

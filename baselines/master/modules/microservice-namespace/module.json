@@ -2,6 +2,9 @@
   "moduleid": "microservice-namespace",
   "releases": [
     {
+      "releaseid": "dev-auth-service"
+    },
+    {
       "releaseid": "auth-stateful"
     },
     {
@@ -32,23 +35,10 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-auth-graph-config",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-graph-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
-          "version": "1.70.1-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-graph-config.version"
         }
       ]
     }
