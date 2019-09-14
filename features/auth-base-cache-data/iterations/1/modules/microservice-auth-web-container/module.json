@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-base-cache-data-prod",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "06bea3100f4789401217d6371995896f21edac34",
+    "message": "RELEASE:dev-auth-service:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568491872,
+  "updated": 1568491872,
+  "status": "active"
+}

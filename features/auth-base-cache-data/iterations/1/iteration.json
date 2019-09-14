@@ -1,0 +1,65 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-cache",
+    "microservice-auth-data",
+    "microservice-auth-graph-service",
+    "microservice-auth-web-service",
+    "microservice-namespace",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-auth-graph",
+    "microservices-auth-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-cache",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-data",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web-service",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    },
+    {
+      "moduleid": "microservices-auth-web",
+      "iterationid": 1,
+      "version": "1.70.0-auth-base-cache-data-prod"
+    }
+  ],
+  "created": 1568491872,
+  "updated": 1568491872,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservices-auth-web",
+  "mode": "prod",
+  "version": "1.70.0-auth-base-cache-data-prod",
+  "fullname": "@nebulario/microservices-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservices-auth-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "48128eb21c3a23307c1481b49086a5542d0a9e18",
+    "message": "Fix port string to number replace\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568491872,
+  "updated": 1568491872,
+  "status": "active"
+}

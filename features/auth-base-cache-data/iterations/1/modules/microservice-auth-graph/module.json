@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "mode": "prod",
+  "version": "1.70.0-auth-base-cache-data-prod",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9e5181e47a4db4c87a761feddcf9c856f6d57f0a",
+    "message": "Fix port string to number replace\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568491872,
+  "updated": 1568491872,
+  "status": "active"
+}
