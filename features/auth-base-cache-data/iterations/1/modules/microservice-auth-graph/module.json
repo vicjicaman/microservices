@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-auth-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a30538e9fd61ab9b84767d296dde4afc9d7160a9",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "9e5181e47a4db4c87a761feddcf9c856f6d57f0a",
     "message": "Fix port string to number replace\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d1eafdb6b0db84b110a7159adbda39393dd64955",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568491872,
   "updated": 1568491872,
