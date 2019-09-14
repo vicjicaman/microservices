@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a99ff9da9bd046b0b3880619f37ab1d668eb0b77",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "6108bc14aba2bb079ffafa0c0f6a588e9259a1cb",
     "message": "Test string port fix for cluster entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d54877b238e87c84b9828bd45221cd6b966def1f",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1568498834,
   "updated": 1568498834,
