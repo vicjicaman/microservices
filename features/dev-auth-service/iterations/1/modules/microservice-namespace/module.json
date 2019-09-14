@@ -5,12 +5,18 @@
   "fullname": "microservice-namespace",
   "type": "namespace",
   "url": "github.com:vicjicaman/microservice-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a7730dfaf1cc92463feaa3b1b00ee7094fcdb1b3",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "5a417bba8b73314093a5727dd1ab19e4ff8a3277",
     "message": "Get all the entities names from config file\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "3823f06a7734256e2908a6a42dfb9722e12322db",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568474707,
   "updated": 1568474707,

@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-auth-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "241e9166417589c9a14217f329cfb0ab092c722c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "cf965808ce91cba2414788fd01477c16031ca72d",
     "message": "Add node user rights to the node_modules folder\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "61164d890d7cdc5502c26efee9aeb28053175fa4",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568474707,
   "updated": 1568474707,

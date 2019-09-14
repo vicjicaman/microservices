@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0276bef92087f28680c6bfc9965156dcac54785a",
+    "message": "Add shared layout component\n"
+  },
   "iterate": {
     "commitid": "0276bef92087f28680c6bfc9965156dcac54785a",
     "message": "Add shared layout component\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0276bef92087f28680c6bfc9965156dcac54785a",
+    "message": "Add shared layout component\n"
+  },
   "releasedOn": 1,
   "created": 1568474707,
   "updated": 1568474707,

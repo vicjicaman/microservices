@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-cache",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-cache.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8abb3eba2d268a6f319c9864b02e25d49d06ad35",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "c0c52cd4c998cccbd603344156ff13cb7394b863",
     "message": "Initial cache stateful service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "267c4f1f5b20029828bac097cb7d7996f69f879e",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568474707,
   "updated": 1568474707,

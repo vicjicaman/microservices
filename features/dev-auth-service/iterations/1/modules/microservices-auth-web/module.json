@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservices-auth-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservices-auth-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e90cd1435d73ff1f4fd4957c564200621f461851",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "1ef8ddf1f54283acc0ce7a1873e7154185e3d2a7",
     "message": "Add shared layout component\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "27bf665ecc2023bf3975dec4f3cf9bf24162f5d9",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568474707,
   "updated": 1568474707,
