@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "mode": "prod",
+  "version": "1.70.4-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8d12fd07c264cff51aa63821768a52f3d7afe084",
+    "message": "Publish bug string to JSON issue\n"
+  },
+  "mergeback": null,
+  "releasedOn": 7,
+  "created": 1568557675,
+  "updated": 1568557675,
+  "status": "active"
+}
