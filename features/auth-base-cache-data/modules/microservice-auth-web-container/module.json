@@ -14,7 +14,7 @@
   "updated": 1568490734,
   "status": "active",
   "commit": {
-    "commitid": "46286738330871abaff9afba60078ecf6f4a71a7",
-    "message": "ITERATION:1\n"
+    "commitid": "01fb0be7ec059809b516a77afdf1fa6b8d7835af",
+    "message": "Separate pre/post process of instancification of kubernetes entities\n"
   }
 }
