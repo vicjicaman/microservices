@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-base-cache-data-prod",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": {
+    "commitid": "30152f2157b99bde95fccb9413565c34273fc133",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "f2f7db1ff649535c29e0d758f2c9403df0297d2b",
+    "message": "Fix port string to number replace\n"
+  },
+  "mergeback": {
+    "commitid": "dc66e7ec46bfd0bb53501ef2c18a07f947f2940e",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568491872,
+  "updated": 1568491872,
+  "status": "active"
+}
