@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "mode": "prod",
+  "version": "1.70.3-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "35db2478eadcb472c3a56b42009416203fbc9b56",
+    "message": "Fix YAML yes to true issue in kube config\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1568556486,
+  "updated": 1568556486,
+  "status": "active"
+}
