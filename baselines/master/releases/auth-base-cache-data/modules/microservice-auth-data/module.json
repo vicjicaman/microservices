@@ -5,15 +5,70 @@
   "fullname": "microservice-auth-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "bc2e34ad35d165eef0a7eee9ec570198a0b35c8c",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "3725f027da1ee88a45a3c6f6e67166c767dd64e2",
     "message": "ITERATION:5\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "36c8a0b7c2c8ac34bb298374519d90a88e46558a",
+    "message": "RELEASE:auth-base-cache-data:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Service for auth data\nThis is a doc database 1 replica set",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-data",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-data",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|spec.template.metadata.labels.version",
+      "fullname": "microservice-auth-data",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "spec.template.metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|stateful.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "mongo",
+      "version": "latest",
+      "kind": "container",
+      "filename": "stateful.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    }
+  ],
   "created": 1568558607,
   "updated": 1568558607,
   "status": "active"

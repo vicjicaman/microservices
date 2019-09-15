@@ -2,6 +2,9 @@
   "moduleid": "microservices-auth-web",
   "releases": [
     {
+      "releaseid": "auth-base-cache-data"
+    },
+    {
       "releaseid": "dev-auth-service"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservices-auth-web",
           "fullname": "@nebulario/microservices-auth-web",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservices-auth-web"
