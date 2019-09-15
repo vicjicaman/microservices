@@ -1,6 +1,6 @@
 {
   "releaseid": "auth-base-cache-data",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-cache",
     "microservice-auth-data",

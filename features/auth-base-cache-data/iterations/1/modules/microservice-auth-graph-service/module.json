@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": {
+    "commitid": "b01ad6c30bd911757ed5600f5428796efedadee7",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "7ef5bbc28f7ed31279e197ab8540404bd8888f00",
+    "message": "Fix port string to number replace\n"
+  },
+  "mergeback": {
+    "commitid": "53bf6de830d36ad32c150ab2b6be29b1d64c0fae",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568491872,
+  "updated": 1568491872,
+  "status": "active"
+}

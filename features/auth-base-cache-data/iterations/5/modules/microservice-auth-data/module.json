@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-data",
+  "mode": "prod",
+  "version": "1.70.2-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "publish": {
+    "commitid": "3f96e945c3c6bd200ef6b78cce229ae2d7e92920",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "a1a6828ef42f9de3881b98457b4d218555dd5389",
+    "message": "Separate pre/post process of instancification of kubernetes entities\n"
+  },
+  "mergeback": {
+    "commitid": "3725f027da1ee88a45a3c6f6e67166c767dd64e2",
+    "message": "ITERATION:5\n"
+  },
+  "releasedOn": 5,
+  "created": 1568555666,
+  "updated": 1568555666,
+  "status": "active"
+}

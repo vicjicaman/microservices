@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "fullname": "microservice-auth-data",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Service for auth data\nThis is a doc database 1 replica set",
+  "created": 1568481981,
+  "updated": 1568481981,
+  "status": "active",
+  "commit": {
+    "commitid": "3725f027da1ee88a45a3c6f6e67166c767dd64e2",
+    "message": "ITERATION:5\n"
+  }
+}

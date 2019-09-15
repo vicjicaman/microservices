@@ -5,15 +5,278 @@
   "fullname": "@nebulario/microservices-auth-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservices-auth-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "725083d2a13133259aaa6205470535bf5533a158",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "0157388edefb4a183a93becf2d936aac305842bd",
     "message": "ITERATION:5\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5334ba575c065a5cac1272d468ee377303a61e28",
+    "message": "RELEASE:auth-base-cache-data:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "Auth web UI for register, login and user profile",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/microservices-auth-web",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
+      "fullname": "@nebulario/microservice-layout",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-layout"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@apollo/react-hooks",
+      "fullname": "@apollo/react-hooks",
+      "version": "^3.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@apollo/react-hooks"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.apollo-boost",
+      "fullname": "apollo-boost",
+      "version": "^0.4.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.apollo-boost"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.apollo-cache-inmemory",
+      "fullname": "apollo-cache-inmemory",
+      "version": "^1.6.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.apollo-cache-inmemory"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.bootstrap",
+      "fullname": "bootstrap",
+      "version": "^4.3.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.bootstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.connected-react-router",
+      "fullname": "connected-react-router",
+      "version": "^6.5.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.connected-react-router"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express",
+      "fullname": "express",
+      "version": "^4.17.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.font-awesome",
+      "fullname": "font-awesome",
+      "version": "^4.7.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.font-awesome"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql",
+      "fullname": "graphql",
+      "version": "^14.5.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.jquery",
+      "fullname": "jquery",
+      "version": "^3.4.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.jquery"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.node-fetch",
+      "fullname": "node-fetch",
+      "version": "^2.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.node-fetch"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.popper.js",
+      "fullname": "popper.js",
+      "version": "^1.15.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.popper.js"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react",
+      "fullname": "react",
+      "version": "^16.9.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react-apollo",
+      "fullname": "react-apollo",
+      "version": "^3.1.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react-apollo"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react-dom",
+      "fullname": "react-dom",
+      "version": "^16.9.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react-redux",
+      "fullname": "react-redux",
+      "version": "^7.1.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react-redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react-router",
+      "fullname": "react-router",
+      "version": "^5.0.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react-router"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.react-router-dom",
+      "fullname": "react-router-dom",
+      "version": "^5.0.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.react-router-dom"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.reactstrap",
+      "fullname": "reactstrap",
+      "version": "^8.0.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.reactstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.redux",
+      "fullname": "redux",
+      "version": "^4.0.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.redux"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-react",
+      "fullname": "@babel/preset-react",
+      "version": "^7.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-react"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.css-loader",
+      "fullname": "css-loader",
+      "version": "^3.2.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.css-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.nodemon",
+      "fullname": "nodemon",
+      "version": "^1.19.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.nodemon"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.npm-run-all",
+      "fullname": "npm-run-all",
+      "version": "^4.1.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.npm-run-all"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.style-loader",
+      "fullname": "style-loader",
+      "version": "^1.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.style-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
   "created": 1568558607,
   "updated": 1568558607,
   "status": "active"

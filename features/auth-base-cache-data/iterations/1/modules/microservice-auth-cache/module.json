@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "mode": "prod",
+  "version": "1.70.0-auth-base-cache-data-prod",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": {
+    "commitid": "58b2d7fe23606de47406acbb6e6ccdcf010e6f23",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "fd61f389245923d105f50eae4234d783732e9fe6",
+    "message": "Fix port string to number replace\n"
+  },
+  "mergeback": {
+    "commitid": "404f580da97ab932f137ad84d28398637444414b",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568491872,
+  "updated": 1568491872,
+  "status": "active"
+}
