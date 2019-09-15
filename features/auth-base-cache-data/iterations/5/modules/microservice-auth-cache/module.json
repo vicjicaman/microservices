@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-cache",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-cache.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ef3f48b60ee17489a3f539e806399042b0fb5aa3",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "68a159f99d6dc62634c67d3bcdab037ba169f93d",
     "message": "Separate pre/post process of instancification of kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1f701ad33875f54ce66b06eedd7454a8d4539579",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1568555666,
   "updated": 1568555666,

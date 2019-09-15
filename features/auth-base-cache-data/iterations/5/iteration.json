@@ -1,6 +1,6 @@
 {
   "iterationid": 5,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "microservice-auth-cache",
     "microservice-auth-data",

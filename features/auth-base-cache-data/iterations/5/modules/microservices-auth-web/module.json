@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservices-auth-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservices-auth-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e0bf86cdd96410245542d9b2f49bf7bb62288b2e",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "f76745ba7657a6950c949feabde86a1d1bc549fe",
     "message": "Separate pre/post process of instancification of kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0157388edefb4a183a93becf2d936aac305842bd",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1568555666,
   "updated": 1568555666,

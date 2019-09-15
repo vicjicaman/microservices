@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-auth-web-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a3454df5de9579e5a8a4c9b3f7802ab11f6db129",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "01fb0be7ec059809b516a77afdf1fa6b8d7835af",
     "message": "Separate pre/post process of instancification of kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0252396df7010015019fb880f5cdbb282eb2c705",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1568555666,
   "updated": 1568555666,
