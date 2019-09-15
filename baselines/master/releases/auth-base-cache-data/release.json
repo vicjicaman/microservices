@@ -1,0 +1,18 @@
+{
+  "releaseid": "auth-base-cache-data",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-cache",
+    "microservice-auth-data",
+    "microservice-auth-graph-service",
+    "microservice-auth-web-service",
+    "microservice-namespace",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-auth-graph",
+    "microservices-auth-web"
+  ],
+  "created": 1568558607,
+  "updated": 1568558607,
+  "status": "active"
+}

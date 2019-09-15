@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-base-cache-data",
+  "moduleid": "microservice-auth-graph",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "d1eafdb6b0db84b110a7159adbda39393dd64955",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service app for the auth graph ",
+  "dependencies": [],
+  "created": 1568558607,
+  "updated": 1568558607,
+  "status": "active"
+}
