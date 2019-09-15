@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-web-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "992368f90c125154f9d6c61aab8a5b7502f8085b",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "9ec05123052d930bc79bbcf3050b1835ab86c7fd",
     "message": "Publish bug string to JSON issue\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "84d9b2c0b8060de7491108c7f9406872fef1bb12",
+    "message": "ITERATION:7\n"
+  },
   "releasedOn": 7,
   "created": 1568557675,
   "updated": 1568557675,
