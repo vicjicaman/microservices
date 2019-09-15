@@ -14,7 +14,7 @@
   "updated": 1568481986,
   "status": "active",
   "commit": {
-    "commitid": "1f701ad33875f54ce66b06eedd7454a8d4539579",
-    "message": "ITERATION:5\n"
+    "commitid": "35db2478eadcb472c3a56b42009416203fbc9b56",
+    "message": "Fix YAML yes to true issue in kube config\n"
   }
 }
