@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservices-auth-web",
+  "mode": "prod",
+  "version": "1.70.1-auth-base-cache-data-prod",
+  "fullname": "@nebulario/microservices-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservices-auth-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f76745ba7657a6950c949feabde86a1d1bc549fe",
+    "message": "Separate pre/post process of instancification of kubernetes entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1568555666,
+  "updated": 1568555666,
+  "status": "active"
+}
