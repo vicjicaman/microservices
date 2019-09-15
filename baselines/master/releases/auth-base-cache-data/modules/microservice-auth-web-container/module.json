@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-base-cache-data",
+  "moduleid": "microservice-auth-web-container",
+  "version": "1.70.1-master",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "0252396df7010015019fb880f5cdbb282eb2c705",
+    "message": "ITERATION:5\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the web app",
+  "dependencies": [],
+  "created": 1568558607,
+  "updated": 1568558607,
+  "status": "active"
+}
