@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-account-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-account-config.git",
+  "fullname": "github.com:vicjicaman/microservice-account-config.git",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for the inner account service",
+  "created": 1568599836,
+  "updated": 1568599836,
+  "status": "active"
+}
