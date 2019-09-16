@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-config.git",
   "fullname": "github.com:vicjicaman/microservice-account-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Config for the inner account service",
   "created": 1568660070,
   "updated": 1568660070,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e0616be4f723ab72ce343f19f6563c8cfae3778e",
+    "message": "Add protocol to the internal graph url\n"
+  }
 }

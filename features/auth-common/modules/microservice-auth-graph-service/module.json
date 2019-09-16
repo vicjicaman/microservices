@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
   "fullname": "microservice-auth-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph service for the user auth",
   "created": 1568653214,
   "updated": 1568653214,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b25dc2591818d86802dbac55c78f9359262a1605",
+    "message": "Add accounts service variable\n"
+  }
 }

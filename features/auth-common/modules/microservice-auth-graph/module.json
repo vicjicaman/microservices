@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1568653143,
   "updated": 1568653143,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c50e6e5987b8386d6fea32a56cb72778c846e964",
+    "message": "User internal service for the account and common auth functionality\n"
+  }
 }

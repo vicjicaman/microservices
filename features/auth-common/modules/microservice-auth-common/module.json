@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-common.git",
   "fullname": "@nebulario/microservice-auth-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for auth services",
   "created": 1568653295,
   "updated": 1568653295,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c1cf0a1dc2c5f26953c782cc7eb95cbe85bb973c",
+    "message": "Common code for account auth\n- Connect to the account internal service\n"
+  }
 }
