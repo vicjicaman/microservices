@@ -1,0 +1,8 @@
+{
+  "featureid": "account-service",
+  "baselineid": "master",
+  "description": "Add separate inner service to handle accounts",
+  "created": 1568599052,
+  "updated": 1568599052,
+  "status": "active"
+}
