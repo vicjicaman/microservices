@@ -1,0 +1,163 @@
+{
+  "releaseid": "auth-common",
+  "moduleid": "microservice-auth-common",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/microservice-auth-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-common.git",
+  "publish": {
+    "commitid": "090adc9004f8b7a271027db6f5b77fd59654190b",
+    "message": "Sync to release\n"
+  },
+  "released": {
+    "commitid": "353d1e181112863a7b57c1d5f34ee917eb123b60",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "e6025e62776effdee0eec17fdf09212b1a9aaa72",
+    "message": "RELEASE:auth-common:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Common functionality for auth services",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/microservice-auth-common",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime",
+      "fullname": "@babel/runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime-corejs3",
+      "fullname": "@babel/runtime-corejs3",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime-corejs3"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.connect-redis",
+      "fullname": "connect-redis",
+      "version": "^4.0.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.connect-redis"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express-session",
+      "fullname": "express-session",
+      "version": "^1.16.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express-session"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-request",
+      "fullname": "graphql-request",
+      "version": "^1.8.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-request"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.passport",
+      "fullname": "passport",
+      "version": "^0.4.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.passport"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.passport-local",
+      "fullname": "passport-local",
+      "version": "^1.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.passport-local"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.redis",
+      "fullname": "redis",
+      "version": "^2.8.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.redis"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.redis-parser",
+      "fullname": "redis-parser",
+      "version": "^3.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.redis-parser"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/plugin-transform-runtime",
+      "fullname": "@babel/plugin-transform-runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
+  "created": 1568664219,
+  "updated": 1568664219,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-common",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-prod",
+  "fullname": "@nebulario/microservice-auth-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-common.git",
+  "publish": {
+    "commitid": "b6ad05c79b41335811cfc998f137e94eb9ddd254",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "c1cf0a1dc2c5f26953c782cc7eb95cbe85bb973c",
+    "message": "Common code for account auth\n- Connect to the account internal service\n"
+  },
+  "mergeback": {
+    "commitid": "353d1e181112863a7b57c1d5f34ee917eb123b60",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568663114,
+  "updated": 1568663114,
+  "status": "active"
+}
