@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b323c780685f03e88d552041cae5b0745d61bae3",
+    "message": "Remove data service configuration\n"
+  },
   "released": {
     "commitid": "b323c780685f03e88d552041cae5b0745d61bae3",
     "message": "Remove data service configuration\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "caefc4ecc6bd02e4ea5495d988852c0808bee78b",
+    "message": "RELEASE:auth-common:1.70.3-master\n"
+  },
   "releaseType": "patch",
   "description": "General configuration for auth service, web, graph and others",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1568664219,
   "updated": 1568664219,
   "status": "active"

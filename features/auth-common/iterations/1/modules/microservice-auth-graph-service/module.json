@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": {
+    "commitid": "82809c3e4763002de36ddd79c94d4de6c27394fe",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "b25dc2591818d86802dbac55c78f9359262a1605",
+    "message": "Add accounts service variable\n"
+  },
+  "mergeback": {
+    "commitid": "43744cf2ea3e38fe0f0b87a1bd92775d26fc2b55",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568663114,
+  "updated": 1568663114,
+  "status": "active"
+}

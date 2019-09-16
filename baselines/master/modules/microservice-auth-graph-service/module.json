@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-graph-service",
   "releases": [
     {
+      "releaseid": "auth-common"
+    },
+    {
       "releaseid": "auth-base-cache-data"
     },
     {
@@ -25,7 +28,7 @@
         {
           "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-graph-container",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "container",
           "filename": "deployment.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -51,10 +54,23 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-account-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
+          "fullname": "github.com:vicjicaman/microservice-account-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-account-config.version"
         }
       ]
     }

@@ -1,0 +1,47 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-auth-graph-service",
+    "microservice-auth-graph-container",
+    "microservice-account-config",
+    "microservice-auth-graph",
+    "microservice-auth-common",
+    "microservice-auth-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-prod"
+    },
+    {
+      "moduleid": "microservice-account-config",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-prod"
+    },
+    {
+      "moduleid": "microservice-auth-common",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-prod"
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-prod"
+    }
+  ],
+  "created": 1568663114,
+  "updated": 1568663114,
+  "status": "active"
+}

@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-account-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-account-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e0616be4f723ab72ce343f19f6563c8cfae3778e",
+    "message": "Add protocol to the internal graph url\n"
+  },
   "released": {
     "commitid": "e0616be4f723ab72ce343f19f6563c8cfae3778e",
     "message": "Add protocol to the internal graph url\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "71de012e7cccffa36461dd3ab1725e75d08a939e",
+    "message": "RELEASE:auth-common:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "Config for the inner account service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1568664219,
   "updated": 1568664219,
   "status": "active"

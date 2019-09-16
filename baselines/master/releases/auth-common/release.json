@@ -1,6 +1,6 @@
 {
   "releaseid": "auth-common",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-graph-service",
     "microservice-auth-graph-container",
