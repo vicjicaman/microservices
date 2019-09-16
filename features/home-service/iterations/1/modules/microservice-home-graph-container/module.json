@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-home-service-prod",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "691ca6110140871a9db61f3f0d7e9c3273e95d40",
+    "message": "Add initial home web and graph services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568673174,
+  "updated": 1568673174,
+  "status": "active"
+}

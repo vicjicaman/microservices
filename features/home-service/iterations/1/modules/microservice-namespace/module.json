@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "prod",
+  "version": "1.70.0-home-service-prod",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ef24cfd24804c8c1fc0ba1f4c728de3114b01491",
+    "message": "Add initial home web and graph services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568673174,
+  "updated": 1568673174,
+  "status": "active"
+}
