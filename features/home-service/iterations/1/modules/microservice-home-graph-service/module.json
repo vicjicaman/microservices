@@ -5,12 +5,18 @@
   "fullname": "microservice-home-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-home-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "51c9db2cfe3f1af399d11902884d5a0282b7d97f",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "aad59a56e92ae8b16431e7881e0ef1d28512cb0d",
     "message": "Add initial home web and graph services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "356054bd246ffd586e639bbd9243a28a58b08eff",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568673174,
   "updated": 1568673174,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home.git",
-  "publish": null,
+  "publish": {
+    "commitid": "137e7f909d28d940499fc12f2c27686da5dcf0a1",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "01e5a848429436abca8bbf5eb5caf8142e27ab59",
     "message": "Add initial home web and graph services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "aebf293ea2b4bf3c4271653ba5bab0d9d6378d88",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568673174,
   "updated": 1568673174,

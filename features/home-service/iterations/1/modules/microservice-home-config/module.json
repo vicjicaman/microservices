@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-home-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6db6848fd7666f80529724d09d09a072b56a04d3",
+    "message": "Add initial home web and graph services\n"
+  },
   "iterate": {
     "commitid": "6db6848fd7666f80529724d09d09a072b56a04d3",
     "message": "Add initial home web and graph services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6db6848fd7666f80529724d09d09a072b56a04d3",
+    "message": "Add initial home web and graph services\n"
+  },
   "releasedOn": 1,
   "created": 1568673174,
   "updated": 1568673174,
