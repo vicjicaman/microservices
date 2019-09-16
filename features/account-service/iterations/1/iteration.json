@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-account-config",
+    "microservice-account-graph-container",
+    "microservice-account-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-account-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-account-service-prod"
+    },
+    {
+      "moduleid": "microservice-account-config",
+      "iterationid": 1,
+      "version": "1.70.0-account-service-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-account-service-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "iterationid": 1,
+      "version": "1.70.0-account-service-prod"
+    }
+  ],
+  "created": 1568641546,
+  "updated": 1568641546,
+  "status": "active"
+}

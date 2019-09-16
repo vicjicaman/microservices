@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-account-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-account-config.git",
+  "fullname": "github.com:vicjicaman/microservice-account-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for the inner account service",
+  "created": 1568599836,
+  "updated": 1568599836,
+  "status": "active",
+  "commit": {
+    "commitid": "c47c2d2d6871e466b39aaccae00f091cd2b07cfd",
+    "message": "Initial inner graph for accounts functionality\n"
+  }
+}

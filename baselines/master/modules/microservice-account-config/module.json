@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-account-config",
+  "releases": [
+    {
+      "releaseid": "account-service"
+    }
+  ],
+  "created": 1568645293,
+  "updated": 1568645293,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-account-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
+          "fullname": "github.com:vicjicaman/microservice-account-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-account-config.version"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    }
+  ]
+}

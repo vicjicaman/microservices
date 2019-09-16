@@ -3,6 +3,9 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "account-service"
+    },
+    {
       "releaseid": "auth-base-cache-data"
     },
     {
@@ -19,14 +22,18 @@
     }
   ],
   "hierarchy": [
-    "microservice-auth-graph-service",
-    "microservice-auth-cache",
-    "microservice-auth-data",
-    "microservice-namespace",
     "microservice-auth-graph-config",
+    "microservice-account-graph-service",
+    "microservice-auth-cache",
+    "microservice-namespace",
+    "microservice-auth-data",
     "microservice-auth-web-service",
+    "microservice-auth-graph-service",
+    "microservice-account-config",
     "microservice-auth-web-container",
     "microservice-auth-graph-container",
+    "microservice-account-graph-container",
+    "microservice-account-graph",
     "microservice-auth-graph",
     "microservices-auth-web",
     "microservice-layout",
