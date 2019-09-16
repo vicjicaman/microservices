@@ -1,0 +1,27 @@
+{
+  "moduleid": "microservice-account-graph",
+  "releases": [
+    {
+      "releaseid": "account-service"
+    }
+  ],
+  "created": 1568645293,
+  "updated": 1568645293,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-account-graph-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-account-graph",
+          "fullname": "@nebulario/microservice-account-graph",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-account-graph"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

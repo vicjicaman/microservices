@@ -1,6 +1,6 @@
 {
   "releaseid": "account-service",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-account-graph-service",
     "microservice-account-config",
