@@ -1,0 +1,13 @@
+{
+  "releaseid": "account-service",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-account-config",
+    "microservice-account-graph-container",
+    "microservice-account-graph"
+  ],
+  "created": 1568644760,
+  "updated": 1568644760,
+  "status": "active"
+}
