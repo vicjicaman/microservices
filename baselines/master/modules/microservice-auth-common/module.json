@@ -1,0 +1,27 @@
+{
+  "moduleid": "microservice-auth-common",
+  "releases": [
+    {
+      "releaseid": "auth-common"
+    }
+  ],
+  "created": 1568664672,
+  "updated": 1568664672,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-auth-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
+          "fullname": "@nebulario/microservice-auth-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-auth-common"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}
