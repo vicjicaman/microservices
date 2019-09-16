@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-prod",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c50e6e5987b8386d6fea32a56cb72778c846e964",
+    "message": "User internal service for the account and common auth functionality\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568663114,
+  "updated": 1568663114,
+  "status": "active"
+}

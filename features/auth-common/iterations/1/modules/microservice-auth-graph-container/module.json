@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-prod",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "62e508bf3771c6558ec99e6666670ea50aa58f5d",
+    "message": "Update app package\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568663114,
+  "updated": 1568663114,
+  "status": "active"
+}
