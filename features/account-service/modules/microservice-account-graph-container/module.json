@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-container.git",
   "fullname": "repoflow/microservice-account-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the account graph",
   "created": 1568599242,
   "updated": 1568599242,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "facd06a812c1d440c8e670fdaa9289b87662dfef",
+    "message": "Initial commit"
+  }
 }
