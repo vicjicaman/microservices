@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-account-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-account-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e0616be4f723ab72ce343f19f6563c8cfae3778e",
+    "message": "Add protocol to the internal graph url\n"
+  },
   "iterate": {
     "commitid": "e0616be4f723ab72ce343f19f6563c8cfae3778e",
     "message": "Add protocol to the internal graph url\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e0616be4f723ab72ce343f19f6563c8cfae3778e",
+    "message": "Add protocol to the internal graph url\n"
+  },
   "releasedOn": 1,
   "created": 1568663114,
   "updated": 1568663114,
