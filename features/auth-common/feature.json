@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-common",
+  "baselineid": "master",
+  "description": "Add the common functionality to auth service",
+  "created": 1568652986,
+  "updated": 1568652986,
+  "status": "active"
+}
