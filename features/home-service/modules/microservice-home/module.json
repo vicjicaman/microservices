@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home.git",
   "fullname": "@nebulario/microservice-home",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Home service app/code for microservices with Kubernetes",
   "created": 1568561725,
   "updated": 1568561725,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "01e5a848429436abca8bbf5eb5caf8142e27ab59",
+    "message": "Add initial home web and graph services\n"
+  }
 }

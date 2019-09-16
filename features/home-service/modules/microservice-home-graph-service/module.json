@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph-service.git",
   "fullname": "microservice-home-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service and deployment for home",
   "created": 1568578460,
   "updated": 1568578460,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "aad59a56e92ae8b16431e7881e0ef1d28512cb0d",
+    "message": "Add initial home web and graph services\n"
+  }
 }

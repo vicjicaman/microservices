@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-container.git",
   "fullname": "repoflow/microservice-home-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for home service",
   "created": 1568561771,
   "updated": 1568561771,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "820222e8b17b67f540224656f49c92715194e741",
+    "message": "Add initial home web and graph services\n"
+  }
 }

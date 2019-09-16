@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-namespace.git",
   "fullname": "microservice-namespace",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Namespace for the microservices demo",
   "created": 1568480027,
   "updated": 1568480027,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ef24cfd24804c8c1fc0ba1f4c728de3114b01491",
+    "message": "Add initial home web and graph services\n"
+  }
 }

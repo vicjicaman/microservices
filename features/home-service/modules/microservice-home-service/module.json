@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-service.git",
   "fullname": "microservice-home-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Home kubernetes service and deployment for microservices demo",
   "created": 1568561813,
   "updated": 1568561813,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ac5e2f3db25ee171a4145c3a34d4ee96e2998b76",
+    "message": "Add initial home web and graph services\n"
+  }
 }
