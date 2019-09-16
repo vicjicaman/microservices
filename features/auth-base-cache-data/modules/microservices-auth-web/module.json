@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservices-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservices-auth-web.git",
+  "fullname": "@nebulario/microservices-auth-web",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Auth web UI for register, login and user profile",
+  "created": 1568490774,
+  "updated": 1568490774,
+  "status": "active",
+  "commit": {
+    "commitid": "0157388edefb4a183a93becf2d936aac305842bd",
+    "message": "ITERATION:5\n"
+  }
+}
