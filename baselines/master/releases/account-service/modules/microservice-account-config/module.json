@@ -1,0 +1,35 @@
+{
+  "releaseid": "account-service",
+  "moduleid": "microservice-account-config",
+  "version": "1.70.0-master",
+  "fullname": "github.com:vicjicaman/microservice-account-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-account-config.git",
+  "publish": {
+    "commitid": "c47c2d2d6871e466b39aaccae00f091cd2b07cfd",
+    "message": "Initial inner graph for accounts functionality\n"
+  },
+  "released": {
+    "commitid": "c47c2d2d6871e466b39aaccae00f091cd2b07cfd",
+    "message": "Initial inner graph for accounts functionality\n"
+  },
+  "mergeback": {
+    "commitid": "403544e7668a035b3552a41f5e9df561a8d2e5b2",
+    "message": "RELEASE:account-service:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Config for the inner account service",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
+  "created": 1568644760,
+  "updated": 1568644760,
+  "status": "active"
+}
