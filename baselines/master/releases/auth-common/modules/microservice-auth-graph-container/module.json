@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-common",
+  "moduleid": "microservice-auth-graph-container",
+  "version": "1.70.4-master",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "81286be44203b3b73a5efaff61878e82b7438417",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the auth graph",
+  "dependencies": [],
+  "created": 1568664219,
+  "updated": 1568664219,
+  "status": "active"
+}
