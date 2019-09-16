@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-account-service-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "16444049876f89d93e6a84bd49e0b5cd8e4373e3",
+    "message": "Initial inner graph for accounts functionality\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568641546,
+  "updated": 1568641546,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-account-graph",
+  "mode": "prod",
+  "version": "1.70.0-account-service-prod",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7471b60c8b4a5b191139f66282fe4f29e0273185",
+    "message": "Initial inner graph for accounts functionality\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568641546,
+  "updated": 1568641546,
+  "status": "active"
+}
