@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-account-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-account-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c47c2d2d6871e466b39aaccae00f091cd2b07cfd",
+    "message": "Initial inner graph for accounts functionality\n"
+  },
   "iterate": {
     "commitid": "c47c2d2d6871e466b39aaccae00f091cd2b07cfd",
     "message": "Initial inner graph for accounts functionality\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c47c2d2d6871e466b39aaccae00f091cd2b07cfd",
+    "message": "Initial inner graph for accounts functionality\n"
+  },
   "releasedOn": 1,
   "created": 1568641546,
   "updated": 1568641546,
