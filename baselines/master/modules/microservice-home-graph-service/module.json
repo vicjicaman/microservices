@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-graph-service",
   "releases": [
     {
+      "releaseid": "reconnect-data"
+    },
+    {
       "releaseid": "home-service"
     }
   ],
@@ -16,7 +19,7 @@
         {
           "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-home-graph-container",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "container",
           "filename": "deployment.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
