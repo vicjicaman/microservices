@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-graph",
   "releases": [
     {
+      "releaseid": "account-page"
+    },
+    {
       "releaseid": "reconnect-data"
     },
     {
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-graph",
           "fullname": "@nebulario/microservice-auth-graph",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-graph"
