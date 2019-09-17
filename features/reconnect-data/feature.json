@@ -1,0 +1,8 @@
+{
+  "featureid": "reconnect-data",
+  "baselineid": "master",
+  "description": "Add logic to reconnect or restart the container in case on a cache or data restart",
+  "created": 1568691934,
+  "updated": 1568691934,
+  "status": "active"
+}
