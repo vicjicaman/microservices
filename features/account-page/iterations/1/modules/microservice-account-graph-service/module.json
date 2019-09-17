@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-account-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-account-page-prod",
+  "fullname": "microservice-account-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-account-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "709b5a24f262181ca71b531ae0945df958c0eb17",
+    "message": "RELEASE:reconnect-data:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568760909,
+  "updated": 1568760909,
+  "status": "active"
+}

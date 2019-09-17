@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-account-graph",
+  "mode": "prod",
+  "version": "1.70.0-account-page-prod",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "eac65064b45eacb25681a3615d5eb2d05fb962d7",
+    "message": "Add unregister functionality and update layout\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568760910,
+  "updated": 1568760910,
+  "status": "active"
+}
