@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-layout.git",
   "fullname": "@nebulario/microservice-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Shared layout for microservices",
   "created": 1568689375,
   "updated": 1568689375,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "daa462d81b9738718173a6d0374fcb7daff8ffba",
+    "message": "Include default items in layout\n"
+  }
 }
