@@ -1,0 +1,20 @@
+{
+  "releaseid": "reconnect-data",
+  "moduleid": "microservice-account-graph-container",
+  "version": "1.70.1-master",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "8af3268d60d41a6b2edcdc6a07cdbe2907bbd978",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the account graph",
+  "dependencies": [],
+  "created": 1568740536,
+  "updated": 1568740536,
+  "status": "active"
+}

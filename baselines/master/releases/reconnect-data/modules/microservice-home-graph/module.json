@@ -1,0 +1,20 @@
+{
+  "releaseid": "reconnect-data",
+  "moduleid": "microservice-home-graph",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": null,
+  "released": {
+    "commitid": "ca1eb23550278077bd7733ebec2ce020de0e450f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for home service",
+  "dependencies": [],
+  "created": 1568740536,
+  "updated": 1568740536,
+  "status": "active"
+}
