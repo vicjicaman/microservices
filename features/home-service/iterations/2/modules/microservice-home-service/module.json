@@ -5,12 +5,18 @@
   "fullname": "microservice-home-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-home-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "49c602d0b79c9a908fd4942b408d1d235024c906",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "ce00b0106c6698da6ff1695e3f9433733320bac6",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "51a9c629caded0fec9dc2c8d858cba6b1174a178",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1568690706,
   "updated": 1568690706,

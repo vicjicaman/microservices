@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-layout",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-layout.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1bafcae2020fa2d053a53028c5695ba46b848352",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "daa462d81b9738718173a6d0374fcb7daff8ffba",
     "message": "Include default items in layout\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "62f3bd106ac36dbd930ac79539af7eebc2719a13",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1568690706,
   "updated": 1568690706,
