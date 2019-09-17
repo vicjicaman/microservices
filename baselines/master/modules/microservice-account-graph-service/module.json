@@ -2,6 +2,9 @@
   "moduleid": "microservice-account-graph-service",
   "releases": [
     {
+      "releaseid": "reconnect-data"
+    },
+    {
       "releaseid": "account-service"
     }
   ],
@@ -16,7 +19,7 @@
         {
           "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-account-graph-container",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "container",
           "filename": "deployment.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -42,7 +45,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
           "fullname": "github.com:vicjicaman/microservice-account-config.git",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-account-config.version"

@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-graph",
   "releases": [
     {
+      "releaseid": "reconnect-data"
+    },
+    {
       "releaseid": "home-service"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-graph",
           "fullname": "@nebulario/microservice-home-graph",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-home-graph"
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
           "fullname": "@nebulario/microservice-auth-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-common"

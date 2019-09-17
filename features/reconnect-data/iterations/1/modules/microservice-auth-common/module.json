@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-common",
+  "mode": "prod",
+  "version": "1.70.0-reconnect-data-prod",
+  "fullname": "@nebulario/microservice-auth-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-common.git",
+  "publish": {
+    "commitid": "49259102af8611d0945c9050a3f6d0d1aed746ee",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "f9de126a6a3a0aa22be38f0efc77aab2c146e7e9",
+    "message": "Add recconect functionality for cache and data services\n"
+  },
+  "mergeback": {
+    "commitid": "9ce5825ff58a71e476a33b42ab381388a44a25fd",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568737706,
+  "updated": 1568737706,
+  "status": "active"
+}

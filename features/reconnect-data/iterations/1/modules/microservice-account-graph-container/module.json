@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-reconnect-data-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": {
+    "commitid": "fa4952777b197d20b99bd02e00f3905eef993700",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "be3248331567178fb359632698ca9e63ce73ffa5",
+    "message": "Add recconect functionality for cache and data services\n"
+  },
+  "mergeback": {
+    "commitid": "8af3268d60d41a6b2edcdc6a07cdbe2907bbd978",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568737706,
+  "updated": 1568737706,
+  "status": "active"
+}

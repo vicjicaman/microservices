@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-reconnect-data-prod",
+  "fullname": "microservice-account-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-account-graph-service.git",
+  "publish": {
+    "commitid": "92c1ea7fc0ea3b72c5e27962a7d4ba247e4a6e13",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "2abec3359b2bbf48ae72c7d0065ca5c214df034b",
+    "message": "Add recconect functionality for cache and data services\n"
+  },
+  "mergeback": {
+    "commitid": "79484ff7999dc663edae9a1469253e2ccf5e9427",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568737706,
+  "updated": 1568737706,
+  "status": "active"
+}

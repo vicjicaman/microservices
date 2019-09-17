@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-graph-container",
   "releases": [
     {
+      "releaseid": "reconnect-data"
+    },
+    {
       "releaseid": "home-service"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-home-graph-container",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "container",
           "filename": "deployment.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-graph",
           "fullname": "@nebulario/microservice-home-graph",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-home-graph"

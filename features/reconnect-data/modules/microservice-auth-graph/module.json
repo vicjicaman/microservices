@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Service app for the auth graph ",
+  "created": 1568734572,
+  "updated": 1568734572,
+  "status": "active",
+  "commit": {
+    "commitid": "55edb5d687fdcf5344fb989321e8542f54ae6dc0",
+    "message": "ITERATION:1\n"
+  }
+}

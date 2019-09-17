@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-graph",
+  "mode": "prod",
+  "version": "1.70.0-reconnect-data-prod",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": {
+    "commitid": "8e392c82a1ba576b8bb8d2da6aa05dd79b021645",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "012cee9a756d1cd06ebaee95aaf24ed07e3762b9",
+    "message": "Add recconect functionality for cache and data services\n"
+  },
+  "mergeback": {
+    "commitid": "ca1eb23550278077bd7733ebec2ce020de0e450f",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568737706,
+  "updated": 1568737706,
+  "status": "active"
+}

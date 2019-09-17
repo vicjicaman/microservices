@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the home service",
+  "created": 1568736510,
+  "updated": 1568736510,
+  "status": "active",
+  "commit": {
+    "commitid": "7f17abdde837cb45f949d4e84836dcbb6830a6b5",
+    "message": "ITERATION:1\n"
+  }
+}

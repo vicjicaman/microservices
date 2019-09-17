@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-graph",
   "releases": [
     {
+      "releaseid": "reconnect-data"
+    },
+    {
       "releaseid": "auth-common"
     },
     {
@@ -27,7 +30,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-graph",
           "fullname": "@nebulario/microservice-auth-graph",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-graph"
@@ -42,7 +45,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
           "fullname": "@nebulario/microservice-auth-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-common"
