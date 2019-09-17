@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-common.git",
+  "fullname": "@nebulario/microservice-auth-common",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Common functionality for auth services",
+  "created": 1568735195,
+  "updated": 1568735195,
+  "status": "active"
+}
