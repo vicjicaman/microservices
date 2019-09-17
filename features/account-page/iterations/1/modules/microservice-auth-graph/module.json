@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "mode": "prod",
+  "version": "1.70.0-account-page-prod",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": {
+    "commitid": "e45123f9ce235d160fccd38133740f39a8410b50",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "e9cb736eed703999e8186329b19e93a9d4c8c9ae",
+    "message": "Add unregister functionality and update layout\n"
+  },
+  "mergeback": {
+    "commitid": "233434ddffd2b2508f89fa5174e2c7188018924a",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568760910,
+  "updated": 1568760910,
+  "status": "active"
+}

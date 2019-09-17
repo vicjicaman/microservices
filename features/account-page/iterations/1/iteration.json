@@ -1,0 +1,65 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-auth-graph-service",
+    "microservice-auth-web-service",
+    "microservice-account-graph-container",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-account-graph",
+    "microservice-auth-graph",
+    "microservices-auth-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-account-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web-service",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    },
+    {
+      "moduleid": "microservices-auth-web",
+      "iterationid": 1,
+      "version": "1.70.0-account-page-prod"
+    }
+  ],
+  "created": 1568760909,
+  "updated": 1568760909,
+  "status": "active"
+}

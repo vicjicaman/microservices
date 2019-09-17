@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-account-page-prod",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": {
+    "commitid": "2ffedb1d2ee5ca7a6b2a8291db2cec90fe6c36f0",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "85942f2024b6f14b4f39d25a990208e7e5317978",
+    "message": "RELEASE:reconnect-data:1.70.5-master\n"
+  },
+  "mergeback": {
+    "commitid": "dd7044eafb3a983c47ef34cca4d27e043ceda9ca",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568760909,
+  "updated": 1568760909,
+  "status": "active"
+}

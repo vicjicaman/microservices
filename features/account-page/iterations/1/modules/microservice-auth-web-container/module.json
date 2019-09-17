@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "mode": "prod",
+  "version": "1.70.0-account-page-prod",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": {
+    "commitid": "ecfec52c3817badef8a96e025eaf0594742e77f6",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "c26d8fc888ecfab572e57ae7c9ae6b5d1f2ad9ab",
+    "message": "Add unregister functionality and update layout\n"
+  },
+  "mergeback": {
+    "commitid": "51ae016016af2992c0c4c05f33b3d8ea3ccfab7d",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568760910,
+  "updated": 1568760910,
+  "status": "active"
+}

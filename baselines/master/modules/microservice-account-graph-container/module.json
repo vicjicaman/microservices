@@ -2,6 +2,9 @@
   "moduleid": "microservice-account-graph-container",
   "releases": [
     {
+      "releaseid": "account-page"
+    },
+    {
       "releaseid": "reconnect-data"
     },
     {
@@ -18,7 +21,7 @@
         {
           "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-account-graph-container",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "container",
           "filename": "deployment.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -33,7 +36,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-account-graph",
           "fullname": "@nebulario/microservice-account-graph",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-account-graph"

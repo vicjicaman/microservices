@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-account-page-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": {
+    "commitid": "a61fff7d4b0492533a5cdabb44b995b8e7bcfc3d",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "be0023938345fb26c0d61e8734e228871d37e316",
+    "message": "Add unregister functionality and update layout\n"
+  },
+  "mergeback": {
+    "commitid": "01c42a419cc4e570cb73ce302b366361d6e4ccb3",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568760910,
+  "updated": 1568760910,
+  "status": "active"
+}

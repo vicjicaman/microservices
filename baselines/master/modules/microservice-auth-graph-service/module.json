@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-graph-service",
   "releases": [
     {
+      "releaseid": "account-page"
+    },
+    {
       "releaseid": "reconnect-data"
     },
     {
@@ -31,7 +34,7 @@
         {
           "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-graph-container",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "container",
           "filename": "deployment.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
