@@ -1,0 +1,8 @@
+{
+  "featureid": "account-page",
+  "baselineid": "master",
+  "description": "Add account info to auth home page",
+  "created": 1568745268,
+  "updated": 1568745268,
+  "status": "active"
+}
