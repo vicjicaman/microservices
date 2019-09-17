@@ -1,29 +1,31 @@
 {
-  "moduleid": "microservice-auth-common",
+  "moduleid": "microservice-home-graph",
   "releases": [
     {
-      "releaseid": "auth-common"
+      "releaseid": "home-service"
     }
   ],
-  "created": 1568664672,
-  "updated": 1568664672,
+  "created": 1568691794,
+  "updated": 1568691794,
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-auth-graph",
+      "moduleid": "microservice-home-graph-container",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
-          "fullname": "@nebulario/microservice-auth-common",
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-graph",
+          "fullname": "@nebulario/microservice-home-graph",
           "version": "1.70.0-master",
-          "kind": "dependency",
+          "kind": "app",
           "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-auth-common"
+          "path": "dependencies.@nebulario/microservice-home-graph"
         }
       ]
-    },
+    }
+  ],
+  "dependents": [
     {
-      "moduleid": "microservice-home-graph",
+      "moduleid": "microservice-auth-common",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
@@ -35,6 +37,5 @@
         }
       ]
     }
-  ],
-  "dependents": []
+  ]
 }

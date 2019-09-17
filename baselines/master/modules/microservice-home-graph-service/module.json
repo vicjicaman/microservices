@@ -1,27 +1,28 @@
 {
-  "moduleid": "microservice-namespace",
+  "moduleid": "microservice-home-graph-service",
   "releases": [
     {
       "releaseid": "home-service"
-    },
-    {
-      "releaseid": "auth-base-cache-data"
-    },
-    {
-      "releaseid": "dev-auth-service"
-    },
-    {
-      "releaseid": "auth-stateful"
-    },
-    {
-      "releaseid": "auth-service"
     }
   ],
-  "created": 1567567491,
-  "updated": 1567567491,
+  "created": 1568691792,
+  "updated": 1568691792,
   "status": "active",
   "dependants": [],
   "dependents": [
+    {
+      "moduleid": "microservice-home-graph-container",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-graph-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
     {
       "moduleid": "microservice-config",
       "references": [
@@ -45,6 +46,19 @@
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-account-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
+          "fullname": "github.com:vicjicaman/microservice-account-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-account-config.version"
         }
       ]
     },

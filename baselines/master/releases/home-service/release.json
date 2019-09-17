@@ -1,6 +1,6 @@
 {
   "releaseid": "home-service",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-home-graph-service",
     "microservice-home-service",

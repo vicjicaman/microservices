@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-home-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6db6848fd7666f80529724d09d09a072b56a04d3",
+    "message": "Add initial home web and graph services\n"
+  },
   "released": {
     "commitid": "6db6848fd7666f80529724d09d09a072b56a04d3",
     "message": "Add initial home web and graph services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "4bdf5ca256fca322d29b93af37ef16390f3fc1b5",
+    "message": "RELEASE:home-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Config params for home microservices",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1568691286,
   "updated": 1568691286,
   "status": "active"

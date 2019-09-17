@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "releases": [
+    {
+      "releaseid": "home-service"
+    }
+  ],
+  "created": 1568691793,
+  "updated": 1568691793,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-home-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-graph-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-home-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-graph",
+          "fullname": "@nebulario/microservice-home-graph",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-home-graph"
+        }
+      ]
+    }
+  ]
+}

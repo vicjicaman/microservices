@@ -5,15 +5,38 @@
   "fullname": "repoflow/microservice-home-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-home-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "496da7d8b3c4e2b8baaa31db91eb62b817b8919b",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "4490fce667ef3b7cef1ba54630d67b17953052a0",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9a277967c5e0d869926fb014e1b2ac40f6f42194",
+    "message": "RELEASE:home-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for home service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-home-container",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home",
+      "fullname": "@nebulario/microservice-home",
+      "version": "1.70.0-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-home"
+    }
+  ],
   "created": 1568691286,
   "updated": 1568691286,
   "status": "active"
