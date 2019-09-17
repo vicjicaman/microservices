@@ -12,5 +12,9 @@
   "description": "Container for the account graph",
   "created": 1568693491,
   "updated": 1568693491,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "be3248331567178fb359632698ca9e63ce73ffa5",
+    "message": "Add recconect functionality for cache and data services\n"
+  }
 }

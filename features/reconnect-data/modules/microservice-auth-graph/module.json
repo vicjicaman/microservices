@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1568734572,
   "updated": 1568734572,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8737b6b64921c106b3b59400d8fc045e70358a45",
+    "message": "Add recconect functionality for cache and data services\n"
+  }
 }

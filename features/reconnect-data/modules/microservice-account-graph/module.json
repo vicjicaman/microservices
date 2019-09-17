@@ -12,5 +12,9 @@
   "description": "Graph for account queries and mutations",
   "created": 1568693522,
   "updated": 1568693522,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "989e6525be88a6d29b4127c865d151bcbefaaf94",
+    "message": "Add recconect functionality for cache and data services\n"
+  }
 }

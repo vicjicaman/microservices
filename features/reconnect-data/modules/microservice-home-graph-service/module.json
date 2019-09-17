@@ -12,5 +12,9 @@
   "description": "Service and deployment for home",
   "created": 1568736537,
   "updated": 1568736537,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "dedeac74976203c6d308b2d933c8000f90ea098e",
+    "message": "RELEASE:home-service:1.70.0-master\n"
+  }
 }

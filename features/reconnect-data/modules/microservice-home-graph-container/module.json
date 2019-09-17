@@ -12,5 +12,9 @@
   "description": "Container for the home service",
   "created": 1568736510,
   "updated": 1568736510,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b8a1201316722deee91d036736b1b0ca1ef7ac1e",
+    "message": "Add recconect functionality for cache and data services\n"
+  }
 }
