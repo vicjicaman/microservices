@@ -1,0 +1,20 @@
+{
+  "releaseid": "account-page",
+  "moduleid": "microservice-auth-graph",
+  "version": "1.70.6-master",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "233434ddffd2b2508f89fa5174e2c7188018924a",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service app for the auth graph ",
+  "dependencies": [],
+  "created": 1568761813,
+  "updated": 1568761813,
+  "status": "active"
+}

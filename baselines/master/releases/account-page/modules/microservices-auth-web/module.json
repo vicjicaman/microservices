@@ -1,0 +1,20 @@
+{
+  "releaseid": "account-page",
+  "moduleid": "microservices-auth-web",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/microservices-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservices-auth-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "99bf10859597e67f93a4aca2fa7ba538c18ecc9b",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Auth web UI for register, login and user profile",
+  "dependencies": [],
+  "created": 1568761814,
+  "updated": 1568761814,
+  "status": "active"
+}

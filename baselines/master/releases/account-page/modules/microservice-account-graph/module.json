@@ -1,0 +1,20 @@
+{
+  "releaseid": "account-page",
+  "moduleid": "microservice-account-graph",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "ea95cbf9bd9d20317ae9aab5a630f41451c02b70",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for account queries and mutations",
+  "dependencies": [],
+  "created": 1568761813,
+  "updated": 1568761813,
+  "status": "active"
+}
