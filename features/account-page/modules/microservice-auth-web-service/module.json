@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
   "fullname": "microservice-auth-web-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes service and deployment for the web app",
   "created": 1568745570,
   "updated": 1568745570,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4efaff9801051b187e175c028cdaede40bb34a61",
+    "message": "Add unregister functionality and update layout\n"
+  }
 }

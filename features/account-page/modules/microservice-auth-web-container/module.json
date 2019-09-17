@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
   "fullname": "repoflow/microservice-auth-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the web app",
   "created": 1568745580,
   "updated": 1568745580,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c26d8fc888ecfab572e57ae7c9ae6b5d1f2ad9ab",
+    "message": "Add unregister functionality and update layout\n"
+  }
 }

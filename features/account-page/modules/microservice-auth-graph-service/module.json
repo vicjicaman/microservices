@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
   "fullname": "microservice-auth-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph service for the user auth",
   "created": 1568750778,
   "updated": 1568750778,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "85942f2024b6f14b4f39d25a990208e7e5317978",
+    "message": "RELEASE:reconnect-data:1.70.5-master\n"
+  }
 }

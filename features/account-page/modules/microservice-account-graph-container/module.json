@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-container.git",
   "fullname": "repoflow/microservice-account-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the account graph",
   "created": 1568753054,
   "updated": 1568753054,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "be0023938345fb26c0d61e8734e228871d37e316",
+    "message": "Add unregister functionality and update layout\n"
+  }
 }

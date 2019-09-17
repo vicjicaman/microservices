@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
   "fullname": "microservice-account-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Inner service for the account manipulation",
   "created": 1568753014,
   "updated": 1568753014,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "709b5a24f262181ca71b531ae0945df958c0eb17",
+    "message": "RELEASE:reconnect-data:1.70.1-master\n"
+  }
 }

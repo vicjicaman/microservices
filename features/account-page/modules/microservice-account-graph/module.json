@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph.git",
   "fullname": "@nebulario/microservice-account-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for account queries and mutations",
   "created": 1568753101,
   "updated": 1568753101,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "eac65064b45eacb25681a3615d5eb2d05fb962d7",
+    "message": "Add unregister functionality and update layout\n"
+  }
 }
