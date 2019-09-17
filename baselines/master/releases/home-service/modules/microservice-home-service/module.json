@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-service",
+  "moduleid": "microservice-home-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-home-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "51a9c629caded0fec9dc2c8d858cba6b1174a178",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Home kubernetes service and deployment for microservices demo",
+  "dependencies": [],
+  "created": 1568691286,
+  "updated": 1568691286,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-service",
+  "moduleid": "microservice-home",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/microservice-home",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home.git",
+  "publish": null,
+  "released": {
+    "commitid": "af4e7a26e2987a40ead942bcb92836f2f1f8fb02",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Home service app/code for microservices with Kubernetes",
+  "dependencies": [],
+  "created": 1568691286,
+  "updated": 1568691286,
+  "status": "active"
+}

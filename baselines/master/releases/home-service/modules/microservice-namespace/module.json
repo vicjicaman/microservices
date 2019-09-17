@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-service",
+  "moduleid": "microservice-namespace",
+  "version": "1.70.4-master",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "6d8b49e448e554c117c4c6c1c217648b5ac12cda",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Namespace for the microservices demo",
+  "dependencies": [],
+  "created": 1568691286,
+  "updated": 1568691286,
+  "status": "active"
+}

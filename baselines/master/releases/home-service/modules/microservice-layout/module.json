@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-service",
+  "moduleid": "microservice-layout",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/microservice-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-layout.git",
+  "publish": null,
+  "released": {
+    "commitid": "62f3bd106ac36dbd930ac79539af7eebc2719a13",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Shared layout for microservices",
+  "dependencies": [],
+  "created": 1568691286,
+  "updated": 1568691286,
+  "status": "active"
+}
