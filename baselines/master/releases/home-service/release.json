@@ -1,0 +1,18 @@
+{
+  "releaseid": "home-service",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-home-graph-service",
+    "microservice-home-service",
+    "microservice-namespace",
+    "microservice-home-container",
+    "microservice-home-graph-container",
+    "microservice-home",
+    "microservice-home-graph",
+    "microservice-home-config",
+    "microservice-layout"
+  ],
+  "created": 1568691286,
+  "updated": 1568691286,
+  "status": "active"
+}
