@@ -1,0 +1,20 @@
+{
+  "releaseid": "reconnect-data",
+  "moduleid": "microservice-auth-graph-service",
+  "version": "1.70.5-master",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "1dc7b4d59c3d9d9773a643c13b11e572fd7f669b",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph service for the user auth",
+  "dependencies": [],
+  "created": 1568740536,
+  "updated": 1568740536,
+  "status": "active"
+}

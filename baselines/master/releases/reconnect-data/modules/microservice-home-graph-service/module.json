@@ -1,0 +1,20 @@
+{
+  "releaseid": "reconnect-data",
+  "moduleid": "microservice-home-graph-service",
+  "version": "1.70.1-master",
+  "fullname": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "3f31ed12ce0cc636a5663f973fcf41e9bf5b0466",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service and deployment for home",
+  "dependencies": [],
+  "created": 1568740536,
+  "updated": 1568740536,
+  "status": "active"
+}

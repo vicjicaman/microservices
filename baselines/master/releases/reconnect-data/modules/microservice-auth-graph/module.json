@@ -1,0 +1,20 @@
+{
+  "releaseid": "reconnect-data",
+  "moduleid": "microservice-auth-graph",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "55edb5d687fdcf5344fb989321e8542f54ae6dc0",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service app for the auth graph ",
+  "dependencies": [],
+  "created": 1568740536,
+  "updated": 1568740536,
+  "status": "active"
+}

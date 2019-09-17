@@ -1,0 +1,19 @@
+{
+  "releaseid": "reconnect-data",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-auth-graph-service",
+    "microservice-home-graph-service",
+    "microservice-account-graph-container",
+    "microservice-auth-graph-container",
+    "microservice-home-graph-container",
+    "microservice-account-graph",
+    "microservice-auth-graph",
+    "microservice-home-graph",
+    "microservice-auth-common"
+  ],
+  "created": 1568740535,
+  "updated": 1568740535,
+  "status": "active"
+}
