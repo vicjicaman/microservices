@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-home-config.git",
+  "fullname": "github.com:vicjicaman/microservice-home-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config params for home microservices",
+  "created": 1568577333,
+  "updated": 1568577333,
+  "status": "active",
+  "commit": {
+    "commitid": "6db6848fd7666f80529724d09d09a072b56a04d3",
+    "message": "Add initial home web and graph services\n"
+  }
+}

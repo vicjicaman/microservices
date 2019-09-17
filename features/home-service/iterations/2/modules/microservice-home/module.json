@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home",
+  "mode": "prod",
+  "version": "1.70.1-home-service-prod",
+  "fullname": "@nebulario/microservice-home",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home.git",
+  "publish": {
+    "commitid": "4d9714062f8c60697c249b65e5d80a7d51a6634e",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "9c84019cb440a9eed1bc67d19edf4d82ce6aa738",
+    "message": "Include default items in layout\n"
+  },
+  "mergeback": {
+    "commitid": "af4e7a26e2987a40ead942bcb92836f2f1f8fb02",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1568690706,
+  "updated": 1568690706,
+  "status": "active"
+}

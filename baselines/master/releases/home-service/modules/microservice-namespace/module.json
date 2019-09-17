@@ -5,15 +5,46 @@
   "fullname": "microservice-namespace",
   "type": "namespace",
   "url": "github.com:vicjicaman/microservice-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "99ded6897dd8cf4ff01a84e2433701f4f179af29",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "6d8b49e448e554c117c4c6c1c217648b5ac12cda",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "73d6e6dd3d29e684fff27c67244d5a18128f25cb",
+    "message": "RELEASE:home-service:1.70.4-master\n"
+  },
   "releaseType": "patch",
   "description": "Namespace for the microservices demo",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+      "fullname": "github.com:vicjicaman/microservice-home-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-home-config.version"
+    }
+  ],
   "created": 1568691286,
   "updated": 1568691286,
   "status": "active"

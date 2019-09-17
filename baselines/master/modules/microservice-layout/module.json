@@ -2,6 +2,9 @@
   "moduleid": "microservice-layout",
   "releases": [
     {
+      "releaseid": "home-service"
+    },
+    {
       "releaseid": "dev-auth-service"
     }
   ],
@@ -9,6 +12,19 @@
   "updated": 1568479646,
   "status": "active",
   "dependants": [
+    {
+      "moduleid": "microservice-home",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
+          "fullname": "@nebulario/microservice-layout",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-layout"
+        }
+      ]
+    },
     {
       "moduleid": "microservices-auth-web",
       "references": [

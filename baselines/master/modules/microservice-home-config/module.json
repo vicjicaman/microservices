@@ -1,0 +1,67 @@
+{
+  "moduleid": "microservice-home-config",
+  "releases": [
+    {
+      "releaseid": "home-service"
+    }
+  ],
+  "created": 1568691794,
+  "updated": 1568691794,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-home-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+          "fullname": "github.com:vicjicaman/microservice-home-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-home-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-home-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+          "fullname": "github.com:vicjicaman/microservice-home-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-home-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+          "fullname": "github.com:vicjicaman/microservice-home-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-home-config.version"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    }
+  ]
+}

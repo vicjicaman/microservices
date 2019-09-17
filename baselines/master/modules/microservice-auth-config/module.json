@@ -84,12 +84,25 @@
       ]
     },
     {
+      "moduleid": "microservice-home-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.3-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-namespace",
       "references": [
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"

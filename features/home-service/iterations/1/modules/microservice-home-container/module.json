@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-container",
+  "mode": "prod",
+  "version": "1.70.0-home-service-prod",
+  "fullname": "repoflow/microservice-home-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-container.git",
+  "publish": {
+    "commitid": "a8fd719d0d58a14dde5cbf0d92c47f3dbc090947",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "820222e8b17b67f540224656f49c92715194e741",
+    "message": "Add initial home web and graph services\n"
+  },
+  "mergeback": {
+    "commitid": "ebeade9e5581964fd78e9fa9d8c4ea29b2a54db2",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1568673174,
+  "updated": 1568673174,
+  "status": "active"
+}

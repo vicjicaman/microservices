@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home.git",
+  "fullname": "@nebulario/microservice-home",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Home service app/code for microservices with Kubernetes",
+  "created": 1568561725,
+  "updated": 1568561725,
+  "status": "active",
+  "commit": {
+    "commitid": "af4e7a26e2987a40ead942bcb92836f2f1f8fb02",
+    "message": "ITERATION:2\n"
+  }
+}

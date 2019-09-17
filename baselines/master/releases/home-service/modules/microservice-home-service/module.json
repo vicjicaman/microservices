@@ -5,15 +5,62 @@
   "fullname": "microservice-home-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-home-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5f2bcc8180e7a39c1ec89b588958596d016e4788",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "51a9c629caded0fec9dc2c8d858cba6b1174a178",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1343b7a58ece430a73a1d8768863717bfdd17d66",
+    "message": "RELEASE:home-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Home kubernetes service and deployment for microservices demo",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-home-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|deployment.yaml|metadata.labels.version",
+      "fullname": "microservice-home-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "deployment.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-home-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "deployment.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+      "fullname": "github.com:vicjicaman/microservice-home-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-home-config.version"
+    }
+  ],
   "created": 1568691286,
   "updated": 1568691286,
   "status": "active"
