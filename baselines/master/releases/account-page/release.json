@@ -1,0 +1,18 @@
+{
+  "releaseid": "account-page",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-auth-graph-service",
+    "microservice-auth-web-service",
+    "microservice-account-graph-container",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-account-graph",
+    "microservice-auth-graph",
+    "microservices-auth-web"
+  ],
+  "created": 1568761813,
+  "updated": 1568761813,
+  "status": "active"
+}
