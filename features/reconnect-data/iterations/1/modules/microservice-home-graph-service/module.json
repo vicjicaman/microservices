@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-reconnect-data-prod",
+  "fullname": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "dedeac74976203c6d308b2d933c8000f90ea098e",
+    "message": "RELEASE:home-service:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568737706,
+  "updated": 1568737706,
+  "status": "active"
+}

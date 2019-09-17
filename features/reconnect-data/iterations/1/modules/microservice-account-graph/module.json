@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-account-graph",
+  "mode": "prod",
+  "version": "1.70.0-reconnect-data-prod",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "989e6525be88a6d29b4127c865d151bcbefaaf94",
+    "message": "Add recconect functionality for cache and data services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568737706,
+  "updated": 1568737706,
+  "status": "active"
+}

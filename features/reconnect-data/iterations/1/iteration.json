@@ -1,0 +1,71 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-auth-graph-service",
+    "microservice-home-graph-service",
+    "microservice-account-graph-container",
+    "microservice-auth-graph-container",
+    "microservice-home-graph-container",
+    "microservice-account-graph",
+    "microservice-auth-graph",
+    "microservice-home-graph",
+    "microservice-auth-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-account-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    },
+    {
+      "moduleid": "microservice-auth-common",
+      "iterationid": 1,
+      "version": "1.70.0-reconnect-data-prod"
+    }
+  ],
+  "created": 1568737706,
+  "updated": 1568737706,
+  "status": "active"
+}
