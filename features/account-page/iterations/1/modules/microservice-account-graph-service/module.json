@@ -5,12 +5,18 @@
   "fullname": "microservice-account-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d8380966ee4b57a1c1af7278505fc2de5c5827d1",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "709b5a24f262181ca71b531ae0945df958c0eb17",
     "message": "RELEASE:reconnect-data:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1de03e18c29fd7060573fb409a1eb2a96e148a08",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568760909,
   "updated": 1568760909,

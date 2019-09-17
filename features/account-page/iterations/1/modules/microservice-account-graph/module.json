@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-account-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-account-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "11d9e681ccfd5f2a085e7eb5311bc1d2f173a4fd",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "eac65064b45eacb25681a3615d5eb2d05fb962d7",
     "message": "Add unregister functionality and update layout\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ea95cbf9bd9d20317ae9aab5a630f41451c02b70",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568760910,
   "updated": 1568760910,

@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-web-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b7008fe91d8c2efa38deda6beb0bd2a9fa701ba2",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "4efaff9801051b187e175c028cdaede40bb34a61",
     "message": "Add unregister functionality and update layout\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6091f7c337010d4a4f2aefe0c7767e8878e64a89",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568760910,
   "updated": 1568760910,
