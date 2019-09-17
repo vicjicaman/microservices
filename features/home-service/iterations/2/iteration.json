@@ -1,0 +1,60 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-home-service",
+    "microservice-home-container",
+    "microservice-home",
+    "microservice-layout"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-home-graph-service",
+      "version": "1.70.0-home-service-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-home-service",
+      "version": "1.70.1-home-service-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "version": "1.70.0-home-service-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-home-container",
+      "version": "1.70.1-home-service-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-home-graph-container",
+      "version": "1.70.0-home-service-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-home",
+      "version": "1.70.1-home-service-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "version": "1.70.0-home-service-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-home-config",
+      "version": "1.70.0-home-service-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-layout",
+      "iterationid": 2,
+      "version": "1.70.0-home-service-prod"
+    }
+  ],
+  "created": 1568690706,
+  "updated": 1568690706,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-service",
+  "mode": "prod",
+  "version": "1.70.1-home-service-prod",
+  "fullname": "microservice-home-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ce00b0106c6698da6ff1695e3f9433733320bac6",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568690706,
+  "updated": 1568690706,
+  "status": "active"
+}

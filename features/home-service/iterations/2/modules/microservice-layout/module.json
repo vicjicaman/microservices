@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-layout",
+  "mode": "prod",
+  "version": "1.70.0-home-service-prod",
+  "fullname": "@nebulario/microservice-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-layout.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "daa462d81b9738718173a6d0374fcb7daff8ffba",
+    "message": "Include default items in layout\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568690706,
+  "updated": 1568690706,
+  "status": "active"
+}
