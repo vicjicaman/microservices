@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-home-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-home-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "928d5a1e7dee9641672ac3ceda5c47bb9425f410",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "b8a1201316722deee91d036736b1b0ca1ef7ac1e",
     "message": "Add recconect functionality for cache and data services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7f17abdde837cb45f949d4e84836dcbb6830a6b5",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568737706,
   "updated": 1568737706,

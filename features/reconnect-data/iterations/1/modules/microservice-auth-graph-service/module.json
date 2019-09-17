@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "83038d67d31b5f634e09f875ab4e94acfb56b8c2",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "37c2ed4e29ca777deb72731c47c685f002f0ea1b",
     "message": "RELEASE:auth-common:1.70.4-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1dc7b4d59c3d9d9773a643c13b11e572fd7f669b",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1568737706,
   "updated": 1568737706,
