@@ -2,7 +2,7 @@
   "moduleid": "microservice-blog-web-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
-  "fullname": "@repoflow/microservice-blog-web-container",
+  "fullname": "repoflow/microservice-blog-web-container",
   "iteration": {
     "mode": "dev"
   },
