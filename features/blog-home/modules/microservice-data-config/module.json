@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-data-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-data-config.git",
+  "fullname": "github.com:vicjicaman/microservice-data-config.git",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for misc data service",
+  "created": 1568768560,
+  "updated": 1568768560,
+  "status": "active"
+}

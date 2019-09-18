@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-blog-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for blog graph and web services",
+  "created": 1568777602,
+  "updated": 1568777602,
+  "status": "active"
+}

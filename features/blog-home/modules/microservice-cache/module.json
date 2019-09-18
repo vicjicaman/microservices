@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-cache.git",
+  "fullname": "microservice-cache",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Misc cache for services [blog, threads, activity, comments, etc]",
+  "created": 1568768508,
+  "updated": 1568768508,
+  "status": "active"
+}

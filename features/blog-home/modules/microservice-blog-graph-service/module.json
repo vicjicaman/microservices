@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-blog-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-graph-service.git",
+  "fullname": "microservice-blog-graph-service",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Service for the blog graph",
+  "created": 1568772168,
+  "updated": 1568772168,
+  "status": "active"
+}
