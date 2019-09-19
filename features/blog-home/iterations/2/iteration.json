@@ -1,0 +1,77 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-graph-service",
+    "microservice-data",
+    "microservice-blog-web-service",
+    "microservice-cache",
+    "microservice-blog-web-container",
+    "microservice-cache-config",
+    "microservice-data-config",
+    "microservice-blog-graph-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-blog-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-blog-graph-service",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-data",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-blog-web-service",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-cache",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-blog-web-container",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-cache-config",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-data-config",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-blog-graph",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-blog-web",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-blog-config",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1568934534,
+  "updated": 1568934534,
+  "status": "active"
+}

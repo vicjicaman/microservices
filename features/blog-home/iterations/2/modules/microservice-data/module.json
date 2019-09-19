@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-data",
+  "mode": "prod",
+  "version": "1.70.1-blog-home-prod",
+  "fullname": "microservice-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-data.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d15be4f24e8f9e52fb247be43e181f8703b12516",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568934534,
+  "updated": 1568934534,
+  "status": "active"
+}
