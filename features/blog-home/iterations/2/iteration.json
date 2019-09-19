@@ -1,6 +1,6 @@
 {
   "iterationid": 2,
-  "phase": "invalid",
+  "phase": "releasing",
   "hierarchy": [
     "microservice-blog-graph-service",
     "microservice-data",
