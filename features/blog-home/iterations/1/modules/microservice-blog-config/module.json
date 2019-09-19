@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-config",
+  "mode": "prod",
+  "version": "1.70.0-blog-home-prod",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c6af3bdcd67bd296cd5463d8e82872ce0667874e",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568933963,
+  "updated": 1568933963,
+  "status": "active"
+}
