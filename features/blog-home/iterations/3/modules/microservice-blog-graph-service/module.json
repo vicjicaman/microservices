@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph-service",
+  "mode": "prod",
+  "version": "1.70.2-blog-home-prod",
+  "fullname": "microservice-blog-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c88f7ff25cfa7a59b5058f933049e4c9c669335b",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1568934819,
+  "updated": 1568934819,
+  "status": "active"
+}

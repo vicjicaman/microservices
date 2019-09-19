@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web",
+  "mode": "prod",
+  "version": "1.70.2-blog-home-prod",
+  "fullname": "@nebulario/microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bba943c6b9c255a331c01bff6f9e7d5b8c02a6f3",
+    "message": "Fix typo in package name\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1568934820,
+  "updated": 1568934820,
+  "status": "active"
+}

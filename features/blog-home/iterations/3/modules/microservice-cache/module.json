@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-cache",
+  "mode": "prod",
+  "version": "1.70.2-blog-home-prod",
+  "fullname": "microservice-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-cache.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1412748596638b0b9c70ea978cb85f0d60e4abcb",
+    "message": "Add missing url in config dependency\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1568934819,
+  "updated": 1568934819,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "prod",
+  "version": "1.70.2-blog-home-prod",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3c656b21e1ae230cf3dd9bb8d55921ddb55ed287",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1568934819,
+  "updated": 1568934819,
+  "status": "active"
+}
