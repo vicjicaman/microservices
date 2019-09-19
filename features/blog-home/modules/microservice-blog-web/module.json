@@ -14,7 +14,7 @@
   "updated": 1568768710,
   "status": "active",
   "commit": {
-    "commitid": "8c7fe8bf3424a2fe04c5db8383a76be9db773a16",
-    "message": "Add initial service, container and app for blog functionality\n"
+    "commitid": "2a5f86d9e6af4339ec8914c040bbee018d55e7bd",
+    "message": "Change the package name from auth to blog in graph and web\n"
   }
 }
