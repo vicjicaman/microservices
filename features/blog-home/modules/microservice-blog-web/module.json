@@ -14,7 +14,7 @@
   "updated": 1568768710,
   "status": "active",
   "commit": {
-    "commitid": "2a5f86d9e6af4339ec8914c040bbee018d55e7bd",
-    "message": "Change the package name from auth to blog in graph and web\n"
+    "commitid": "bba943c6b9c255a331c01bff6f9e7d5b8c02a6f3",
+    "message": "Fix typo in package name\n"
   }
 }
