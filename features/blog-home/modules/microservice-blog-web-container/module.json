@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
   "fullname": "repoflow/microservice-blog-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the blog web service",
   "created": 1568772335,
   "updated": 1568772335,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "3c656b21e1ae230cf3dd9bb8d55921ddb55ed287",
+    "message": "Add resulting config and kubernetes entities\n"
+  }
 }

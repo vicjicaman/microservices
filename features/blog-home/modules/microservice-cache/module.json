@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-cache.git",
   "fullname": "microservice-cache",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Misc cache for services [blog, threads, activity, comments, etc]",
   "created": 1568768508,
   "updated": 1568768508,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1412748596638b0b9c70ea978cb85f0d60e4abcb",
+    "message": "Add missing url in config dependency\n"
+  }
 }

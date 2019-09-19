@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-graph.git",
   "fullname": "@nebulario/microservice-blog-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for the blog service",
   "created": 1568771495,
   "updated": 1568771495,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "01dbf7c48c850bb32f9087beae63f12d03ef4942",
+    "message": "Add initial service, container and app for blog functionality\n"
+  }
 }

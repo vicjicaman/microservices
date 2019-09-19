@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web.git",
   "fullname": "@nebulario/microservice-blog-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Web app for the blog service",
   "created": 1568768710,
   "updated": 1568768710,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8c7fe8bf3424a2fe04c5db8383a76be9db773a16",
+    "message": "Add initial service, container and app for blog functionality\n"
+  }
 }

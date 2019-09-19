@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-data.git",
   "fullname": "microservice-data",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Stateful service for misc information [blogs, threads, activity, etc]",
   "created": 1568768464,
   "updated": 1568768464,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d15be4f24e8f9e52fb247be43e181f8703b12516",
+    "message": "Add resulting config and kubernetes entities\n"
+  }
 }

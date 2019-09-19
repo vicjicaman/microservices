@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-config.git",
   "fullname": "github.com:vicjicaman/microservice-blog-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Config for blog graph and web services",
   "created": 1568777602,
   "updated": 1568777602,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c6af3bdcd67bd296cd5463d8e82872ce0667874e",
+    "message": "Add resulting config and kubernetes entities\n"
+  }
 }

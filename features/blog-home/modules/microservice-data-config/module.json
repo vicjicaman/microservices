@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-data-config.git",
   "fullname": "github.com:vicjicaman/microservice-data-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Config for misc data service",
   "created": 1568768560,
   "updated": 1568768560,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d03e2b526a3c83adbc2171e1dbb1db9383baf48f",
+    "message": "Add resulting config and kubernetes entities\n"
+  }
 }
