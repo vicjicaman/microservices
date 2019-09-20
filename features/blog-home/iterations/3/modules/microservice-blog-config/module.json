@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-blog-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-blog-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c6af3bdcd67bd296cd5463d8e82872ce0667874e",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "iterate": {
     "commitid": "c6af3bdcd67bd296cd5463d8e82872ce0667874e",
     "message": "Add resulting config and kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c6af3bdcd67bd296cd5463d8e82872ce0667874e",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "releasedOn": 3,
   "created": 1568934820,
   "updated": 1568934820,

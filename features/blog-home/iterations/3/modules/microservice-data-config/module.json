@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-data-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-data-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d03e2b526a3c83adbc2171e1dbb1db9383baf48f",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "iterate": {
     "commitid": "d03e2b526a3c83adbc2171e1dbb1db9383baf48f",
     "message": "Add resulting config and kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d03e2b526a3c83adbc2171e1dbb1db9383baf48f",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "releasedOn": 3,
   "created": 1568934820,
   "updated": 1568934820,

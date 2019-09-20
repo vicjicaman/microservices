@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-cache-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-cache-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "bed11ce58000acab486526bae94c0078780c0b19",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "iterate": {
     "commitid": "bed11ce58000acab486526bae94c0078780c0b19",
     "message": "Add resulting config and kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "bed11ce58000acab486526bae94c0078780c0b19",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "releasedOn": 3,
   "created": 1568934819,
   "updated": 1568934819,

@@ -5,12 +5,18 @@
   "fullname": "microservice-blog-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-blog-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "75e04d677ceae2ad6c03a9d85dd7afb0f3651c6c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "c88f7ff25cfa7a59b5058f933049e4c9c669335b",
     "message": "Add resulting config and kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "cbc8515651c6a458cde7b1946454c1ea310e5413",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1568934819,
   "updated": 1568934819,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-blog-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-blog-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "34a79ed875a51d36174acd13ba7e9e624573b113",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "bba943c6b9c255a331c01bff6f9e7d5b8c02a6f3",
     "message": "Fix typo in package name\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6ac87b4c760943cd12af74d437daf5e8b95fd711",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1568934820,
   "updated": 1568934820,

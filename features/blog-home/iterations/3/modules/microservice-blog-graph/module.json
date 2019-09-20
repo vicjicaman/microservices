@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-blog-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-blog-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b4a30b123c193d8d8a80251423dc6d1c25f71eb7",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "51a88ad585128fc17ea6a3d5682727a73d352f55",
     "message": "Change the package name from auth to blog in graph and web\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5064819a6a28db3e8b277c3483e999cbaab3e981",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1568934820,
   "updated": 1568934820,

@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-blog-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9f92b7934dc7ded499728fca14c614a4553ba2f1",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "8ddcb3ed3626b694214a205cc7bb126e68bfd3dc",
     "message": "Add resulting config and kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b0fe8f67141f3f837ffae16da6a4ee2cc66c20b3",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1568934820,
   "updated": 1568934820,

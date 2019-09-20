@@ -5,12 +5,18 @@
   "fullname": "microservice-cache",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-cache.git",
-  "publish": null,
+  "publish": {
+    "commitid": "422af8d1191708209cb709f29bd6cb07af0b87b9",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "1412748596638b0b9c70ea978cb85f0d60e4abcb",
     "message": "Add missing url in config dependency\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1af0881d8da7c6c0cc46b9f678755058ac66dbfa",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1568934819,
   "updated": 1568934819,
