@@ -1,7 +1,7 @@
 {
   "moduleid": "microservice-auth-cache-config",
   "type": "config",
-  "url": "github.com:vicjicaman/microservice-auth-data-config.git",
+  "url": "github.com:vicjicaman/microservice-auth-cache-config.git",
   "fullname": "github.com:vicjicaman/microservice-auth-cache-config.git",
   "iteration": {
     "mode": "dev"
@@ -9,12 +9,8 @@
   "release": {
     "type": "patch"
   },
-  "description": "Config for the auth cache service",
-  "created": 1569031123,
-  "updated": 1569031123,
-  "status": "active",
-  "commit": {
-    "commitid": "661369a5ff8bb6eabc2a312c80985b8da4730e43",
-    "message": "Initial commit"
-  }
+  "description": "Config for cache auth service",
+  "created": 1569082711,
+  "updated": 1569082711,
+  "status": "active"
 }
