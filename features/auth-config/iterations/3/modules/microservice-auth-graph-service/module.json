@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "info",
+  "version": "1.70.2-auth-config-info",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e1abfd99686cadb3c61432445e9d122be4bbad91",
+    "message": "Fix data to cache naming in microservice-auth-data\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1569107809,
+  "updated": 1569107809,
+  "status": "active"
+}
