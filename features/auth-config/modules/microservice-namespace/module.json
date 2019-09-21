@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-namespace.git",
   "fullname": "microservice-namespace",
   "iteration": {
-    "mode": "prod"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569031591,
   "status": "active",
   "commit": {
-    "commitid": "73d6e6dd3d29e684fff27c67244d5a18128f25cb",
-    "message": "RELEASE:home-service:1.70.4-master\n"
+    "commitid": "69c50a4e0b5fb794f96549d6f19e7a315af2c25a",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

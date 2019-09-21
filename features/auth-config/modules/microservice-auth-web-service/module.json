@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
   "fullname": "microservice-auth-web-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569031629,
   "status": "active",
   "commit": {
-    "commitid": "6591ea78f59cf904f88d35f67b0dbbdb213c94af",
-    "message": "RELEASE:account-page:1.70.2-master\n"
+    "commitid": "9808f4829973f50dbd43c3ce2b578d54e73d6977",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

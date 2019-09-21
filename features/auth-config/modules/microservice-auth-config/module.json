@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-config.git",
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569031155,
   "status": "active",
   "commit": {
-    "commitid": "caefc4ecc6bd02e4ea5495d988852c0808bee78b",
-    "message": "RELEASE:auth-common:1.70.3-master\n"
+    "commitid": "e86d90b231f02e4cd35084704d788b3cc9371d46",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

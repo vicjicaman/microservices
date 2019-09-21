@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph-service.git",
   "fullname": "microservice-home-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569031556,
   "status": "active",
   "commit": {
-    "commitid": "419b26b46e31546ed496e1b013648249737105f1",
-    "message": "RELEASE:reconnect-data:1.70.1-master\n"
+    "commitid": "e25e3886f1daaa47887b3c11fff2fe618613bae6",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-service.git",
   "fullname": "microservice-home-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569032812,
   "status": "active",
   "commit": {
-    "commitid": "1343b7a58ece430a73a1d8768863717bfdd17d66",
-    "message": "RELEASE:home-service:1.70.0-master\n"
+    "commitid": "58e552ab4a5495ef942d0cbc99b16bef2410425e",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

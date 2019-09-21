@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
   "fullname": "microservice-account-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569031503,
   "status": "active",
   "commit": {
-    "commitid": "1f26d220ebec0eb936f4e57381abf8573bd88979",
-    "message": "RELEASE:account-page:1.70.2-master\n"
+    "commitid": "7db891eaf05542de7669042de8e3651bb2953743",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

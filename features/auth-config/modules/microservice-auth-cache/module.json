@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-cache.git",
   "fullname": "microservice-auth-cache",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569031188,
   "status": "active",
   "commit": {
-    "commitid": "c6f77c6532706e2301ab67b9213b8a575e76a569",
-    "message": "RELEASE:auth-base-cache-data:1.70.1-master\n"
+    "commitid": "250b62d277b9d3c9c62f5d171dfec5eeda5fd0c0",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

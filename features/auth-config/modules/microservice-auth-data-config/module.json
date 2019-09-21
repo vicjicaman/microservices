@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-data-config.git",
   "fullname": "github.com:vicjicaman/microservice-auth-data-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569031084,
   "status": "active",
   "commit": {
-    "commitid": "661369a5ff8bb6eabc2a312c80985b8da4730e43",
-    "message": "Initial commit"
+    "commitid": "658259ea357c1700483593f9da43fc8253f3e3ef",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }

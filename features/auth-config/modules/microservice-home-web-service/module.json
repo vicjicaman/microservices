@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web-service.git",
   "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "info"
   },
   "release": {
     "type": "patch"
@@ -14,7 +14,7 @@
   "updated": 1569032935,
   "status": "active",
   "commit": {
-    "commitid": "9b298646f63e797a6a946e68a6b043b34bd73e1e",
-    "message": "Initial commit"
+    "commitid": "a51406882dbba23bc9ee0e2acc94506137d96204",
+    "message": "Build configuration hierarchy based on a config per service\n"
   }
 }
