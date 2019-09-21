@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "prod",
+  "version": "1.70.0-blog-home-prod",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4e60cd2ab0d3d2fbebcce961ba8540f0c94a79ee",
+    "message": "Initial config, graph and web for blog articles\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1569029371,
+  "updated": 1569029371,
+  "status": "active"
+}
