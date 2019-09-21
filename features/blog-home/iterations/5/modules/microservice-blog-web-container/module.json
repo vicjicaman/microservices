@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "prod",
+  "version": "1.70.4-blog-home-prod",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5ba40a78b1e23072d95efb6c47074ddd13475e0a",
+    "message": "Sync to latest iteration\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1569030267,
+  "updated": 1569030267,
+  "status": "active"
+}

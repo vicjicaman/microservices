@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.4-blog-home-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5fdf82b5efdcc667cb55c8dd2e26c1a7e2e745bc",
+    "message": "Sync to latest iteration\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1569030267,
+  "updated": 1569030267,
+  "status": "active"
+}
