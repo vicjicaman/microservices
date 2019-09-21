@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "fullname": "microservice-auth-cache",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Redis service to store auth sessions",
+  "created": 1569031188,
+  "updated": 1569031188,
+  "status": "active"
+}

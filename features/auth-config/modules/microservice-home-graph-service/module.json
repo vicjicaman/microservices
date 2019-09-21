@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "fullname": "microservice-home-graph-service",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Service and deployment for home",
+  "created": 1569031556,
+  "updated": 1569031556,
+  "status": "active"
+}

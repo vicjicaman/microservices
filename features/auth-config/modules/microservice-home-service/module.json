@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-home-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-service.git",
+  "fullname": "microservice-home-service",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Home kubernetes service and deployment for microservices demo",
+  "created": 1569032812,
+  "updated": 1569032812,
+  "status": "active"
+}
