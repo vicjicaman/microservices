@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-home-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "19738bb41581b5aea4d65fbcc44d59819bbd2b1a",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
   "iterate": {
     "commitid": "19738bb41581b5aea4d65fbcc44d59819bbd2b1a",
     "message": "Build configuration hierarchy based on a config per service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "19738bb41581b5aea4d65fbcc44d59819bbd2b1a",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
   "releasedOn": 2,
   "created": 1569096480,
   "updated": 1569096480,

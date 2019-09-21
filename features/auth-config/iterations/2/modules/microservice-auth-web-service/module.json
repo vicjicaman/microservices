@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-web-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "72021c23a5737e43f8ca814ce6fb17e524b5fd34",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "9808f4829973f50dbd43c3ce2b578d54e73d6977",
     "message": "Build configuration hierarchy based on a config per service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "f65de811d29ed2e213600774b518106c4712859c",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1569096480,
   "updated": 1569096480,

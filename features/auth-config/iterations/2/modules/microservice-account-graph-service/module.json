@@ -5,12 +5,18 @@
   "fullname": "microservice-account-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7627d99510bf64b48b240759ed26e6ddee588a7d",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "7db891eaf05542de7669042de8e3651bb2953743",
     "message": "Build configuration hierarchy based on a config per service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ff54f0654b0a4bbfbbc59c21a3e3be72c921faec",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1569096480,
   "updated": 1569096480,

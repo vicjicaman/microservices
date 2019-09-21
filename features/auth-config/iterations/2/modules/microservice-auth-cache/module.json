@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-cache",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-cache.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b94b9c0511e8ec3f441bd399c02cb5ee5b1a5f5a",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "250b62d277b9d3c9c62f5d171dfec5eeda5fd0c0",
     "message": "Build configuration hierarchy based on a config per service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "30def79367e9cab04bbe5a3b7b1d1a97903e5142",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1569096480,
   "updated": 1569096480,

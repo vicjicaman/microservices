@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d1c7a652d302ca8b9590cff9248069c41e46ef63",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "02722fd1a3621ed1d5405cadc90862dffbba11b1",
     "message": "Build configuration hierarchy based on a config per service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5748ad708273954ec306c373104d21c6a61cbfb5",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1569096480,
   "updated": 1569096480,
