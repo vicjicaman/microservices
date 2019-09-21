@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-service",
+  "mode": "info",
+  "version": "1.70.1-auth-config-info",
+  "fullname": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e25e3886f1daaa47887b3c11fff2fe618613bae6",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1569096480,
+  "updated": 1569096480,
+  "status": "active"
+}

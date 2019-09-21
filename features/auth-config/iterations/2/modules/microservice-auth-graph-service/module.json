@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "info",
+  "version": "1.70.1-auth-config-info",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3572c45ea7ff859fec5aea79fc810864e640e35b",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1569096480,
+  "updated": 1569096480,
+  "status": "active"
+}

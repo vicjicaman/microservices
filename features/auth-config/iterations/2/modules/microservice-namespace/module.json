@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "info",
+  "version": "1.70.1-auth-config-info",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "69c50a4e0b5fb794f96549d6f19e7a315af2c25a",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1569096480,
+  "updated": 1569096480,
+  "status": "active"
+}
