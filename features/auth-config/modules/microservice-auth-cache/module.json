@@ -12,5 +12,9 @@
   "description": "Redis service to store auth sessions",
   "created": 1569031188,
   "updated": 1569031188,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c6f77c6532706e2301ab67b9213b8a575e76a569",
+    "message": "RELEASE:auth-base-cache-data:1.70.1-master\n"
+  }
 }

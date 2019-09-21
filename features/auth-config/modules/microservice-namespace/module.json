@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-namespace.git",
   "fullname": "microservice-namespace",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Namespace for the microservices demo",
   "created": 1569031591,
   "updated": 1569031591,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "73d6e6dd3d29e684fff27c67244d5a18128f25cb",
+    "message": "RELEASE:home-service:1.70.4-master\n"
+  }
 }

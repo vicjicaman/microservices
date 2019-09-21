@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-config.git",
   "fullname": "github.com:vicjicaman/microservice-auth-graph-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Configuration for the graph and events service",
   "created": 1569031287,
   "updated": 1569031287,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "573b5fba59d53cbccb4fbc49924b8f4e7c57a4e2",
+    "message": "RELEASE:auth-service:1.70.1-master\n"
+  }
 }

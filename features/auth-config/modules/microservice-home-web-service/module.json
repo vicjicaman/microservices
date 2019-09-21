@@ -12,5 +12,9 @@
   "description": "Service for the home web UI and graph queries",
   "created": 1569032935,
   "updated": 1569032935,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9b298646f63e797a6a946e68a6b043b34bd73e1e",
+    "message": "Initial commit"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Service and deployment for home",
   "created": 1569031556,
   "updated": 1569031556,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "419b26b46e31546ed496e1b013648249737105f1",
+    "message": "RELEASE:reconnect-data:1.70.1-master\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Home kubernetes service and deployment for microservices demo",
   "created": 1569032812,
   "updated": 1569032812,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1343b7a58ece430a73a1d8768863717bfdd17d66",
+    "message": "RELEASE:home-service:1.70.0-master\n"
+  }
 }

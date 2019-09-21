@@ -12,5 +12,9 @@
   "description": "Config params for home microservices",
   "created": 1569032736,
   "updated": 1569032736,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4bdf5ca256fca322d29b93af37ef16390f3fc1b5",
+    "message": "RELEASE:home-service:1.70.0-master\n"
+  }
 }

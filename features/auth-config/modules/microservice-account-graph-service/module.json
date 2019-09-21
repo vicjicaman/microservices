@@ -12,5 +12,9 @@
   "description": "Inner service for the account manipulation",
   "created": 1569031503,
   "updated": 1569031503,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1f26d220ebec0eb936f4e57381abf8573bd88979",
+    "message": "RELEASE:account-page:1.70.2-master\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Config for the inner account service",
   "created": 1569031149,
   "updated": 1569031149,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "71de012e7cccffa36461dd3ab1725e75d08a939e",
+    "message": "RELEASE:auth-common:1.70.1-master\n"
+  }
 }

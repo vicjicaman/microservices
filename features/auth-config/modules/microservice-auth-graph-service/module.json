@@ -12,5 +12,9 @@
   "description": "Graph service for the user auth",
   "created": 1569031525,
   "updated": 1569031525,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e748ea98721cd6ce7619fc68c3f86f1121c27415",
+    "message": "RELEASE:account-page:1.70.6-master\n"
+  }
 }

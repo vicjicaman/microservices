@@ -12,5 +12,9 @@
   "description": "General configuration for auth service, web, graph and others",
   "created": 1569031155,
   "updated": 1569031155,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "caefc4ecc6bd02e4ea5495d988852c0808bee78b",
+    "message": "RELEASE:auth-common:1.70.3-master\n"
+  }
 }

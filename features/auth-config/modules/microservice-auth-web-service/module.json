@@ -12,5 +12,9 @@
   "description": "Kubernetes service and deployment for the web app",
   "created": 1569031629,
   "updated": 1569031629,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6591ea78f59cf904f88d35f67b0dbbdb213c94af",
+    "message": "RELEASE:account-page:1.70.2-master\n"
+  }
 }
