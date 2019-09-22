@@ -5,12 +5,18 @@
   "fullname": "microservice-account-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b72adc420a2eae3a150580cbe98fa29c10ae9308",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "7647b7437c5eaf3e09dd1b3903ba122c85d6a1de",
     "message": "ITERATION:4\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "61e483bd69990cbe59e9600244582f37999537b5",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1569165293,
   "updated": 1569165293,

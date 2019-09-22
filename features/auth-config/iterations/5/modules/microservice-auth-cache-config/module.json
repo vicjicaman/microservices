@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-auth-cache-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-cache-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ce6b38f3c6b2dc442371ff541890dae8c84451e4",
+    "message": "Build and separate the auth cache service config\n"
+  },
   "iterate": {
     "commitid": "ce6b38f3c6b2dc442371ff541890dae8c84451e4",
     "message": "Build and separate the auth cache service config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ce6b38f3c6b2dc442371ff541890dae8c84451e4",
+    "message": "Build and separate the auth cache service config\n"
+  },
   "releasedOn": 5,
   "created": 1569165293,
   "updated": 1569165293,

@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-account-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-account-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3db241feef1c266a2afd211abdaafef3804a01a9",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
   "iterate": {
     "commitid": "3db241feef1c266a2afd211abdaafef3804a01a9",
     "message": "Build configuration hierarchy based on a config per service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "3db241feef1c266a2afd211abdaafef3804a01a9",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
   "releasedOn": 5,
   "created": 1569165293,
   "updated": 1569165293,
