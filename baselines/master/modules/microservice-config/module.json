@@ -52,6 +52,19 @@
       ]
     },
     {
+      "moduleid": "microservice-auth-cache-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-auth-config",
       "references": [
         {
@@ -66,6 +79,19 @@
     },
     {
       "moduleid": "microservice-auth-data",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-data-config",
       "references": [
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
@@ -144,6 +170,19 @@
     },
     {
       "moduleid": "microservice-home-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-home-web-service",
       "references": [
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",

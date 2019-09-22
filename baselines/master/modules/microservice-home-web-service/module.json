@@ -1,27 +1,12 @@
 {
-  "moduleid": "microservice-namespace",
+  "moduleid": "microservice-home-web-service",
   "releases": [
     {
       "releaseid": "auth-config"
-    },
-    {
-      "releaseid": "home-service"
-    },
-    {
-      "releaseid": "auth-base-cache-data"
-    },
-    {
-      "releaseid": "dev-auth-service"
-    },
-    {
-      "releaseid": "auth-stateful"
-    },
-    {
-      "releaseid": "auth-service"
     }
   ],
-  "created": 1567567491,
-  "updated": 1567567491,
+  "created": 1569172748,
+  "updated": 1569172748,
   "status": "active",
   "dependants": [],
   "dependents": [
@@ -35,19 +20,6 @@
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-auth-config",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.4-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
         }
       ]
     },

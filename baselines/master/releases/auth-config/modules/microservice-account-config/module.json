@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-account-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-account-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3db241feef1c266a2afd211abdaafef3804a01a9",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
   "released": {
     "commitid": "3db241feef1c266a2afd211abdaafef3804a01a9",
     "message": "Build configuration hierarchy based on a config per service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "3e425ed2b42c01e984d0ab540eb64ad364c90663",
+    "message": "RELEASE:auth-config:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Config for the inner account service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1569166000,
   "updated": 1569166000,
   "status": "active"

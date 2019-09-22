@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-auth-cache-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-cache-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "ce6b38f3c6b2dc442371ff541890dae8c84451e4",
+    "message": "Build and separate the auth cache service config\n"
+  },
   "released": {
     "commitid": "ce6b38f3c6b2dc442371ff541890dae8c84451e4",
     "message": "Build and separate the auth cache service config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9b81a66d03ed3e5ceb8860800103a41ca928ed6d",
+    "message": "RELEASE:auth-config:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Config for cache auth service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1569166000,
   "updated": 1569166000,
   "status": "active"
