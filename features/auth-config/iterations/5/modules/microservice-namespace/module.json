@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "prod",
+  "version": "1.70.4-auth-config-prod",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "806b92bfeae4fb7defb3d6799ca9ab1350b6ccb2",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1569165293,
+  "updated": 1569165293,
+  "status": "active"
+}

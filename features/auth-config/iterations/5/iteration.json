@@ -1,0 +1,99 @@
+{
+  "iterationid": 5,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-namespace",
+    "microservice-auth-cache",
+    "microservice-home-web-service",
+    "microservice-home-graph-service",
+    "microservice-auth-data",
+    "microservice-account-graph-service",
+    "microservice-auth-graph-service",
+    "microservice-auth-web-service",
+    "microservice-auth-data-config",
+    "microservice-home-config",
+    "microservice-auth-cache-config",
+    "microservice-account-config",
+    "microservice-auth-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-graph-config",
+      "version": "1.70.0-auth-config-info",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-auth-cache",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-home-web-service",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-home-service",
+      "version": "1.70.0-auth-config-info",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-auth-data",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-home-graph-service",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-account-graph-service",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-auth-web-service",
+      "version": "1.70.4-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-auth-data-config",
+      "version": "1.70.2-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-home-config",
+      "version": "1.70.2-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-auth-cache-config",
+      "version": "1.70.2-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-account-config",
+      "version": "1.70.2-auth-config-prod",
+      "iterationid": 5
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "version": "1.70.2-auth-config-prod",
+      "iterationid": 5
+    }
+  ],
+  "created": 1569165293,
+  "updated": 1569165293,
+  "status": "active"
+}

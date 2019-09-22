@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-service",
+  "mode": "prod",
+  "version": "1.70.4-auth-config-prod",
+  "fullname": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "81603a41413a999bc1fee42c3616d0c104a2715e",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1569165293,
+  "updated": 1569165293,
+  "status": "active"
+}

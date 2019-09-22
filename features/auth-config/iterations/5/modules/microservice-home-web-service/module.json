@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "mode": "prod",
+  "version": "1.70.4-auth-config-prod",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5dce3313b1cee7ca40a3f065b6553f9fb8a407fa",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1569165293,
+  "updated": 1569165293,
+  "status": "active"
+}

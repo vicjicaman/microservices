@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "mode": "prod",
+  "version": "1.70.4-auth-config-prod",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6b26ebc8bf4f9ee58e40076c41142b747abbd91f",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1569165293,
+  "updated": 1569165293,
+  "status": "active"
+}
