@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-cache.git",
   "fullname": "microservice-auth-cache",
   "iteration": {
-    "mode": "info"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"

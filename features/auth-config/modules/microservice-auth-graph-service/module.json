@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
   "fullname": "microservice-auth-graph-service",
   "iteration": {
-    "mode": "info"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-data.git",
   "fullname": "microservice-auth-data",
   "iteration": {
-    "mode": "info"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-config.git",
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "iteration": {
-    "mode": "info"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
