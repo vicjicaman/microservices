@@ -1,6 +1,6 @@
 {
   "releaseid": "auth-config",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-namespace",
     "microservice-auth-cache",

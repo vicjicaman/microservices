@@ -5,15 +5,78 @@
   "fullname": "microservice-home-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-home-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3cf5b41fa3d54c50643031a4aaa1bb6371878fd8",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "51dedc72ee469c2cc91128b109e5e0bc189512a3",
     "message": "ITERATION:5\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d9999c9f0093457a965de1926a953a19d1b3471e",
+    "message": "RELEASE:auth-config:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Service and deployment for home",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-home-graph-service",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|deployment.yaml|metadata.labels.version",
+      "fullname": "microservice-home-graph-service",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "deployment.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-home-graph-container",
+      "version": "1.70.1-master",
+      "kind": "container",
+      "filename": "deployment.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+      "fullname": "github.com:vicjicaman/microservice-home-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-home-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-cache-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-cache-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-cache-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
+      "fullname": "github.com:vicjicaman/microservice-account-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-account-config.version"
+    }
+  ],
   "created": 1569165999,
   "updated": 1569165999,
   "status": "active"

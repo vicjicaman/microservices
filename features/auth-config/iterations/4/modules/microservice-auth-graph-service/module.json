@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph-service",
+  "mode": "info",
+  "version": "1.70.3-auth-config-info",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": {
+    "commitid": "0958ab7a28dee4cd0d50a02f7afc61375eb143b0",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "3d7cfec515e90afb3e1b16ed9896ec6fcc077194",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
+  "mergeback": {
+    "commitid": "09801747a99f2a984195dc75c62a1428e8d91c60",
+    "message": "ITERATION:4\n"
+  },
+  "releasedOn": 4,
+  "created": 1569116254,
+  "updated": 1569116254,
+  "status": "active"
+}

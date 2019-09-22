@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "mode": "info",
+  "version": "1.70.1-auth-config-info",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "publish": {
+    "commitid": "b19bda1321dce21685dd14829ebd08e8b21af636",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "a51406882dbba23bc9ee0e2acc94506137d96204",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "mergeback": {
+    "commitid": "524514f3fe35d9ca63c3477169afe6d9b2d87681",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1569096480,
+  "updated": 1569096480,
+  "status": "active"
+}

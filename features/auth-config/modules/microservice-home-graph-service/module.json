@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "fullname": "microservice-home-graph-service",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Service and deployment for home",
+  "created": 1569031556,
+  "updated": 1569031556,
+  "status": "active",
+  "commit": {
+    "commitid": "51dedc72ee469c2cc91128b109e5e0bc189512a3",
+    "message": "ITERATION:5\n"
+  }
+}

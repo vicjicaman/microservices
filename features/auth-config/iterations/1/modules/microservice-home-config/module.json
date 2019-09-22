@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-config",
+  "mode": "info",
+  "version": "1.70.0-auth-config-info",
+  "fullname": "github.com:vicjicaman/microservice-home-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-home-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "19738bb41581b5aea4d65fbcc44d59819bbd2b1a",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569094737,
+  "updated": 1569094737,
+  "status": "active"
+}

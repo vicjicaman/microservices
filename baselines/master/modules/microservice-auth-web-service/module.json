@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-web-service",
   "releases": [
     {
+      "releaseid": "auth-config"
+    },
+    {
       "releaseid": "account-page"
     },
     {
@@ -48,7 +51,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"

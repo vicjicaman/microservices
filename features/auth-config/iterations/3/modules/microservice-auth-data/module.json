@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-data",
+  "mode": "info",
+  "version": "1.70.2-auth-config-info",
+  "fullname": "microservice-auth-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9b78d36461e7d20ce3933977209b9876dcfbb1d4",
+    "message": "Fix data to cache naming in microservice-auth-data\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1569107809,
+  "updated": 1569107809,
+  "status": "active"
+}

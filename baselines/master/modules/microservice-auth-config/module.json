@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-config",
   "releases": [
     {
+      "releaseid": "auth-config"
+    },
+    {
       "releaseid": "auth-common"
     },
     {
@@ -19,25 +22,12 @@
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-auth-cache",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.2-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-auth-data",
       "references": [
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -63,7 +53,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -76,20 +66,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.3-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-home-graph-service",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -102,7 +79,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"

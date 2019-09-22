@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "mode": "info",
+  "version": "1.70.3-auth-config-info",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "publish": {
+    "commitid": "4ca04f4860cc6b3587db8453ba3cc612e024eeb3",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "bee3c5ba494c244b817a24cd5182869f41c784d2",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
+  "mergeback": {
+    "commitid": "5dce3313b1cee7ca40a3f065b6553f9fb8a407fa",
+    "message": "ITERATION:4\n"
+  },
+  "releasedOn": 4,
+  "created": 1569116254,
+  "updated": 1569116254,
+  "status": "active"
+}

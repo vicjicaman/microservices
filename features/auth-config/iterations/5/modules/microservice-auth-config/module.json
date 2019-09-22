@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-config",
+  "mode": "prod",
+  "version": "1.70.2-auth-config-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": {
+    "commitid": "e86d90b231f02e4cd35084704d788b3cc9371d46",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "iterate": {
+    "commitid": "e86d90b231f02e4cd35084704d788b3cc9371d46",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "mergeback": {
+    "commitid": "e86d90b231f02e4cd35084704d788b3cc9371d46",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "releasedOn": 5,
+  "created": 1569165293,
+  "updated": 1569165293,
+  "status": "active"
+}
