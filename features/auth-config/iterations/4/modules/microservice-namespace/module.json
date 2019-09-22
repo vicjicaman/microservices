@@ -5,12 +5,18 @@
   "fullname": "microservice-namespace",
   "type": "namespace",
   "url": "github.com:vicjicaman/microservice-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "806b92bfeae4fb7defb3d6799ca9ab1350b6ccb2",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
   "iterate": {
     "commitid": "806b92bfeae4fb7defb3d6799ca9ab1350b6ccb2",
     "message": "Fix iteration sync with modules that wont change\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "806b92bfeae4fb7defb3d6799ca9ab1350b6ccb2",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
   "releasedOn": 4,
   "created": 1569116254,
   "updated": 1569116254,

@@ -5,12 +5,18 @@
   "fullname": "microservice-home-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-home-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6fab90fbe4cadbcb2a38f2e0fd744d34bd440222",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "f80cdae864878cc644eee88875fc9d326be0d531",
     "message": "Fix iteration sync with modules that wont change\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "81603a41413a999bc1fee42c3616d0c104a2715e",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1569116254,
   "updated": 1569116254,
