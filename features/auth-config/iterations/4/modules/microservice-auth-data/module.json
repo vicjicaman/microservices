@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-data",
+  "mode": "info",
+  "version": "1.70.3-auth-config-info",
+  "fullname": "microservice-auth-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fc4b213fa77606dd8c8ca57b9d389d903c3f84fa",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1569116254,
+  "updated": 1569116254,
+  "status": "active"
+}

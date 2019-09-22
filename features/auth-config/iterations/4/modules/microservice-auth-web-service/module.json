@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "mode": "info",
+  "version": "1.70.3-auth-config-info",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "82c6f1b81c2a823efa0db31eba02e735da784cb4",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1569116254,
+  "updated": 1569116254,
+  "status": "active"
+}
