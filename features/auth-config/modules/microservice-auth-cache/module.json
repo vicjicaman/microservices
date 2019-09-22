@@ -14,7 +14,7 @@
   "updated": 1569031188,
   "status": "active",
   "commit": {
-    "commitid": "ed9e57c57513e9ff89501118d5798ac88d9b82b3",
-    "message": "Fix data to cache naming in microservice-auth-data\n"
+    "commitid": "9fb7426b54346cf389734c94ea85deb0a6f717da",
+    "message": "Fix iteration sync with modules that wont change\n"
   }
 }
