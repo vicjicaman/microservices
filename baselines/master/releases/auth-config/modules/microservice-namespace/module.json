@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-config",
+  "moduleid": "microservice-namespace",
+  "version": "1.70.5-master",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "7c78b4a841da8abfc4a8fbf431f94a1791356af9",
+    "message": "ITERATION:5\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Namespace for the microservices demo",
+  "dependencies": [],
+  "created": 1569165999,
+  "updated": 1569165999,
+  "status": "active"
+}
