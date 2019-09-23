@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "mode": "prod",
+  "version": "1.70.0-data-cache-version-prod",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0ab584c56cbfdb853a295452bcf9b4139dd64549",
+    "message": "Update api version and define mongo container version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569278370,
+  "updated": 1569278370,
+  "status": "active"
+}

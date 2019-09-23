@@ -1,0 +1,23 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-cache",
+    "microservice-auth-data"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-cache",
+      "iterationid": 1,
+      "version": "1.70.0-data-cache-version-prod"
+    },
+    {
+      "moduleid": "microservice-auth-data",
+      "iterationid": 1,
+      "version": "1.70.0-data-cache-version-prod"
+    }
+  ],
+  "created": 1569278370,
+  "updated": 1569278370,
+  "status": "active"
+}
