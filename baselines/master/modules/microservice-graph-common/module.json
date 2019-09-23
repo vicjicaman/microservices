@@ -1,40 +1,16 @@
 {
-  "moduleid": "microservice-account-graph",
+  "moduleid": "microservice-graph-common",
   "releases": [
     {
       "releaseid": "home-info"
-    },
-    {
-      "releaseid": "account-page"
-    },
-    {
-      "releaseid": "reconnect-data"
-    },
-    {
-      "releaseid": "account-service"
     }
   ],
-  "created": 1568645293,
-  "updated": 1568645293,
+  "created": 1569276454,
+  "updated": 1569276454,
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-account-graph-container",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-account-graph",
-          "fullname": "@nebulario/microservice-account-graph",
-          "version": "1.70.3-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-account-graph"
-        }
-      ]
-    }
-  ],
-  "dependents": [
-    {
-      "moduleid": "microservice-graph-common",
+      "moduleid": "microservice-account-graph",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
@@ -45,7 +21,9 @@
           "path": "dependencies.@nebulario/microservice-graph-common"
         }
       ]
-    },
+    }
+  ],
+  "dependents": [
     {
       "moduleid": "microservice-utils",
       "references": [

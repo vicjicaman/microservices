@@ -5,15 +5,70 @@
   "fullname": "microservice-account-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a0f9e51ff28ec25e448049694201d9abe1c5244a",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "d9227af08529a4e65561540e1d086b4865788421",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9243fe0f0076c57cfc5cad8c70e8fe708d53fdd4",
+    "message": "RELEASE:home-info:1.70.4-master\n"
+  },
   "releaseType": "patch",
   "description": "Inner service for the account manipulation",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-account-graph-service",
+      "version": "1.70.4-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|deployment.yaml|metadata.labels.version",
+      "fullname": "microservice-account-graph-service",
+      "version": "1.70.4-master",
+      "kind": "inner",
+      "filename": "deployment.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-account-graph-container",
+      "version": "1.70.3-master",
+      "kind": "container",
+      "filename": "deployment.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
+      "fullname": "github.com:vicjicaman/microservice-account-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-account-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-data-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-data-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-data-config.version"
+    }
+  ],
   "created": 1569276061,
   "updated": 1569276061,
   "status": "active"
