@@ -1,0 +1,14 @@
+{
+  "releaseid": "home-info",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-account-graph-container",
+    "microservice-account-graph",
+    "microservice-graph-common",
+    "microservice-utils"
+  ],
+  "created": 1569276060,
+  "updated": 1569276060,
+  "status": "active"
+}

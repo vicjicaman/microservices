@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-info",
+  "moduleid": "microservice-account-graph-container",
+  "version": "1.70.3-master",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "2ea22c46dac100e5aa29cb686c5bd9fb50f2abb7",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the account graph",
+  "dependencies": [],
+  "created": 1569276061,
+  "updated": 1569276061,
+  "status": "active"
+}
