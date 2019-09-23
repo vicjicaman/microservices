@@ -1,0 +1,8 @@
+{
+  "featureid": "data-cache-version",
+  "baselineid": "master",
+  "description": "Update the kubernetes spec version for the stateful services",
+  "created": 1569277276,
+  "updated": 1569277276,
+  "status": "active"
+}
