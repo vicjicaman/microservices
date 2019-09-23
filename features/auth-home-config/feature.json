@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-home-config",
+  "baselineid": "master",
+  "description": "Update the auth and home services for the per service configuration",
+  "created": 1569276619,
+  "updated": 1569276619,
+  "status": "active"
+}
