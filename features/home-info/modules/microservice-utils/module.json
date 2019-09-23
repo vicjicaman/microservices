@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-utils",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-utils.git",
+  "fullname": "@nebulario/microservice-utils",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Common utils and libs",
+  "created": 1569179489,
+  "updated": 1569179489,
+  "status": "active",
+  "commit": {
+    "commitid": "a783f7a34d4ef941a75afc421e1ad3d4de921dea",
+    "message": "ITERATION:1\n"
+  }
+}

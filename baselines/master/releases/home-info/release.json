@@ -1,6 +1,6 @@
 {
   "releaseid": "home-info",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-account-graph-service",
     "microservice-account-graph-container",

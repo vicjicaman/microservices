@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-account-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-account-graph-service.git",
+  "fullname": "microservice-account-graph-service",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Inner service for the account manipulation",
+  "created": 1569175360,
+  "updated": 1569175360,
+  "status": "active",
+  "commit": {
+    "commitid": "d9227af08529a4e65561540e1d086b4865788421",
+    "message": "ITERATION:1\n"
+  }
+}
