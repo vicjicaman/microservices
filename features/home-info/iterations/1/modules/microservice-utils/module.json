@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-utils",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-utils.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8be1f1bb4debc73c5042e7ed35652a7b78217e9f",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "4696118a06ed59950ace25dbd12338d882b611f1",
     "message": "Use separate auth and cache config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a783f7a34d4ef941a75afc421e1ad3d4de921dea",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569275347,
   "updated": 1569275347,

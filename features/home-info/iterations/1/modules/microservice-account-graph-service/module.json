@@ -5,12 +5,18 @@
   "fullname": "microservice-account-graph-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a4450a3a4b7ce93cd57376d1d88131785275ba70",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "15851d667eca3327f05c01fcd544248bee777a9f",
     "message": "Use separate auth and cache config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "d9227af08529a4e65561540e1d086b4865788421",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569275347,
   "updated": 1569275347,

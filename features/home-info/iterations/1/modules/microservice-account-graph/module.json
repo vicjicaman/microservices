@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-account-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-account-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "619fe764cbc2aa4ed2dc2acb55decaf9c18ea41f",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "39f22bdf65e476eec462c00664bab2a469621323",
     "message": "Use separate auth and cache config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "808bae9751ae22109e4e24e2a9f7f502b7a5f985",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569275347,
   "updated": 1569275347,
