@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-auth-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "44e912da959846694fd0434e66b9f2b12b37d29e",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "98aec9e7cba6fa98d39809c223aab477d8336de3",
     "message": "Update api version and define mongo container version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6d8640a88ad32f75324360326ab924934f506ab2",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569278370,
   "updated": 1569278370,
