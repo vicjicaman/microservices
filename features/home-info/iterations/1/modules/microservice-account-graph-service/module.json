@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-account-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-home-info-prod",
+  "fullname": "microservice-account-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-account-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "15851d667eca3327f05c01fcd544248bee777a9f",
+    "message": "Use separate auth and cache config\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569275347,
+  "updated": 1569275347,
+  "status": "active"
+}

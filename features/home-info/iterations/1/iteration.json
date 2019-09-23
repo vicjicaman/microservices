@@ -1,0 +1,41 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-account-graph-service",
+    "microservice-account-graph-container",
+    "microservice-account-graph",
+    "microservice-graph-common",
+    "microservice-utils"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-account-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-home-info-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-home-info-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "iterationid": 1,
+      "version": "1.70.0-home-info-prod"
+    },
+    {
+      "moduleid": "microservice-graph-common",
+      "iterationid": 1,
+      "version": "1.70.0-home-info-prod"
+    },
+    {
+      "moduleid": "microservice-utils",
+      "iterationid": 1,
+      "version": "1.70.0-home-info-prod"
+    }
+  ],
+  "created": 1569275347,
+  "updated": 1569275347,
+  "status": "active"
+}
