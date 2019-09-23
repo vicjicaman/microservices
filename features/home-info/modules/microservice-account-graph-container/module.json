@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-container.git",
   "fullname": "repoflow/microservice-account-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the account graph",
   "created": 1569175334,
   "updated": 1569175334,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8709f25e06dfb8be15c9e99eab847c0b6e1d6929",
+    "message": "Use separate auth and cache config\n"
+  }
 }

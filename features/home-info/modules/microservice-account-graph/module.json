@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph.git",
   "fullname": "@nebulario/microservice-account-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for account queries and mutations",
   "created": 1569173059,
   "updated": 1569173059,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "39f22bdf65e476eec462c00664bab2a469621323",
+    "message": "Use separate auth and cache config\n"
+  }
 }

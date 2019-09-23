@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-utils.git",
   "fullname": "@nebulario/microservice-utils",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common utils and libs",
   "created": 1569179489,
   "updated": 1569179489,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4696118a06ed59950ace25dbd12338d882b611f1",
+    "message": "Use separate auth and cache config\n"
+  }
 }

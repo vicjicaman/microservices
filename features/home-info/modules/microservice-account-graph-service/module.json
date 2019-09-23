@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-service.git",
   "fullname": "microservice-account-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Inner service for the account manipulation",
   "created": 1569175360,
   "updated": 1569175360,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "15851d667eca3327f05c01fcd544248bee777a9f",
+    "message": "Use separate auth and cache config\n"
+  }
 }

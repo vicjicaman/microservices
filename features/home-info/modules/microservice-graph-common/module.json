@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-graph-common.git",
   "fullname": "@nebulario/microservice-graph-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common code and utils for a graph service",
   "created": 1569178916,
   "updated": 1569178916,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "72ca20c2a5d0a00c424d4916b71999ae4f6a1256",
+    "message": "Use separate auth and cache config\n"
+  }
 }
