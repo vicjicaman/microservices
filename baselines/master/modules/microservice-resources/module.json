@@ -1,0 +1,27 @@
+{
+  "moduleid": "microservice-resources",
+  "releases": [
+    {
+      "releaseid": "resources-service"
+    }
+  ],
+  "created": 1569351097,
+  "updated": 1569351097,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-resources-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-resources",
+          "fullname": "@nebulario/microservice-resources",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-resources"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

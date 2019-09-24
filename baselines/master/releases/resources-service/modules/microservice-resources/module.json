@@ -5,15 +5,142 @@
   "fullname": "@nebulario/microservice-resources",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-resources.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8330a3d27f661e27a722d551141487d1d237672f",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "ef563609b6b7014669f0ea68630a9297c1950025",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "55a4bd795a5f6dbc1fbca846c8ace5714298d083",
+    "message": "RELEASE:resources-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "App server for the common resources",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/microservice-resources",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime",
+      "fullname": "@babel/runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime-corejs3",
+      "fullname": "@babel/runtime-corejs3",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime-corejs3"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express",
+      "fullname": "express",
+      "version": "^4.16.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.bootstrap",
+      "fullname": "bootstrap",
+      "version": "^4.3.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.bootstrap"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.font-awesome",
+      "fullname": "font-awesome",
+      "version": "^4.7.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.font-awesome"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.jquery",
+      "fullname": "jquery",
+      "version": "^3.4.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.jquery"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.popper.js",
+      "fullname": "popper.js",
+      "version": "^1.15.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.popper.js"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/plugin-transform-runtime",
+      "fullname": "@babel/plugin-transform-runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
   "created": 1569350638,
   "updated": 1569350638,
   "status": "active"

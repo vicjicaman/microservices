@@ -5,15 +5,38 @@
   "fullname": "repoflow/microservice-resources-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-resources-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f525fb313ba1793a66b52a84ee3d0a8a771b0e91",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "a62fd86f69a41a6e2fe45f4756007a8f175a1c25",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "873d326d5d87e06616e054416ecdc1347af4d01e",
+    "message": "RELEASE:resources-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the common resources service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-resources-container",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-resources",
+      "fullname": "@nebulario/microservice-resources",
+      "version": "1.70.0-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-resources"
+    }
+  ],
   "created": 1569350638,
   "updated": 1569350638,
   "status": "active"

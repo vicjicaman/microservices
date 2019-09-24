@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-resources",
+  "mode": "prod",
+  "version": "1.70.0-resources-service-prod",
+  "fullname": "@nebulario/microservice-resources",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-resources.git",
+  "publish": {
+    "commitid": "dfbd48fd49337bb42201b1854f051994ef2c788b",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "4c564e598ff585528cdf614e8e333f47399c11f4",
+    "message": "Initial common resources service\n"
+  },
+  "mergeback": {
+    "commitid": "ef563609b6b7014669f0ea68630a9297c1950025",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1569340189,
+  "updated": 1569340189,
+  "status": "active"
+}

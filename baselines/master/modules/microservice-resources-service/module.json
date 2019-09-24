@@ -1,0 +1,53 @@
+{
+  "moduleid": "microservice-resources-service",
+  "releases": [
+    {
+      "releaseid": "resources-service"
+    }
+  ],
+  "created": 1569351097,
+  "updated": 1569351097,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "microservice-resources-container",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-resources-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    }
+  ]
+}

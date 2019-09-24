@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "fullname": "microservice-namespace",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Namespace for the microservices demo",
+  "created": 1569337173,
+  "updated": 1569337173,
+  "status": "active",
+  "commit": {
+    "commitid": "5d7167f2749e012766025251ef5930ab0cab5e08",
+    "message": "ITERATION:1\n"
+  }
+}
