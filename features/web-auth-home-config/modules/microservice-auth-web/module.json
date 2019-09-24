@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "fullname": "@nebulario/microservice-auth-web",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Auth functionality web app",
+  "created": 1569329521,
+  "updated": 1569329521,
+  "status": "active"
+}

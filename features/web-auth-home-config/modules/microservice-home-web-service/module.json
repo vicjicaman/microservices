@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Service for the home web UI and graph queries",
+  "created": 1569329548,
+  "updated": 1569329548,
+  "status": "active"
+}
