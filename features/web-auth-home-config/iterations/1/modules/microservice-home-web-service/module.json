@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "mode": "prod",
+  "version": "1.70.0-web-auth-home-config-prod",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c6aba6fd036f53857a4de6fcd58bf0599c82eae6",
+    "message": "Add common resources service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569348681,
+  "updated": 1569348681,
+  "status": "active"
+}

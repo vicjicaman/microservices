@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web",
+  "mode": "prod",
+  "version": "1.70.0-web-auth-home-config-prod",
+  "fullname": "@nebulario/microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "26f73524f4745a579841f4fa6771ef494321d1d0",
+    "message": "Add common resources service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569348681,
+  "updated": 1569348681,
+  "status": "active"
+}
