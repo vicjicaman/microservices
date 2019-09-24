@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
   "fullname": "repoflow/microservice-auth-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the auth graph",
   "created": 1569277088,
   "updated": 1569277088,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d201103819c6f228f8b9031e852f5d2329f73fda",
+    "message": "Update home env params and remove protected/public schema\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1569277030,
   "updated": 1569277030,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6ac679f3734fb946943d46f75f61baa7e1d98562",
+    "message": "Update home env params and remove protected/public schema\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
   "fullname": "microservice-auth-graph-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph service for the user auth",
   "created": 1569277123,
   "updated": 1569277123,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "dd70b3f5cee91adeaa627cb4931d8a49d41171c8",
+    "message": "Update home env params and remove protected/public schema\n"
+  }
 }

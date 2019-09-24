@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph-container.git",
   "fullname": "repoflow/microservice-home-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the home service",
   "created": 1569277096,
   "updated": 1569277096,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "de6fa9fd1155559895a382847deeaac4efdae9e1",
+    "message": "Update home env params and remove protected/public schema\n"
+  }
 }
