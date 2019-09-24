@@ -1,0 +1,8 @@
+{
+  "featureid": "web-auth-home-config",
+  "baselineid": "master",
+  "description": "Update the restructured graph and service env params",
+  "created": 1569329238,
+  "updated": 1569329238,
+  "status": "active"
+}
