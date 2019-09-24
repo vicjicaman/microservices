@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-resources-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-resources-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d856e68d198b3ee5e2b345d119df62a5816fbeb2",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "24c43a6a43d8df4f493125c312c7120c7a01cd00",
     "message": "Initial common resources service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a62fd86f69a41a6e2fe45f4756007a8f175a1c25",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569340189,
   "updated": 1569340189,

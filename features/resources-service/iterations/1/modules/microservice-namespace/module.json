@@ -5,12 +5,18 @@
   "fullname": "microservice-namespace",
   "type": "namespace",
   "url": "github.com:vicjicaman/microservice-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0f433126ba1b225a12f538f27be46bee8ba1bf89",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "1831a53227ee8617799b0c800d0d414a6c2efeba",
     "message": "Initial common resources service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5d7167f2749e012766025251ef5930ab0cab5e08",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569340189,
   "updated": 1569340189,
