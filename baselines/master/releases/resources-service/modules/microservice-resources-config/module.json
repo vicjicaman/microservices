@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "31fec7e80893822234ff5008238071a56f761307",
+    "message": "Initial common resources service\n"
+  },
   "released": {
     "commitid": "31fec7e80893822234ff5008238071a56f761307",
     "message": "Initial common resources service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "cb4e46721b7671873a9134c4fef9f4f75749a27b",
+    "message": "RELEASE:resources-service:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Configuration for the common resources service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1569350638,
   "updated": 1569350638,
   "status": "active"
