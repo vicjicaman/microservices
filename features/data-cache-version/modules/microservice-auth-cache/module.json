@@ -14,7 +14,7 @@
   "updated": 1569277372,
   "status": "active",
   "commit": {
-    "commitid": "0ab584c56cbfdb853a295452bcf9b4139dd64549",
-    "message": "Update api version and define mongo container version\n"
+    "commitid": "e1b8835717009049188bd7040f344c1d0172845a",
+    "message": "ITERATION:1\n"
   }
 }
