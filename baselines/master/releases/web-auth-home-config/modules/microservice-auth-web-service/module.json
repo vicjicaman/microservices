@@ -1,0 +1,20 @@
+{
+  "releaseid": "web-auth-home-config",
+  "moduleid": "microservice-auth-web-service",
+  "version": "1.70.4-master",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "c0527006056c54b74c594ef7f513c66fbe60f0e9",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes service and deployment for the web app",
+  "dependencies": [],
+  "created": 1569352612,
+  "updated": 1569352612,
+  "status": "active"
+}

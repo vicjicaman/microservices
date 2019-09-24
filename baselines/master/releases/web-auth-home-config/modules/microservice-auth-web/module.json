@@ -1,0 +1,20 @@
+{
+  "releaseid": "web-auth-home-config",
+  "moduleid": "microservice-auth-web",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "192de8b27d11b4c080f19a3314d483df911e082b",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Auth functionality web app",
+  "dependencies": [],
+  "created": 1569352613,
+  "updated": 1569352613,
+  "status": "active"
+}

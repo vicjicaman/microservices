@@ -1,0 +1,15 @@
+{
+  "releaseid": "web-auth-home-config",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-web-service",
+    "microservice-home-web-service",
+    "microservice-auth-web-container",
+    "microservice-home-web-container",
+    "microservice-auth-web",
+    "microservice-home-web"
+  ],
+  "created": 1569352612,
+  "updated": 1569352612,
+  "status": "active"
+}
