@@ -1,0 +1,20 @@
+{
+  "releaseid": "web-auth-home-config",
+  "moduleid": "microservice-home-web-container",
+  "version": "1.70.0-master",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "a2ecfb1cb339775a12505145f78ab260fcd0596c",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for home web app",
+  "dependencies": [],
+  "created": 1569352612,
+  "updated": 1569352612,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "web-auth-home-config",
+  "moduleid": "microservice-home-web-service",
+  "version": "1.70.1-master",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "56896e6ebdcdc4d30f47808317f1b94a5001d525",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service for the home web UI and graph queries",
+  "dependencies": [],
+  "created": 1569352612,
+  "updated": 1569352612,
+  "status": "active"
+}
