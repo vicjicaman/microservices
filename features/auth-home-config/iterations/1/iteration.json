@@ -1,6 +1,6 @@
 {
   "iterationid": 1,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "microservice-auth-graph-service",
     "microservice-home-graph-service",

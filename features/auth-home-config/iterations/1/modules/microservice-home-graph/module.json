@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-graph",
-  "publish": null,
+  "publish": {
+    "commitid": "79ae5dfabd70d8a563720a369637f3f3cfed1fa5",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "cbb77c6680a06d47b32ad89d436390477c56be48",
     "message": "Update home env params and remove protected/public schema\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9e5149a1d8af4b69b071c573834a3bb81dcc5d43",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1569327380,
   "updated": 1569327380,
