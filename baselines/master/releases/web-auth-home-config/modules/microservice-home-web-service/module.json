@@ -5,15 +5,70 @@
   "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-home-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0d8a8d1a05ca7733382f726609d2d8dee0313fe0",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "56896e6ebdcdc4d30f47808317f1b94a5001d525",
     "message": "ITERATION:3\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "78b5fedb64709bfb8b439f2f158bdfd365c9a286",
+    "message": "RELEASE:web-auth-home-config:1.70.1-master\n"
+  },
   "releaseType": "patch",
   "description": "Service for the home web UI and graph queries",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|deployment.yaml|metadata.labels.version",
+      "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+      "version": "1.70.1-master",
+      "kind": "inner",
+      "filename": "deployment.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-home-web-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "deployment.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+      "fullname": "github.com:vicjicaman/microservice-home-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-home-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+      "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-resources-config.version"
+    }
+  ],
   "created": 1569352612,
   "updated": 1569352612,
   "status": "active"

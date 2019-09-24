@@ -1,6 +1,6 @@
 {
   "releaseid": "web-auth-home-config",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-web-service",
     "microservice-home-web-service",
