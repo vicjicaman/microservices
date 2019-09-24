@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-home-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b8595b1f17fd5adaf65f76987092bedef61112e4",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "c6aba6fd036f53857a4de6fcd58bf0599c82eae6",
     "message": "Add common resources service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a6b3c8675369bc2dfa05dfeb0fd615f10573c5fa",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1569349188,
   "updated": 1569349188,

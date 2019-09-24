@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-web-service",
   "type": "service",
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2ca07f650097870f87c689b25e3f5c35a40699d8",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "8e6ee54f8a76856074eadf0d76e18f15a3db2428",
     "message": "Add common resources service\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "137ce411c817433e7c7589aac1b76e80b27e9228",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1569349188,
   "updated": 1569349188,
