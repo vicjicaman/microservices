@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "mode": "info",
+  "version": "1.70.0-auth-config-info",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9808f4829973f50dbd43c3ce2b578d54e73d6977",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569094737,
+  "updated": 1569094737,
+  "status": "active"
+}

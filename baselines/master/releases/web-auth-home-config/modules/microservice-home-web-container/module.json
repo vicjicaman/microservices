@@ -1,0 +1,43 @@
+{
+  "releaseid": "web-auth-home-config",
+  "moduleid": "microservice-home-web-container",
+  "version": "1.70.0-master",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": {
+    "commitid": "4d82009cdf28d1d5a56236b8a01868e3410c0d6e",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "a2ecfb1cb339775a12505145f78ab260fcd0596c",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": {
+    "commitid": "826018c6d0eb38494e27aef5952ce43b8afc6a18",
+    "message": "RELEASE:web-auth-home-config:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container for home web app",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-home-web-container",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-web",
+      "fullname": "@nebulario/microservice-home-web",
+      "version": "1.70.0-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-home-web"
+    }
+  ],
+  "created": 1569352612,
+  "updated": 1569352612,
+  "status": "active"
+}

@@ -2,6 +2,9 @@
   "moduleid": "microservice-account-config",
   "releases": [
     {
+      "releaseid": "auth-config"
+    },
+    {
       "releaseid": "auth-common"
     },
     {
@@ -18,7 +21,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
           "fullname": "github.com:vicjicaman/microservice-account-config.git",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-account-config.version"
@@ -31,7 +34,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
           "fullname": "github.com:vicjicaman/microservice-account-config.git",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-account-config.version"
@@ -44,7 +47,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
           "fullname": "github.com:vicjicaman/microservice-account-config.git",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-account-config.version"

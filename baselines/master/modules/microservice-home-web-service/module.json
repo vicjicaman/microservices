@@ -1,0 +1,69 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "releases": [
+    {
+      "releaseid": "web-auth-home-config"
+    },
+    {
+      "releaseid": "auth-config"
+    }
+  ],
+  "created": 1569172748,
+  "updated": 1569172748,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "microservice-home-web-container",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-web-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-home-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+          "fullname": "github.com:vicjicaman/microservice-home-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-home-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    }
+  ]
+}

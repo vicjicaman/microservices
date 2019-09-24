@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-data-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-data-config.git",
+  "fullname": "github.com:vicjicaman/microservice-auth-data-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for the auth data service, separated from the auth and account services",
+  "created": 1569031084,
+  "updated": 1569031084,
+  "status": "active",
+  "commit": {
+    "commitid": "658259ea357c1700483593f9da43fc8253f3e3ef",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  }
+}

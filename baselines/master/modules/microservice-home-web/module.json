@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-home-web",
+  "releases": [
+    {
+      "releaseid": "web-auth-home-config"
+    }
+  ],
+  "created": 1569353325,
+  "updated": 1569353325,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-home-web-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-web",
+          "fullname": "@nebulario/microservice-home-web",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-home-web"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-layout",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
+          "fullname": "@nebulario/microservice-layout",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-layout"
+        }
+      ]
+    }
+  ]
+}

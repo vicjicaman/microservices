@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-graph-common",
+  "releases": [
+    {
+      "releaseid": "home-info"
+    }
+  ],
+  "created": 1569276454,
+  "updated": 1569276454,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-account-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
+          "fullname": "@nebulario/microservice-graph-common",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-graph-common"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-utils",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
+          "fullname": "@nebulario/microservice-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    }
+  ]
+}

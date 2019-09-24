@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-data",
+  "mode": "prod",
+  "version": "1.70.4-auth-config-prod",
+  "fullname": "microservice-auth-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-data.git",
+  "publish": {
+    "commitid": "813bea7f5aadf78c7ea5e5f9e34d55e21a904630",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "6a6fc1816a14cd8acb507cb45d6cdff95d483145",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": {
+    "commitid": "ef63c93f81022eb07ea901c1db71012c5b0f8a9f",
+    "message": "ITERATION:5\n"
+  },
+  "releasedOn": 5,
+  "created": 1569165293,
+  "updated": 1569165293,
+  "status": "active"
+}

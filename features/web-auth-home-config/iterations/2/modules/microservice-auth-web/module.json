@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-web",
+  "mode": "prod",
+  "version": "1.70.1-web-auth-home-config-prod",
+  "fullname": "@nebulario/microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "publish": {
+    "commitid": "248288c7060140dd9a1327dca2058905a91fd372",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "9983efd1e9703efd560db3a27f759ba60f0052dc",
+    "message": "Fix the package name\n"
+  },
+  "mergeback": {
+    "commitid": "192de8b27d11b4c080f19a3314d483df911e082b",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1569349188,
+  "updated": 1569349188,
+  "status": "active"
+}

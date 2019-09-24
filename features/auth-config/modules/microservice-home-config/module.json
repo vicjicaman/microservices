@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-home-config.git",
+  "fullname": "github.com:vicjicaman/microservice-home-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config params for home microservices",
+  "created": 1569032736,
+  "updated": 1569032736,
+  "status": "active",
+  "commit": {
+    "commitid": "19738bb41581b5aea4d65fbcc44d59819bbd2b1a",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  }
+}

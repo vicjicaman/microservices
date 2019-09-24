@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-cache",
+  "mode": "info",
+  "version": "1.70.3-auth-config-info",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": {
+    "commitid": "b1fc585a68806cdd101842443623a796d1e844b2",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "9fb7426b54346cf389734c94ea85deb0a6f717da",
+    "message": "Fix iteration sync with modules that wont change\n"
+  },
+  "mergeback": {
+    "commitid": "43fcb31333e1d94244289c4d6fd3023556574162",
+    "message": "ITERATION:4\n"
+  },
+  "releasedOn": 4,
+  "created": 1569116254,
+  "updated": 1569116254,
+  "status": "active"
+}

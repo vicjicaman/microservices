@@ -2,6 +2,12 @@
   "moduleid": "microservice-auth-cache",
   "releases": [
     {
+      "releaseid": "data-cache-version"
+    },
+    {
+      "releaseid": "auth-config"
+    },
+    {
       "releaseid": "auth-base-cache-data"
     },
     {
@@ -27,15 +33,15 @@
       ]
     },
     {
-      "moduleid": "microservice-auth-config",
+      "moduleid": "microservice-auth-cache-config",
       "references": [
         {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.2-master",
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-cache-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-cache-config.git",
+          "version": "1.70.0-master",
           "kind": "config",
           "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
+          "path": "dependencies.microservice-auth-cache-config.version"
         }
       ]
     }

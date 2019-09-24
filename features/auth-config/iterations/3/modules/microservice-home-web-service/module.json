@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "mode": "info",
+  "version": "1.70.2-auth-config-info",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "45b397cd7dc4e8166f0dda042075154cdb195b94",
+    "message": "Fix data to cache naming in microservice-auth-data\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1569107809,
+  "updated": 1569107809,
+  "status": "active"
+}

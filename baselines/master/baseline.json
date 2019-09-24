@@ -3,6 +3,24 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "web-auth-home-config"
+    },
+    {
+      "releaseid": "auth-home-config"
+    },
+    {
+      "releaseid": "resources-service"
+    },
+    {
+      "releaseid": "data-cache-version"
+    },
+    {
+      "releaseid": "home-info"
+    },
+    {
+      "releaseid": "auth-config"
+    },
+    {
       "releaseid": "account-page"
     },
     {
@@ -34,30 +52,42 @@
     }
   ],
   "hierarchy": [
-    "microservice-auth-graph-config",
+    "microservices-auth-web",
+    "microservice-home-web-service",
     "microservice-account-graph-service",
     "microservice-auth-cache",
-    "microservice-namespace",
+    "microservice-resources-service",
     "microservice-home-service",
     "microservice-auth-data",
-    "microservice-auth-graph-service",
-    "microservice-auth-web-service",
     "microservice-home-graph-service",
-    "microservice-auth-web-container",
-    "microservice-account-graph-container",
-    "microservice-auth-graph-container",
-    "microservice-home-graph-container",
+    "microservice-namespace",
+    "microservice-auth-graph-config",
+    "microservice-auth-web-service",
+    "microservice-auth-graph-service",
     "microservice-home-container",
-    "microservices-auth-web",
-    "microservice-home",
-    "microservice-account-graph",
+    "microservice-auth-web-container",
+    "microservice-auth-graph-container",
+    "microservice-home-web-container",
+    "microservice-resources-container",
+    "microservice-home-graph-container",
+    "microservice-account-graph-container",
     "microservice-auth-graph",
     "microservice-home-graph",
-    "microservice-home-config",
+    "microservice-home",
+    "microservice-auth-data-config",
+    "microservice-account-graph",
+    "microservice-home-web",
+    "microservice-resources",
+    "microservice-auth-web",
+    "microservice-auth-cache-config",
     "microservice-account-config",
-    "microservice-layout",
-    "microservice-auth-common",
+    "microservice-graph-common",
+    "microservice-home-config",
+    "microservice-resources-config",
     "microservice-auth-config",
+    "microservice-auth-common",
+    "microservice-layout",
+    "microservice-utils",
     "microservice-config"
   ],
   "created": 1553563478,

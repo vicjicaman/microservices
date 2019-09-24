@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-account-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-account-config.git",
+  "fullname": "github.com:vicjicaman/microservice-account-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for the inner account service",
+  "created": 1569031149,
+  "updated": 1569031149,
+  "status": "active",
+  "commit": {
+    "commitid": "3db241feef1c266a2afd211abdaafef3804a01a9",
+    "message": "Build configuration hierarchy based on a config per service\n"
+  }
+}

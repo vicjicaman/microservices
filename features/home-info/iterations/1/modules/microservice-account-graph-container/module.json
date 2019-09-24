@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-home-info-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": {
+    "commitid": "96b9332ecbaecb98e064f3cafc0638ca0aa607aa",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "8709f25e06dfb8be15c9e99eab847c0b6e1d6929",
+    "message": "Use separate auth and cache config\n"
+  },
+  "mergeback": {
+    "commitid": "2ea22c46dac100e5aa29cb686c5bd9fb50f2abb7",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1569275347,
+  "updated": 1569275347,
+  "status": "active"
+}

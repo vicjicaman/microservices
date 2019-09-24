@@ -1,0 +1,22 @@
+{
+  "releaseid": "auth-config",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-namespace",
+    "microservice-auth-cache",
+    "microservice-home-web-service",
+    "microservice-home-graph-service",
+    "microservice-auth-data",
+    "microservice-account-graph-service",
+    "microservice-auth-graph-service",
+    "microservice-auth-web-service",
+    "microservice-auth-data-config",
+    "microservice-home-config",
+    "microservice-auth-cache-config",
+    "microservice-account-config",
+    "microservice-auth-config"
+  ],
+  "created": 1569165999,
+  "updated": 1569165999,
+  "status": "active"
+}

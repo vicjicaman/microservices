@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the auth graph",
+  "created": 1569277088,
+  "updated": 1569277088,
+  "status": "active",
+  "commit": {
+    "commitid": "c14ecaa53359529e0f16d333a75f5f8fe7204544",
+    "message": "ITERATION:1\n"
+  }
+}

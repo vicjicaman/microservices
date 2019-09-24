@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-service",
+  "mode": "info",
+  "version": "1.70.2-auth-config-info",
+  "fullname": "microservice-auth-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3b2bb7c03aa58f98af16d6c52db5e2af79fcdd54",
+    "message": "Fix data to cache naming in microservice-auth-data\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1569107809,
+  "updated": 1569107809,
+  "status": "active"
+}

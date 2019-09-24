@@ -1,0 +1,14 @@
+{
+  "releaseid": "resources-service",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-namespace",
+    "microservice-resources-service",
+    "microservice-resources-container",
+    "microservice-resources",
+    "microservice-resources-config"
+  ],
+  "created": 1569350638,
+  "updated": 1569350638,
+  "status": "active"
+}

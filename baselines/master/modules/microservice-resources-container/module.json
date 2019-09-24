@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-resources-container",
+  "releases": [
+    {
+      "releaseid": "resources-service"
+    }
+  ],
+  "created": 1569351097,
+  "updated": 1569351097,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-resources-service",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-resources-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-resources",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-resources",
+          "fullname": "@nebulario/microservice-resources",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-resources"
+        }
+      ]
+    }
+  ]
+}

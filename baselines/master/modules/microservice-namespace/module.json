@@ -2,6 +2,12 @@
   "moduleid": "microservice-namespace",
   "releases": [
     {
+      "releaseid": "resources-service"
+    },
+    {
+      "releaseid": "auth-config"
+    },
+    {
       "releaseid": "home-service"
     },
     {
@@ -41,7 +47,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -54,10 +60,23 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
           "fullname": "github.com:vicjicaman/microservice-home-config.git",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-home-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
         }
       ]
     }

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "mode": "prod",
+  "version": "1.70.0-web-auth-home-config-prod",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4f769fd7cba53fba57114e59a7e427859974e802",
+    "message": "Restructure env configuration for a config per service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569348681,
+  "updated": 1569348681,
+  "status": "active"
+}

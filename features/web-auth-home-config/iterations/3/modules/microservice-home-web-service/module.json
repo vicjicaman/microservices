@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "mode": "prod",
+  "version": "1.70.2-web-auth-home-config-prod",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "publish": {
+    "commitid": "899213fbd76ec612836196ef6dd198d9751a4700",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "5c85dc838ad71f5b78f69145ca1c193316c223e8",
+    "message": "Add resource service configuration\n"
+  },
+  "mergeback": {
+    "commitid": "56896e6ebdcdc4d30f47808317f1b94a5001d525",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1569352239,
+  "updated": 1569352239,
+  "status": "active"
+}

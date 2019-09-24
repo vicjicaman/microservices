@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-config",
+  "baselineid": "master",
+  "description": "Add individual config to the auth data and cache services",
+  "created": 1569030945,
+  "updated": 1569030945,
+  "status": "active"
+}
