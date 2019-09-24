@@ -1,0 +1,47 @@
+{
+  "iterationid": 1,
+  "phase": "invalid",
+  "hierarchy": [
+    "microservice-auth-web-service",
+    "microservice-home-web-service",
+    "microservice-auth-web-container",
+    "microservice-home-web-container",
+    "microservice-auth-web",
+    "microservice-home-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-web-service",
+      "iterationid": 1,
+      "version": "1.70.0-web-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-home-web-service",
+      "iterationid": 1,
+      "version": "1.70.0-web-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-web-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-home-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-web-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web",
+      "iterationid": 1,
+      "version": "1.70.0-web-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-home-web",
+      "iterationid": 1,
+      "version": "1.70.0-web-auth-home-config-prod"
+    }
+  ],
+  "created": 1569348681,
+  "updated": 1569348681,
+  "status": "active"
+}

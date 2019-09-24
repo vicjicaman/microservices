@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-web-service.git",
+  "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Service for the home web UI and graph queries",
+  "created": 1569329548,
+  "updated": 1569329548,
+  "status": "active",
+  "commit": {
+    "commitid": "56896e6ebdcdc4d30f47808317f1b94a5001d525",
+    "message": "ITERATION:3\n"
+  }
+}

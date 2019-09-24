@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "releases": [
+    {
+      "releaseid": "web-auth-home-config"
+    }
+  ],
+  "created": 1569353324,
+  "updated": 1569353324,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-home-web-service",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-web-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-home-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-web",
+          "fullname": "@nebulario/microservice-home-web",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-home-web"
+        }
+      ]
+    }
+  ]
+}

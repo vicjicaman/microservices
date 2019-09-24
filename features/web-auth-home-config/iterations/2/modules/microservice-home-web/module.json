@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web",
+  "mode": "prod",
+  "version": "1.70.1-web-auth-home-config-prod",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": {
+    "commitid": "2bf6d2f5f935ea8dd8cbea11b332a1b6ec824794",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "9e33f7414561008866cb2736c659754c073b627b",
+    "message": "Add common resources service\n"
+  },
+  "mergeback": {
+    "commitid": "bcac8ea0fcac6bc49ed181e6be0a2797fad693db",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1569349188,
+  "updated": 1569349188,
+  "status": "active"
+}
