@@ -1,0 +1,41 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-namespace",
+    "microservice-resources-service",
+    "microservice-resources-container",
+    "microservice-resources",
+    "microservice-resources-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-namespace",
+      "iterationid": 1,
+      "version": "1.70.0-resources-service-prod"
+    },
+    {
+      "moduleid": "microservice-resources-service",
+      "iterationid": 1,
+      "version": "1.70.0-resources-service-prod"
+    },
+    {
+      "moduleid": "microservice-resources-container",
+      "iterationid": 1,
+      "version": "1.70.0-resources-service-prod"
+    },
+    {
+      "moduleid": "microservice-resources",
+      "iterationid": 1,
+      "version": "1.70.0-resources-service-prod"
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "iterationid": 1,
+      "version": "1.70.0-resources-service-prod"
+    }
+  ],
+  "created": 1569340189,
+  "updated": 1569340189,
+  "status": "active"
+}

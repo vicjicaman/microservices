@@ -1,0 +1,11 @@
+{
+  "releaseid": "data-cache-version",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-auth-cache",
+    "microservice-auth-data"
+  ],
+  "created": 1569350018,
+  "updated": 1569350018,
+  "status": "active"
+}

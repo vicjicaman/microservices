@@ -1,0 +1,8 @@
+{
+  "featureid": "resources-service",
+  "baselineid": "master",
+  "description": "Add a service for all the common resources",
+  "created": 1569336379,
+  "updated": 1569336379,
+  "status": "active"
+}

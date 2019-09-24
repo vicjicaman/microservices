@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-home-config",
+  "moduleid": "microservice-auth-graph-service",
+  "version": "1.70.8-master",
+  "fullname": "microservice-auth-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-auth-graph-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "b8a5a2371d2807d9312f2b39a3ed74412a3ffdae",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph service for the user auth",
+  "dependencies": [],
+  "created": 1569351323,
+  "updated": 1569351323,
+  "status": "active"
+}

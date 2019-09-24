@@ -206,6 +206,32 @@
           "path": "dependencies.microservice-config.version"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
     }
   ],
   "dependents": []

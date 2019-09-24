@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-home-config",
+  "moduleid": "microservice-auth-graph-container",
+  "version": "1.70.7-master",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "c14ecaa53359529e0f16d333a75f5f8fe7204544",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the auth graph",
+  "dependencies": [],
+  "created": 1569351323,
+  "updated": 1569351323,
+  "status": "active"
+}

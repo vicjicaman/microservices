@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-home-config",
+  "moduleid": "microservice-home-graph",
+  "version": "1.70.2-master",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": null,
+  "released": {
+    "commitid": "9e5149a1d8af4b69b071c573834a3bb81dcc5d43",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for home service",
+  "dependencies": [],
+  "created": 1569351323,
+  "updated": 1569351323,
+  "status": "active"
+}

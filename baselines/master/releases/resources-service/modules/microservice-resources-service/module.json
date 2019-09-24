@@ -1,0 +1,67 @@
+{
+  "releaseid": "resources-service",
+  "moduleid": "microservice-resources-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-resources-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-resources-service.git",
+  "publish": {
+    "commitid": "2f99e9f1968806ceddeea99e9604cd11939db61b",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "75c73a2261d4628e2c0e52f5aa75fc394c47ed35",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "1fbfbc9f061b405952df09d0b3980dd3e8a3cb1e",
+    "message": "RELEASE:resources-service:1.70.0-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Kubernetes service and deployment for the common resources",
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-resources-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|deployment.yaml|metadata.labels.version",
+      "fullname": "microservice-resources-service",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "deployment.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-resources-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "deployment.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+      "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-resources-config.version"
+    }
+  ],
+  "created": 1569350638,
+  "updated": 1569350638,
+  "status": "active"
+}
