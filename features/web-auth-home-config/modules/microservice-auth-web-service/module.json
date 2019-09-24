@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-service.git",
   "fullname": "microservice-auth-web-service",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes service and deployment for the web app",
   "created": 1569330082,
   "updated": 1569330082,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8e6ee54f8a76856074eadf0d76e18f15a3db2428",
+    "message": "Add common resources service\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web.git",
   "fullname": "@nebulario/microservice-auth-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Auth functionality web app",
   "created": 1569329521,
   "updated": 1569329521,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "26f73524f4745a579841f4fa6771ef494321d1d0",
+    "message": "Add common resources service\n"
+  }
 }

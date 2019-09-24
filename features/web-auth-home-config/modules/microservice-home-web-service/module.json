@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web-service.git",
   "fullname": "github.com:vicjicaman/microservice-home-web-service.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service for the home web UI and graph queries",
   "created": 1569329548,
   "updated": 1569329548,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c6aba6fd036f53857a4de6fcd58bf0599c82eae6",
+    "message": "Add common resources service\n"
+  }
 }

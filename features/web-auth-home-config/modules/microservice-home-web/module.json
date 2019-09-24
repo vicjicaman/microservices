@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web.git",
   "fullname": "@nebulario/microservice-home-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Home web app functionality",
   "created": 1569330063,
   "updated": 1569330063,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9e33f7414561008866cb2736c659754c073b627b",
+    "message": "Add common resources service\n"
+  }
 }

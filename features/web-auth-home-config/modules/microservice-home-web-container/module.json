@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web-container.git",
   "fullname": "repoflow/microservice-home-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for home web app",
   "created": 1569329605,
   "updated": 1569329605,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4f769fd7cba53fba57114e59a7e427859974e802",
+    "message": "Restructure env configuration for a config per service\n"
+  }
 }
