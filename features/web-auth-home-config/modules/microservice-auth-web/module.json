@@ -14,7 +14,7 @@
   "updated": 1569329521,
   "status": "active",
   "commit": {
-    "commitid": "26f73524f4745a579841f4fa6771ef494321d1d0",
-    "message": "Add common resources service\n"
+    "commitid": "9983efd1e9703efd560db3a27f759ba60f0052dc",
+    "message": "Fix the package name\n"
   }
 }
