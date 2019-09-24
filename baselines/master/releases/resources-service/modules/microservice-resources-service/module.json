@@ -1,0 +1,20 @@
+{
+  "releaseid": "resources-service",
+  "moduleid": "microservice-resources-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-resources-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-resources-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "75c73a2261d4628e2c0e52f5aa75fc394c47ed35",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes service and deployment for the common resources",
+  "dependencies": [],
+  "created": 1569350638,
+  "updated": 1569350638,
+  "status": "active"
+}

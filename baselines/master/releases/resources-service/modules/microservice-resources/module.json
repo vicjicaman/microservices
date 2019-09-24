@@ -1,0 +1,20 @@
+{
+  "releaseid": "resources-service",
+  "moduleid": "microservice-resources",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/microservice-resources",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-resources.git",
+  "publish": null,
+  "released": {
+    "commitid": "ef563609b6b7014669f0ea68630a9297c1950025",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "App server for the common resources",
+  "dependencies": [],
+  "created": 1569350638,
+  "updated": 1569350638,
+  "status": "active"
+}
