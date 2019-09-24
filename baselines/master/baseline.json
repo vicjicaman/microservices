@@ -78,10 +78,10 @@
     "microservice-account-config",
     "microservice-graph-common",
     "microservice-home-config",
-    "microservice-utils",
     "microservice-auth-config",
     "microservice-layout",
     "microservice-auth-common",
+    "microservice-utils",
     "microservice-config"
   ],
   "created": 1553563478,
