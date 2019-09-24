@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-cache-version",
+  "moduleid": "microservice-auth-cache",
+  "version": "1.70.3-master",
+  "fullname": "microservice-auth-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-auth-cache.git",
+  "publish": null,
+  "released": {
+    "commitid": "e1b8835717009049188bd7040f344c1d0172845a",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Redis service to store auth sessions",
+  "dependencies": [],
+  "created": 1569350018,
+  "updated": 1569350018,
+  "status": "active"
+}
