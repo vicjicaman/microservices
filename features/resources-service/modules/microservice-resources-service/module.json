@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-resources-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-resources-service.git",
+  "fullname": "microservice-resources-service",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Kubernetes service and deployment for the common resources",
+  "created": 1569337018,
+  "updated": 1569337018,
+  "status": "active",
+  "commit": {
+    "commitid": "3bc5633ba2d85383db1e9be6ca266da5fd358420",
+    "message": "Initial common resources service\n"
+  }
+}
