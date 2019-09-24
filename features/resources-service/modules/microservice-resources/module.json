@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-resources",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-resources.git",
+  "fullname": "@nebulario/microservice-resources",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "App server for the common resources",
+  "created": 1569336918,
+  "updated": 1569336918,
+  "status": "active",
+  "commit": {
+    "commitid": "ef563609b6b7014669f0ea68630a9297c1950025",
+    "message": "ITERATION:1\n"
+  }
+}

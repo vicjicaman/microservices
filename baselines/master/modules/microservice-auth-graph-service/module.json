@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-graph-service",
   "releases": [
     {
+      "releaseid": "auth-home-config"
+    },
+    {
       "releaseid": "auth-config"
     },
     {
@@ -37,7 +40,7 @@
         {
           "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-graph-container",
-          "version": "1.70.6-master",
+          "version": "1.70.7-master",
           "kind": "container",
           "filename": "deployment.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"

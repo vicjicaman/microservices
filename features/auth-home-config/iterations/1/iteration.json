@@ -1,0 +1,47 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-auth-graph-service",
+    "microservice-home-graph-service",
+    "microservice-auth-graph-container",
+    "microservice-home-graph-container",
+    "microservice-auth-graph",
+    "microservice-home-graph"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph-service",
+      "iterationid": 1,
+      "version": "1.70.0-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "iterationid": 1,
+      "version": "1.70.0-auth-home-config-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "iterationid": 1,
+      "version": "1.70.0-auth-home-config-prod"
+    }
+  ],
+  "created": 1569327379,
+  "updated": 1569327379,
+  "status": "active"
+}

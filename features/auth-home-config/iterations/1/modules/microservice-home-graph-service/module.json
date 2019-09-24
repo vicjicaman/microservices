@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-graph-service",
+  "mode": "prod",
+  "version": "1.70.0-auth-home-config-prod",
+  "fullname": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "publish": {
+    "commitid": "8331194c373c0b3f797e690680642aa8124d264d",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "5dc4c7d62b2015c82892df275db666e21569a95d",
+    "message": "Update home env params and remove protected/public schema\n"
+  },
+  "mergeback": {
+    "commitid": "7597e33900f3fa4e4bd6f5beaf5a40a0cf7f5174",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1569327380,
+  "updated": 1569327380,
+  "status": "active"
+}

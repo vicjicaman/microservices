@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-resources-config",
+  "mode": "prod",
+  "version": "1.70.0-resources-service-prod",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": {
+    "commitid": "31fec7e80893822234ff5008238071a56f761307",
+    "message": "Initial common resources service\n"
+  },
+  "iterate": {
+    "commitid": "31fec7e80893822234ff5008238071a56f761307",
+    "message": "Initial common resources service\n"
+  },
+  "mergeback": {
+    "commitid": "31fec7e80893822234ff5008238071a56f761307",
+    "message": "Initial common resources service\n"
+  },
+  "releasedOn": 1,
+  "created": 1569340189,
+  "updated": 1569340189,
+  "status": "active"
+}

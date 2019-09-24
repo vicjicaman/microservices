@@ -1,0 +1,43 @@
+{
+  "releaseid": "auth-home-config",
+  "moduleid": "microservice-home-graph-container",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": {
+    "commitid": "dd46886b41815fa565df913388fb23669774b27a",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "ca1d4e76df93a90b5d3790b98bccefa25ad522bf",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "8650f703a61d4070a974bd2c2d74854170e365c7",
+    "message": "RELEASE:auth-home-config:1.70.2-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container for the home service",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-home-graph-container",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-graph",
+      "fullname": "@nebulario/microservice-home-graph",
+      "version": "1.70.2-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-home-graph"
+    }
+  ],
+  "created": 1569351323,
+  "updated": 1569351323,
+  "status": "active"
+}
