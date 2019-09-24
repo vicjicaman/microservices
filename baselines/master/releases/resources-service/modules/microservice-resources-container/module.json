@@ -1,0 +1,20 @@
+{
+  "releaseid": "resources-service",
+  "moduleid": "microservice-resources-container",
+  "version": "1.70.0-master",
+  "fullname": "repoflow/microservice-resources-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-resources-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "a62fd86f69a41a6e2fe45f4756007a8f175a1c25",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the common resources service",
+  "dependencies": [],
+  "created": 1569350638,
+  "updated": 1569350638,
+  "status": "active"
+}

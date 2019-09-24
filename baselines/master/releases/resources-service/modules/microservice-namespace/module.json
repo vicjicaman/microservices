@@ -1,0 +1,20 @@
+{
+  "releaseid": "resources-service",
+  "moduleid": "microservice-namespace",
+  "version": "1.70.6-master",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "released": {
+    "commitid": "5d7167f2749e012766025251ef5930ab0cab5e08",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Namespace for the microservices demo",
+  "dependencies": [],
+  "created": 1569350638,
+  "updated": 1569350638,
+  "status": "active"
+}
