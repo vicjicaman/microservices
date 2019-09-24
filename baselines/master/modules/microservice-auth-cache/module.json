@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-cache",
   "releases": [
     {
+      "releaseid": "data-cache-version"
+    },
+    {
       "releaseid": "auth-config"
     },
     {
