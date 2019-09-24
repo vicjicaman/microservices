@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-home-config-prod",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "de6fa9fd1155559895a382847deeaac4efdae9e1",
+    "message": "Update home env params and remove protected/public schema\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569327380,
+  "updated": 1569327380,
+  "status": "active"
+}

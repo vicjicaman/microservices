@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph",
+  "mode": "prod",
+  "version": "1.70.0-auth-home-config-prod",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": null,
+  "iterate": {
+    "commitid": "cbb77c6680a06d47b32ad89d436390477c56be48",
+    "message": "Update home env params and remove protected/public schema\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1569327380,
+  "updated": 1569327380,
+  "status": "active"
+}
