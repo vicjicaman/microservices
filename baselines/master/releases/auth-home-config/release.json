@@ -1,0 +1,15 @@
+{
+  "releaseid": "auth-home-config",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-graph-service",
+    "microservice-home-graph-service",
+    "microservice-auth-graph-container",
+    "microservice-home-graph-container",
+    "microservice-auth-graph",
+    "microservice-home-graph"
+  ],
+  "created": 1569351323,
+  "updated": 1569351323,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-home-config",
+  "moduleid": "microservice-home-graph-service",
+  "version": "1.70.3-master",
+  "fullname": "microservice-home-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-home-graph-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "7597e33900f3fa4e4bd6f5beaf5a40a0cf7f5174",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service and deployment for home",
+  "dependencies": [],
+  "created": 1569351323,
+  "updated": 1569351323,
+  "status": "active"
+}
