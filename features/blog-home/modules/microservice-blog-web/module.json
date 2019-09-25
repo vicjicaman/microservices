@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web.git",
   "fullname": "@nebulario/microservice-blog-web",
   "iteration": {
-    "mode": "prod"
+    "mode": "dev"
   },
   "release": {
     "type": "patch"
