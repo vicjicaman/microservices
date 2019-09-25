@@ -14,7 +14,7 @@
   "updated": 1568768710,
   "status": "active",
   "commit": {
-    "commitid": "1826885870f80f21873de99e647af329e6c7d0a8",
-    "message": "Add confirm component\n"
+    "commitid": "a9eeb2c995ca99da4a43c372dd79c3bdb4d895c6",
+    "message": "Add remove article action\n"
   }
 }
