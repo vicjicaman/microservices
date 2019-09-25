@@ -1,6 +1,6 @@
 {
   "releaseid": "blog-home",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-blog-web-service",
     "microservice-namespace",

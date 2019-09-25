@@ -5,15 +5,70 @@
   "fullname": "microservice-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "dd35e3b63bce17d5550313e718f1e27256b809e8",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "01ebebedfa795b3d251d7aea0b9169c162735e2d",
     "message": "ITERATION:7\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "56529e1314a733617ed76fd709a646b8ded11b60",
+    "message": "RELEASE:blog-home:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Stateful service for misc information [blogs, threads, activity, etc]",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-data",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|metadata.labels.version",
+      "fullname": "microservice-data",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|spec.template.metadata.labels.version",
+      "fullname": "microservice-data",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "spec.template.metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|stateful.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "mongo",
+      "version": "latest",
+      "kind": "container",
+      "filename": "stateful.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-data-config.version",
+      "fullname": "github.com:vicjicaman/microservice-data-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-data-config.version"
+    }
+  ],
   "created": 1569448931,
   "updated": 1569448931,
   "status": "active"

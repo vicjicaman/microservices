@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-blog-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-blog-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
+    "message": "Sync to stable iteration\n"
+  },
   "released": {
     "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
     "message": "Sync to stable iteration\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6bd2e7512666844a61a657f16c8b564e0464f0d7",
+    "message": "RELEASE:blog-home:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Config for blog graph and web services",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1569448932,
   "updated": 1569448932,
   "status": "active"

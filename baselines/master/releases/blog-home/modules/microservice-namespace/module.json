@@ -5,15 +5,62 @@
   "fullname": "microservice-namespace",
   "type": "namespace",
   "url": "github.com:vicjicaman/microservice-namespace.git",
-  "publish": null,
+  "publish": {
+    "commitid": "cd8012feaa878dbc7d299ce31afedc0611643aca",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "45c3bb3695c487f6ccce4c08ecdba651a4472e30",
     "message": "ITERATION:7\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c6757bf8d4bcf6fbadfd3b9713c5d63d5cfcfe3c",
+    "message": "RELEASE:blog-home:1.70.7-master\n"
+  },
   "releaseType": "patch",
   "description": "Namespace for the microservices demo",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.4-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+      "fullname": "github.com:vicjicaman/microservice-home-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-home-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+      "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-resources-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
+      "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-blog-config.version"
+    }
+  ],
   "created": 1569448931,
   "updated": 1569448931,
   "status": "active"

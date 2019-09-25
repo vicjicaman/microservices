@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-blog-web",
+  "releases": [
+    {
+      "releaseid": "blog-home"
+    }
+  ],
+  "created": 1569449667,
+  "updated": 1569449667,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-blog-web-container",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-web",
+          "fullname": "@nebulario/microservice-blog-web",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-blog-web"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-layout",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
+          "fullname": "@nebulario/microservice-layout",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-layout"
+        }
+      ]
+    }
+  ]
+}

@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-data-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-data-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d03e2b526a3c83adbc2171e1dbb1db9383baf48f",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "released": {
     "commitid": "d03e2b526a3c83adbc2171e1dbb1db9383baf48f",
     "message": "Add resulting config and kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a1adb39fe4a26e383fb46bff5de5f962d0db0e2e",
+    "message": "RELEASE:blog-home:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Config for misc data service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1569448932,
   "updated": 1569448932,
   "status": "active"

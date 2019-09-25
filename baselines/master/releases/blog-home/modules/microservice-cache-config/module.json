@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-cache-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-cache-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "bed11ce58000acab486526bae94c0078780c0b19",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
   "released": {
     "commitid": "bed11ce58000acab486526bae94c0078780c0b19",
     "message": "Add resulting config and kubernetes entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "91a82460c801c78cd722866362086edd74f01c5d",
+    "message": "RELEASE:blog-home:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Configuration for general cache",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1569448932,
   "updated": 1569448932,
   "status": "active"

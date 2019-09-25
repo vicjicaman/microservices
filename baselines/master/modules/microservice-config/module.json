@@ -143,6 +143,97 @@
       ]
     },
     {
+      "moduleid": "microservice-blog-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-blog-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-blog-web-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-cache",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-cache-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-data",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-data-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-home-config",
       "references": [
         {
