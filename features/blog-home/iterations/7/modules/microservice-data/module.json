@@ -5,12 +5,18 @@
   "fullname": "microservice-data",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-data.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a9133b01961cc36447fd8d40498bd308d0aa9c5b",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "af48f34969c6feab5edd927fccd0d82f1e31a5c9",
     "message": "Sync to stable iteration\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "01ebebedfa795b3d251d7aea0b9169c162735e2d",
+    "message": "ITERATION:7\n"
+  },
   "releasedOn": 7,
   "created": 1569447783,
   "updated": 1569447783,

@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-blog-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-blog-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
+    "message": "Sync to stable iteration\n"
+  },
   "iterate": {
     "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
     "message": "Sync to stable iteration\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
+    "message": "Sync to stable iteration\n"
+  },
   "releasedOn": 7,
   "created": 1569447784,
   "updated": 1569447784,

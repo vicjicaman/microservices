@@ -5,12 +5,18 @@
   "fullname": "microservice-cache",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-cache.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6a904c805a858b78ad4d5c922b9c8d89c44f0609",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "421df7eab25f4819eda6b909105265092656423d",
     "message": "Sync to stable iteration\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "130de7256adab5ca5ddb2de4cc2e1c221a2d860d",
+    "message": "ITERATION:7\n"
+  },
   "releasedOn": 7,
   "created": 1569447784,
   "updated": 1569447784,
