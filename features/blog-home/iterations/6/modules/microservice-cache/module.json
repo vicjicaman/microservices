@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-cache",
+  "mode": "prod",
+  "version": "1.70.3-blog-home-prod",
+  "fullname": "microservice-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-cache.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1e6bb347fe8f86480a8cf3f02e89e518946a9a14",
+    "message": "Add article editor\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569446384,
+  "updated": 1569446384,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.5-blog-home-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c22373414f551c863a3a2d6ccfc0ba120fae77c1",
+    "message": "Add confirm component\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569446384,
+  "updated": 1569446384,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web",
+  "mode": "prod",
+  "version": "1.70.3-blog-home-prod",
+  "fullname": "@nebulario/microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "34763af4ca58a2389c655ca7fa31f2eb9f102876",
+    "message": "Initial config, graph and web for blog articles\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1569029371,
+  "updated": 1569029371,
+  "status": "active"
+}

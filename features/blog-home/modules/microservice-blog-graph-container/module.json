@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for graph service",
+  "created": 1568772115,
+  "updated": 1568772115,
+  "status": "active",
+  "commit": {
+    "commitid": "a35653af8596dfd6c4a95b683be023c9be1241ec",
+    "message": "ITERATION:7\n"
+  }
+}

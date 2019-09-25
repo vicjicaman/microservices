@@ -1,0 +1,92 @@
+{
+  "moduleid": "microservice-blog-graph-service",
+  "releases": [
+    {
+      "releaseid": "blog-home"
+    }
+  ],
+  "created": 1569449665,
+  "updated": 1569449665,
+  "status": "active",
+  "dependants": [],
+  "dependents": [
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "references": [
+        {
+          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-blog-graph-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "deployment.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.4-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-account-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
+          "fullname": "github.com:vicjicaman/microservice-account-config.git",
+          "version": "1.70.2-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-account-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-blog-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
+          "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-blog-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-data-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-data-config.version",
+          "fullname": "github.com:vicjicaman/microservice-data-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-data-config.version"
+        }
+      ]
+    }
+  ]
+}

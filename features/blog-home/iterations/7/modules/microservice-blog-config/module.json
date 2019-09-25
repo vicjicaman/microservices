@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-config",
+  "mode": "prod",
+  "version": "1.70.5-blog-home-prod",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "publish": {
+    "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
+    "message": "Sync to stable iteration\n"
+  },
+  "iterate": {
+    "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
+    "message": "Sync to stable iteration\n"
+  },
+  "mergeback": {
+    "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
+    "message": "Sync to stable iteration\n"
+  },
+  "releasedOn": 7,
+  "created": 1569447784,
+  "updated": 1569447784,
+  "status": "active"
+}

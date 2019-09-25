@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web",
+  "mode": "prod",
+  "version": "1.70.5-blog-home-prod",
+  "fullname": "@nebulario/microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a9eeb2c995ca99da4a43c372dd79c3bdb4d895c6",
+    "message": "Add remove article action\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569446384,
+  "updated": 1569446384,
+  "status": "active"
+}

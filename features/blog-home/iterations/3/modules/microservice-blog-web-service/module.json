@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-web-service",
+  "mode": "prod",
+  "version": "1.70.2-blog-home-prod",
+  "fullname": "microservice-blog-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-web-service.git",
+  "publish": {
+    "commitid": "060f69fe92b51313b427b9608f064eef16c05666",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "b7ab8ba70b9def1189e1a0a604cca8ea37198441",
+    "message": "Add resulting config and kubernetes entities\n"
+  },
+  "mergeback": {
+    "commitid": "6e7b99aea8a8861d8036b6b3bf2f6cb1560f1494",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1568934819,
+  "updated": 1568934819,
+  "status": "active"
+}

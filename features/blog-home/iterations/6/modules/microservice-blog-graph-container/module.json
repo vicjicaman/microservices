@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph-container",
+  "mode": "prod",
+  "version": "1.70.5-blog-home-prod",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9c98f4fee121fb504caa43a2082dd6ef14a7eabc",
+    "message": "Add article editor\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569446384,
+  "updated": 1569446384,
+  "status": "active"
+}

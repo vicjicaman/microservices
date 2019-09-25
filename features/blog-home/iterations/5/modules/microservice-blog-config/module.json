@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-config",
+  "mode": "prod",
+  "version": "1.70.4-blog-home-prod",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "publish": {
+    "commitid": "b23a86769733a20f320f66bcf5f1fba6a2f6f087",
+    "message": "Initial config, graph and web for blog articles\n"
+  },
+  "iterate": {
+    "commitid": "b23a86769733a20f320f66bcf5f1fba6a2f6f087",
+    "message": "Initial config, graph and web for blog articles\n"
+  },
+  "mergeback": {
+    "commitid": "b23a86769733a20f320f66bcf5f1fba6a2f6f087",
+    "message": "Initial config, graph and web for blog articles\n"
+  },
+  "releasedOn": 5,
+  "created": 1569030267,
+  "updated": 1569030267,
+  "status": "active"
+}

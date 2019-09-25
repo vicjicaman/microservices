@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "prod",
+  "version": "1.70.1-blog-home-prod",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": {
+    "commitid": "0d149ab2bea1cda8714a4f9b4ad5405c8e31a5a1",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "f088bcec9975945e343554759704a421797765d4",
+    "message": "Sync to latest iteration\n"
+  },
+  "mergeback": {
+    "commitid": "ed6fef90ac0b81586043ec5c80df8471e356aefd",
+    "message": "ITERATION:5\n"
+  },
+  "releasedOn": 5,
+  "created": 1569030266,
+  "updated": 1569030266,
+  "status": "active"
+}

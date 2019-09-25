@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web",
+  "mode": "prod",
+  "version": "1.70.1-blog-home-prod",
+  "fullname": "@nebulario/microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2a5f86d9e6af4339ec8914c040bbee018d55e7bd",
+    "message": "Change the package name from auth to blog in graph and web\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1568934534,
+  "updated": 1568934534,
+  "status": "active"
+}

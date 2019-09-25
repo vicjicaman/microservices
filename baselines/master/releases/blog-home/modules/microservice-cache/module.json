@@ -5,15 +5,70 @@
   "fullname": "microservice-cache",
   "type": "stateful",
   "url": "github.com:vicjicaman/microservice-cache.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6d1761dd4fa78b6faec432640e0a65b9e6da0578",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "130de7256adab5ca5ddb2de4cc2e1c221a2d860d",
     "message": "ITERATION:7\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7a0485d403692d5efbfba80fe19fc611e402cb42",
+    "message": "RELEASE:blog-home:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Misc cache for services [blog, threads, activity, comments, etc]",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|service.yaml|metadata.labels.version",
+      "fullname": "microservice-cache",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "service.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|metadata.labels.version",
+      "fullname": "microservice-cache",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "inner|stateful.yaml|spec.template.metadata.labels.version",
+      "fullname": "microservice-cache",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "stateful.yaml",
+      "path": "spec.template.metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|stateful.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "redis",
+      "version": "3.2-alpine",
+      "kind": "container",
+      "filename": "stateful.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-cache-config.version",
+      "fullname": "github.com:vicjicaman/microservice-cache-config.git",
+      "version": "1.70.0-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-cache-config.version"
+    }
+  ],
   "created": 1569448931,
   "updated": 1569448931,
   "status": "active"

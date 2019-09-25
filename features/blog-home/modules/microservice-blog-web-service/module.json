@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-web-service.git",
+  "fullname": "microservice-blog-web-service",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Web service for the blog UI",
+  "created": 1568772266,
+  "updated": 1568772266,
+  "status": "active",
+  "commit": {
+    "commitid": "18bf171d2dfbf43d4b4f0b87c69298f0a0b5977b",
+    "message": "ITERATION:7\n"
+  }
+}

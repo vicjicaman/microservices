@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-cache-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-cache-config.git",
+  "fullname": "github.com:vicjicaman/microservice-cache-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Configuration for general cache",
+  "created": 1568768650,
+  "updated": 1568768650,
+  "status": "active",
+  "commit": {
+    "commitid": "bed11ce58000acab486526bae94c0078780c0b19",
+    "message": "Add resulting config and kubernetes entities\n"
+  }
+}

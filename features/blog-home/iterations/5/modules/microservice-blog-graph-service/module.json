@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-graph-service",
+  "mode": "prod",
+  "version": "1.70.4-blog-home-prod",
+  "fullname": "microservice-blog-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-graph-service.git",
+  "publish": {
+    "commitid": "e7947f225e420cedada79121befdcb9fda173d59",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "ba7048d5008f4dc13f869ad6893efaf8314c425f",
+    "message": "Sync to latest iteration\n"
+  },
+  "mergeback": {
+    "commitid": "8f71f41db0acdcff0671835f7ce42763908d25cc",
+    "message": "ITERATION:5\n"
+  },
+  "releasedOn": 5,
+  "created": 1569030266,
+  "updated": 1569030266,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for blog graph and web services",
+  "created": 1568777602,
+  "updated": 1568777602,
+  "status": "active",
+  "commit": {
+    "commitid": "aa1658d33e475da344042a6d2f2d0e2b4dfcb402",
+    "message": "Sync to stable iteration\n"
+  }
+}

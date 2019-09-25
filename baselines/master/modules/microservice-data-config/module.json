@@ -1,0 +1,54 @@
+{
+  "moduleid": "microservice-data-config",
+  "releases": [
+    {
+      "releaseid": "blog-home"
+    }
+  ],
+  "created": 1569449668,
+  "updated": 1569449668,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-blog-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-data-config.version",
+          "fullname": "github.com:vicjicaman/microservice-data-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-data-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-data",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-data-config.version",
+          "fullname": "github.com:vicjicaman/microservice-data-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-data-config.version"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    }
+  ]
+}

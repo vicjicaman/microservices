@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the blog web service",
+  "created": 1568772335,
+  "updated": 1568772335,
+  "status": "active",
+  "commit": {
+    "commitid": "d575e094bdfd78e54bbb22d3565a4102a452c68e",
+    "message": "ITERATION:7\n"
+  }
+}

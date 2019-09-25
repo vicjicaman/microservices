@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph-service",
+  "mode": "prod",
+  "version": "1.70.3-blog-home-prod",
+  "fullname": "microservice-blog-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-graph-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "542509d64cb8ba211e59945bf60be2008e0d0045",
+    "message": "Initial config, graph and web for blog articles\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1569029371,
+  "updated": 1569029371,
+  "status": "active"
+}

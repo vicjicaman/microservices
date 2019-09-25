@@ -1,0 +1,87 @@
+{
+  "iterationid": 7,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-blog-web-service",
+    "microservice-namespace",
+    "microservice-data",
+    "microservice-blog-graph-service",
+    "microservice-cache",
+    "microservice-blog-web-container",
+    "microservice-blog-graph-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-blog-config",
+    "microservice-layout"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-blog-graph-service",
+      "version": "1.70.6-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-data",
+      "version": "1.70.6-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-blog-web-service",
+      "version": "1.70.6-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-cache",
+      "version": "1.70.4-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-blog-web-container",
+      "version": "1.70.6-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-cache-config",
+      "version": "1.70.2-blog-home-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "microservice-data-config",
+      "version": "1.70.2-blog-home-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "version": "1.70.6-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-blog-graph",
+      "version": "1.70.6-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-blog-web",
+      "version": "1.70.6-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-blog-config",
+      "version": "1.70.5-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "version": "1.70.3-blog-home-prod",
+      "iterationid": 7
+    },
+    {
+      "moduleid": "microservice-layout",
+      "version": "1.70.1-blog-home-prod",
+      "iterationid": 7
+    }
+  ],
+  "created": 1569447783,
+  "updated": 1569447783,
+  "status": "active"
+}

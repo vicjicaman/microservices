@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web-service",
+  "mode": "prod",
+  "version": "1.70.3-blog-home-prod",
+  "fullname": "microservice-blog-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "63fd7f0084591c43dc76ad01e744b8d8c854202a",
+    "message": "Initial config, graph and web for blog articles\n"
+  },
+  "mergeback": null,
+  "releasedOn": 4,
+  "created": 1569029371,
+  "updated": 1569029371,
+  "status": "active"
+}

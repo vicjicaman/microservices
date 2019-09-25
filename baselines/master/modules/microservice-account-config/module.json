@@ -42,6 +42,19 @@
       ]
     },
     {
+      "moduleid": "microservice-blog-graph-service",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-account-config.version",
+          "fullname": "github.com:vicjicaman/microservice-account-config.git",
+          "version": "1.70.2-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-account-config.version"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-home-graph-service",
       "references": [
         {

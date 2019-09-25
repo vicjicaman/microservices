@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.0-blog-home-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "01dbf7c48c850bb32f9087beae63f12d03ef4942",
+    "message": "Add initial service, container and app for blog functionality\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1568933963,
+  "updated": 1568933963,
+  "status": "active"
+}

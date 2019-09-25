@@ -2,6 +2,9 @@
   "moduleid": "microservice-layout",
   "releases": [
     {
+      "releaseid": "blog-home"
+    },
+    {
       "releaseid": "home-service"
     },
     {
@@ -19,6 +22,19 @@
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
           "fullname": "@nebulario/microservice-layout",
           "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-layout"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-blog-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
+          "fullname": "@nebulario/microservice-layout",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-layout"

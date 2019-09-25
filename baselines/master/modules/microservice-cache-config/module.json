@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-cache-config",
+  "releases": [
+    {
+      "releaseid": "blog-home"
+    }
+  ],
+  "created": 1569449666,
+  "updated": 1569449666,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-cache",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-cache-config.version",
+          "fullname": "github.com:vicjicaman/microservice-cache-config.git",
+          "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-cache-config.version"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    }
+  ]
+}
