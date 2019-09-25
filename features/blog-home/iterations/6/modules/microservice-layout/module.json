@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-layout",
+  "mode": "prod",
+  "version": "1.70.0-blog-home-prod",
+  "fullname": "@nebulario/microservice-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-layout.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5882baefc19728964ae1e85088b5cd5797a55040",
+    "message": "Add the blog entry to the general layout\n"
+  },
+  "mergeback": null,
+  "releasedOn": 6,
+  "created": 1569446384,
+  "updated": 1569446384,
+  "status": "active"
+}
