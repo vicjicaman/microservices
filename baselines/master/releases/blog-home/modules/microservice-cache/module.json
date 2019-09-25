@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-home",
+  "moduleid": "microservice-cache",
+  "version": "1.70.0-master",
+  "fullname": "microservice-cache",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-cache.git",
+  "publish": null,
+  "released": {
+    "commitid": "130de7256adab5ca5ddb2de4cc2e1c221a2d860d",
+    "message": "ITERATION:7\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Misc cache for services [blog, threads, activity, comments, etc]",
+  "dependencies": [],
+  "created": 1569448931,
+  "updated": 1569448931,
+  "status": "active"
+}

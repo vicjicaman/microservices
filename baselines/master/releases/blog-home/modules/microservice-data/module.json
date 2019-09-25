@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-home",
+  "moduleid": "microservice-data",
+  "version": "1.70.0-master",
+  "fullname": "microservice-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-data.git",
+  "publish": null,
+  "released": {
+    "commitid": "01ebebedfa795b3d251d7aea0b9169c162735e2d",
+    "message": "ITERATION:7\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Stateful service for misc information [blogs, threads, activity, etc]",
+  "dependencies": [],
+  "created": 1569448931,
+  "updated": 1569448931,
+  "status": "active"
+}

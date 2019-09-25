@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-home",
+  "moduleid": "microservice-blog-web",
+  "version": "1.70.0-master",
+  "fullname": "@nebulario/microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "0aacd7a89eca243dbc7d3e2ca5c9f0e30a6ba637",
+    "message": "ITERATION:7\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Web app for the blog service",
+  "dependencies": [],
+  "created": 1569448932,
+  "updated": 1569448932,
+  "status": "active"
+}

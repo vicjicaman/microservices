@@ -1,0 +1,22 @@
+{
+  "releaseid": "blog-home",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-web-service",
+    "microservice-namespace",
+    "microservice-data",
+    "microservice-blog-graph-service",
+    "microservice-cache",
+    "microservice-blog-web-container",
+    "microservice-cache-config",
+    "microservice-blog-graph-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-data-config",
+    "microservice-blog-config",
+    "microservice-layout"
+  ],
+  "created": 1569448931,
+  "updated": 1569448931,
+  "status": "active"
+}
