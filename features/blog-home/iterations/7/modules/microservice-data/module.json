@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-data",
+  "mode": "prod",
+  "version": "1.70.6-blog-home-prod",
+  "fullname": "microservice-data",
+  "type": "stateful",
+  "url": "github.com:vicjicaman/microservice-data.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "af48f34969c6feab5edd927fccd0d82f1e31a5c9",
+    "message": "Sync to stable iteration\n"
+  },
+  "mergeback": null,
+  "releasedOn": 7,
+  "created": 1569447783,
+  "updated": 1569447783,
+  "status": "active"
+}

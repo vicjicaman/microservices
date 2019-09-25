@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web-service",
+  "mode": "prod",
+  "version": "1.70.6-blog-home-prod",
+  "fullname": "microservice-blog-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-web-service.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "02602922b430fc73c5df385a98e3b899c0cc3fb3",
+    "message": "Sync to stable iteration\n"
+  },
+  "mergeback": null,
+  "releasedOn": 7,
+  "created": 1569447783,
+  "updated": 1569447783,
+  "status": "active"
+}
