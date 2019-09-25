@@ -1,0 +1,8 @@
+{
+  "featureid": "ssl-job",
+  "baselineid": "master",
+  "description": "Add job to get and renew the ssl certificate",
+  "created": 1569449912,
+  "updated": 1569449912,
+  "status": "active"
+}

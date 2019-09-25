@@ -1,0 +1,8 @@
+{
+  "featureid": "blog-layout-update",
+  "baselineid": "master",
+  "description": "Update the home and auth service layouts",
+  "created": 1569450065,
+  "updated": 1569450065,
+  "status": "active"
+}

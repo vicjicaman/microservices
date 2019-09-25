@@ -1,0 +1,8 @@
+{
+  "featureid": "data-reconnect-initial",
+  "baselineid": "master",
+  "description": "Add functionality to reconnect database on first try or restart the container app",
+  "created": 1569449996,
+  "updated": 1569449996,
+  "status": "active"
+}
