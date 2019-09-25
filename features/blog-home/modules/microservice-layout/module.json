@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-layout.git",
   "fullname": "@nebulario/microservice-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
