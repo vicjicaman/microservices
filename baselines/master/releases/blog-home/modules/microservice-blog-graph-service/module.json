@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-home",
+  "moduleid": "microservice-blog-graph-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-blog-graph-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-graph-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "27cfd346cfa641b4a38fe9a64bc769997035819a",
+    "message": "ITERATION:7\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Service for the blog graph",
+  "dependencies": [],
+  "created": 1569448931,
+  "updated": 1569448931,
+  "status": "active"
+}

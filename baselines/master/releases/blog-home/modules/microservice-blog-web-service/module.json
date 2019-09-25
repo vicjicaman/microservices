@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-home",
+  "moduleid": "microservice-blog-web-service",
+  "version": "1.70.0-master",
+  "fullname": "microservice-blog-web-service",
+  "type": "service",
+  "url": "github.com:vicjicaman/microservice-blog-web-service.git",
+  "publish": null,
+  "released": {
+    "commitid": "18bf171d2dfbf43d4b4f0b87c69298f0a0b5977b",
+    "message": "ITERATION:7\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Web service for the blog UI",
+  "dependencies": [],
+  "created": 1569448931,
+  "updated": 1569448931,
+  "status": "active"
+}
