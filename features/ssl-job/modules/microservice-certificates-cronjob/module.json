@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-certificates-cronjob",
+  "type": "cronjob",
+  "url": "github.com:vicjicaman/microservice-certificates-cronjob.git",
+  "fullname": "certificates-cronjob",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Cronjob to renew the namespace certificate",
+  "created": 1569555817,
+  "updated": 1569555817,
+  "status": "active"
+}
