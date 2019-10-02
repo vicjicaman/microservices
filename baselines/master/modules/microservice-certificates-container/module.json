@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-certificates-container",
+  "releases": [
+    {
+      "releaseid": "ssl-job"
+    }
+  ],
+  "created": 1570032546,
+  "updated": 1570032546,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/cronjob/cronjob.yaml|spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-certificates-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "entities/cronjob/cronjob.yaml",
+          "path": "spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-certificates",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-certificates",
+          "fullname": "@nebulario/microservice-certificates",
+          "version": "1.70.0-master",
+          "kind": "app",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-certificates"
+        }
+      ]
+    }
+  ]
+}

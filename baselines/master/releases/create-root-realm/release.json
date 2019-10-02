@@ -1,0 +1,13 @@
+{
+  "releaseid": "create-root-realm",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-resources-config",
+    "microservice-config"
+  ],
+  "created": 1570055478,
+  "updated": 1570055478,
+  "status": "active"
+}

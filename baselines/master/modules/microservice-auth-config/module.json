@@ -98,6 +98,19 @@
           "path": "dependencies.microservice-auth-config.version"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.4-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
     }
   ],
   "dependents": [
