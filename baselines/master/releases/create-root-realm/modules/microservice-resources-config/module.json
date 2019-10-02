@@ -1,0 +1,20 @@
+{
+  "releaseid": "create-root-realm",
+  "moduleid": "microservice-resources-config",
+  "version": "1.70.1-master",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "a849148e31fd085dfb90d59ead9cdef72e8c181c",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Configuration for the common resources service",
+  "dependencies": [],
+  "created": 1570055478,
+  "updated": 1570055478,
+  "status": "active"
+}
