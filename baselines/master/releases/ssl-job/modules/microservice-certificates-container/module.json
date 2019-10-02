@@ -1,0 +1,20 @@
+{
+  "releaseid": "ssl-job",
+  "moduleid": "microservice-certificates-container",
+  "version": "1.70.0-master",
+  "fullname": "repoflow/microservice-certificates-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-certificates-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "35b714c5cfc14894245f5d838010d94bf9a5ba87",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the certificate generation cronjob",
+  "dependencies": [],
+  "created": 1570032177,
+  "updated": 1570032177,
+  "status": "active"
+}

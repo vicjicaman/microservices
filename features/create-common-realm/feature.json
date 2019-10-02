@@ -1,0 +1,8 @@
+{
+  "featureid": "create-common-realm",
+  "baselineid": "master",
+  "description": "Create a realm for all the common services and resources",
+  "created": 1570025287,
+  "updated": 1570025287,
+  "status": "active"
+}
