@@ -12,5 +12,9 @@
   "description": "App to check and generate the ingress SSL certificates",
   "created": 1569450638,
   "updated": 1569450638,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7e4a22aae521d5b22b890baf7e7c326cbd8e3a63",
+    "message": "Create and update the ssl secret automatically\n"
+  }
 }

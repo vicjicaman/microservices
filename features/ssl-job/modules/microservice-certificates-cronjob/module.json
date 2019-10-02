@@ -12,5 +12,9 @@
   "description": "Cronjob to renew the namespace certificate",
   "created": 1569555817,
   "updated": 1569555817,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "186b2712117f55e463b4530a03cf21e2486b4fc6",
+    "message": "Create and update the ssl secret automatically\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Container for the certificate generation cronjob",
   "created": 1569450730,
   "updated": 1569450730,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2e1750e935bab10a2d180e4cd34e134b402b6a9e",
+    "message": "Group kubernetes entities per service/stateful/cronjob\n"
+  }
 }

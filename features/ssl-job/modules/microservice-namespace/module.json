@@ -12,5 +12,9 @@
   "description": "Namespace for the microservices demo",
   "created": 1569553888,
   "updated": 1569553888,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a86a07b05d599037dc333c769205949732afc33d",
+    "message": "Create and update the ssl secret automatically\n"
+  }
 }
