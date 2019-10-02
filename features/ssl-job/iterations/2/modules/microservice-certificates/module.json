@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-certificates",
+  "mode": "prod",
+  "version": "1.70.1-ssl-job-prod",
+  "fullname": "@nebulario/microservice-certificates",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-certificates.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7e4a22aae521d5b22b890baf7e7c326cbd8e3a63",
+    "message": "Create and update the ssl secret automatically\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570029357,
+  "updated": 1570029357,
+  "status": "active"
+}

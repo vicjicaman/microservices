@@ -1,0 +1,33 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-certificates-container",
+    "microservice-certificates"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-certificates-cronjob",
+      "version": "1.70.0-ssl-job-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-namespace",
+      "version": "1.70.0-ssl-job-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-certificates-container",
+      "version": "1.70.1-ssl-job-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-certificates",
+      "version": "1.70.1-ssl-job-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1570029356,
+  "updated": 1570029356,
+  "status": "active"
+}
