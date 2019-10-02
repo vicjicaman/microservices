@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-certificates.git",
   "fullname": "@nebulario/microservice-certificates",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"

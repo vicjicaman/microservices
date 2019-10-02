@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-certificates-cronjob.git",
   "fullname": "certificates-cronjob",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
