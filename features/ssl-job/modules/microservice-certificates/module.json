@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-certificates",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-certificates.git",
+  "fullname": "@nebulario/microservice-certificates",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "App to check and generate the ingress SSL certificates",
+  "created": 1569450638,
+  "updated": 1569450638,
+  "status": "active",
+  "commit": {
+    "commitid": "394f844cf420eb1497a70cbd8f72294dcefa951c",
+    "message": "ITERATION:2\n"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-certificates-cronjob",
+  "mode": "prod",
+  "version": "1.70.0-ssl-job-prod",
+  "fullname": "certificates-cronjob",
+  "type": "cronjob",
+  "url": "github.com:vicjicaman/microservice-certificates-cronjob.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "186b2712117f55e463b4530a03cf21e2486b4fc6",
+    "message": "Create and update the ssl secret automatically\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570027338,
+  "updated": 1570027338,
+  "status": "active"
+}

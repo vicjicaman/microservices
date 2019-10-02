@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-certificates-container",
+  "mode": "prod",
+  "version": "1.70.0-ssl-job-prod",
+  "fullname": "repoflow/microservice-certificates-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-certificates-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2e1750e935bab10a2d180e4cd34e134b402b6a9e",
+    "message": "Group kubernetes entities per service/stateful/cronjob\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570027338,
+  "updated": 1570027338,
+  "status": "active"
+}
