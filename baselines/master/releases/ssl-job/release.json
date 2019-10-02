@@ -1,6 +1,6 @@
 {
   "releaseid": "ssl-job",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-certificates-container",
     "microservice-certificates"

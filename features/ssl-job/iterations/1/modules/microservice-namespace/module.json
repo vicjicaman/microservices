@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-namespace",
+  "mode": "prod",
+  "version": "1.70.0-ssl-job-prod",
+  "fullname": "microservice-namespace",
+  "type": "namespace",
+  "url": "github.com:vicjicaman/microservice-namespace.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a86a07b05d599037dc333c769205949732afc33d",
+    "message": "Create and update the ssl secret automatically\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570027338,
+  "updated": 1570027338,
+  "status": "active"
+}
