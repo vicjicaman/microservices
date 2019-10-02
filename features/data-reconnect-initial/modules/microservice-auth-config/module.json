@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-auth-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General configuration for auth service, web, graph and others",
+  "created": 1569986180,
+  "updated": 1569986180,
+  "status": "active"
+}
