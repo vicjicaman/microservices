@@ -8,7 +8,21 @@
   "created": 1570032546,
   "updated": 1570032546,
   "status": "active",
-  "dependants": [],
+  "dependants": [
+    {
+      "moduleid": "microservice-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/cronjob/cronjob.yaml|spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-certificates-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "entities/cronjob/cronjob.yaml",
+          "path": "spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
   "dependents": [
     {
       "moduleid": "microservice-certificates",

@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9d5e54bcf8623224688987632619cd40c1794775",
+    "message": "Add email and protocol params to real general config\n"
+  },
   "released": {
     "commitid": "9d5e54bcf8623224688987632619cd40c1794775",
     "message": "Add email and protocol params to real general config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "950d65553855ead2e1f5d3cc7cfa242ca58a3b9b",
+    "message": "RELEASE:create-root-realm:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "General configuration for microservices",
   "dependencies": [],

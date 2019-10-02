@@ -1,6 +1,6 @@
 {
   "releaseid": "create-root-realm",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-realm",
     "microservice-resources-realm",
