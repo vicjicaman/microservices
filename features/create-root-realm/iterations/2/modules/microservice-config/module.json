@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9d5e54bcf8623224688987632619cd40c1794775",
+    "message": "Add email and protocol params to real general config\n"
+  },
   "iterate": {
     "commitid": "9d5e54bcf8623224688987632619cd40c1794775",
     "message": "Add email and protocol params to real general config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9d5e54bcf8623224688987632619cd40c1794775",
+    "message": "Add email and protocol params to real general config\n"
+  },
   "releasedOn": 2,
   "created": 1570052227,
   "updated": 1570052227,

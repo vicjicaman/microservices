@@ -5,12 +5,18 @@
   "fullname": "microservice-resources-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "09abd7fa3cb00dcb361a0df7bf8016378c51e04a",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "8e1df94d0608f27135596c2352e407655ebf26b1",
     "message": "Create resources realm\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6a31f25206cf474ec6da0b6ca6993627b5f1d50a",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1570052227,
   "updated": 1570052227,

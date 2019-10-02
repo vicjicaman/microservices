@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7a5a1043da89967fcfa8925aea0b080598cecd43",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "f9e8f41879025d8c4fab6893d47763d1b2847af0",
     "message": "Create resources realm\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a849148e31fd085dfb90d59ead9cdef72e8c181c",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1570052227,
   "updated": 1570052227,
