@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1570041988,
   "updated": 1570041988,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8e1df94d0608f27135596c2352e407655ebf26b1",
+    "message": "Create resources realm\n"
+  }
 }
