@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-realm",
+      "iterationid": 1,
+      "version": "1.70.0-create-root-realm-prod"
+    }
+  ],
+  "created": 1570038284,
+  "updated": 1570038284,
+  "status": "active"
+}

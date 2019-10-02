@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-realm",
+  "mode": "prod",
+  "version": "1.70.0-create-root-realm-prod",
+  "fullname": "microservice-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "3cff129f7c3a40e994b9d45ca6b3b92be48e9f0c",
+    "message": "Fix config naming for claim\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570038284,
+  "updated": 1570038284,
+  "status": "active"
+}
