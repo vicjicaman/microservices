@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-certificates",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-certificates.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7215e4e5abce688ba293ac92c8f6ed7e92cc0dd3",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "7e4a22aae521d5b22b890baf7e7c326cbd8e3a63",
     "message": "Create and update the ssl secret automatically\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "394f844cf420eb1497a70cbd8f72294dcefa951c",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1570029357,
   "updated": 1570029357,
