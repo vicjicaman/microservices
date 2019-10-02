@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-config",
+  "mode": "prod",
+  "version": "1.70.0-create-root-realm-prod",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f9e8f41879025d8c4fab6893d47763d1b2847af0",
+    "message": "Create resources realm\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570052227,
+  "updated": 1570052227,
+  "status": "active"
+}

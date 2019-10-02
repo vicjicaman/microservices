@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-config",
+  "mode": "prod",
+  "version": "1.70.0-create-root-realm-prod",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9d5e54bcf8623224688987632619cd40c1794775",
+    "message": "Add email and protocol params to real general config\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570052227,
+  "updated": 1570052227,
+  "status": "active"
+}
