@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-resources-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Configuration for the common resources service",
+  "created": 1570042046,
+  "updated": 1570042046,
+  "status": "active",
+  "commit": {
+    "commitid": "a849148e31fd085dfb90d59ead9cdef72e8c181c",
+    "message": "ITERATION:2\n"
+  }
+}

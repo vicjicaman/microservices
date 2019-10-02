@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General configuration for microservices",
+  "created": 1570039636,
+  "updated": 1570039636,
+  "status": "active",
+  "commit": {
+    "commitid": "9d5e54bcf8623224688987632619cd40c1794775",
+    "message": "Add email and protocol params to real general config\n"
+  }
+}
