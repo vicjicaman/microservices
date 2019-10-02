@@ -14,7 +14,7 @@
   "updated": 1570025585,
   "status": "active",
   "commit": {
-    "commitid": "6221ebe9c225bc76c2fe9fd192a65bfef5c308fb",
-    "message": "Add namespace, ingress and cronjob entitites\n"
+    "commitid": "3cff129f7c3a40e994b9d45ca6b3b92be48e9f0c",
+    "message": "Fix config naming for claim\n"
   }
 }
