@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-update",
+  "moduleid": "microservice-resources-config",
+  "version": "1.70.2-master",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "16f1b48cc99f8dbf357cb46ec341e9c12b11d1f6",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Configuration for the common resources service",
+  "dependencies": [],
+  "created": 1570145083,
+  "updated": 1570145083,
+  "status": "active"
+}

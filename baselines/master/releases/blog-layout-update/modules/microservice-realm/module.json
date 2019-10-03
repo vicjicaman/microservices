@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-update",
+  "moduleid": "microservice-realm",
+  "version": "1.70.1-master",
+  "fullname": "microservice-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "b07669108c1f0b4d788e0e8b2b005317a06aa66b",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Root realm with the namespace, ingress and base services",
+  "dependencies": [],
+  "created": 1570145083,
+  "updated": 1570145083,
+  "status": "active"
+}

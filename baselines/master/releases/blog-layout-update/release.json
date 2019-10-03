@@ -1,0 +1,16 @@
+{
+  "releaseid": "blog-layout-update",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-home-realm",
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-home-config",
+    "microservice-auth-config",
+    "microservice-resources-config"
+  ],
+  "created": 1570145083,
+  "updated": 1570145083,
+  "status": "active"
+}

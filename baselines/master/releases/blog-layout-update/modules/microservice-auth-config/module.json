@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-update",
+  "moduleid": "microservice-auth-config",
+  "version": "1.70.6-master",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "60132c8703271f1143cd758e7b6ad857b5048fa7",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "General configuration for auth service, web, graph and others",
+  "dependencies": [],
+  "created": 1570145083,
+  "updated": 1570145083,
+  "status": "active"
+}
