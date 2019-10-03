@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-config",
   "releases": [
     {
+      "releaseid": "data-reconnect-initial"
+    },
+    {
       "releaseid": "auth-config"
     },
     {
@@ -54,6 +57,19 @@
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
           "version": "1.70.4-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.5-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -120,7 +136,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
           "fullname": "github.com:vicjicaman/microservice-config.git",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"

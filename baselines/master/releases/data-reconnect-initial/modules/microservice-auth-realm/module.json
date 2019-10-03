@@ -5,15 +5,126 @@
   "fullname": "microservice-auth-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b998a10a127f9bdca49a95f813ae77243cf8cba9",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "06bcd9335e72a7cd50fa82987acc4ca134881105",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b190589a43beae0dad0e1f8ba6d730e50dcb48a9",
+    "message": "RELEASE:data-reconnect-initial:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Kubernetes entities for functionality related to auth",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|entities/stateful/cache.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-realm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "entities/stateful/cache.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/stateful/cache.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "redis",
+      "version": "3.2-alpine",
+      "kind": "container",
+      "filename": "entities/stateful/cache.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/stateful/data.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-realm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "entities/stateful/data.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/stateful/data.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "mongo",
+      "version": "4.2.0",
+      "kind": "container",
+      "filename": "entities/stateful/data.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/deployment/account.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-realm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "entities/deployment/account.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/deployment/account.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-account-graph-container",
+      "version": "1.70.3-master",
+      "kind": "container",
+      "filename": "entities/deployment/account.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/deployment/graph.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-realm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "entities/deployment/graph.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-auth-graph-container",
+      "version": "1.70.7-master",
+      "kind": "container",
+      "filename": "entities/deployment/graph.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/deployment/web.yaml|metadata.labels.version",
+      "fullname": "microservice-auth-realm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "entities/deployment/web.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-auth-web-container",
+      "version": "1.70.3-master",
+      "kind": "container",
+      "filename": "entities/deployment/web.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.5-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+      "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-resources-config.version"
+    }
+  ],
   "created": 1570125496,
   "updated": 1570125496,
   "status": "active"
