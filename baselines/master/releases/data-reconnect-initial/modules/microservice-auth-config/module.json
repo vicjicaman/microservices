@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-reconnect-initial",
+  "moduleid": "microservice-auth-config",
+  "version": "1.70.5-master",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
+    "message": "Working auth realm\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "General configuration for auth service, web, graph and others",
+  "dependencies": [],
+  "created": 1570125496,
+  "updated": 1570125496,
+  "status": "active"
+}
