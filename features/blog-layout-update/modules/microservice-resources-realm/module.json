@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "fullname": "microservice-resources-realm",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Realm for common services and resources",
+  "created": 1570132035,
+  "updated": 1570132035,
+  "status": "active",
+  "commit": {
+    "commitid": "7bd7a82dd6e177baf69e63dd92d1b9fa54882308",
+    "message": "ITERATION:1\n"
+  }
+}

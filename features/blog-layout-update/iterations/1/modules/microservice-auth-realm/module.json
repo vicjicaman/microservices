@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.0-blog-layout-update-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": {
+    "commitid": "49c4c2903a7064fef65f0e259d1d6c4fd0ce6c7f",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "31b941f62f9b50eaec828aaaee3aa2a587b06125",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
+  "mergeback": {
+    "commitid": "070d0d32259bbc25d858ba734167f579a31cff74",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570144503,
+  "updated": 1570144503,
+  "status": "active"
+}

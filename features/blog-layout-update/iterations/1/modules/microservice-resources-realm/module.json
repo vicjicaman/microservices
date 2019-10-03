@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-blog-layout-update-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": {
+    "commitid": "11b8cd8d66d77d503bad79c0697a202f7e0b75ca",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "c313540e154a9ab3a65ac000801df8559dca5052",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
+  "mergeback": {
+    "commitid": "7bd7a82dd6e177baf69e63dd92d1b9fa54882308",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570144504,
+  "updated": 1570144504,
+  "status": "active"
+}

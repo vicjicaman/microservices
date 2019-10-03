@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-resources-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Configuration for the common resources service",
+  "created": 1570143624,
+  "updated": 1570143624,
+  "status": "active",
+  "commit": {
+    "commitid": "16f1b48cc99f8dbf357cb46ec341e9c12b11d1f6",
+    "message": "Add home realm and modify resources secret to general config\n"
+  }
+}
