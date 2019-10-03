@@ -12,5 +12,9 @@
   "description": "Root realm with the namespace, ingress and base services",
   "created": 1570132028,
   "updated": 1570132028,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4fb5cad3f2f68c1918973af037a5756dbdd788ef",
+    "message": "Add home realm and modify resources secret to general config\n"
+  }
 }

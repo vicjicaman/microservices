@@ -12,5 +12,9 @@
   "description": "Kubernetes entities for functionality related to auth",
   "created": 1570137290,
   "updated": 1570137290,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "31b941f62f9b50eaec828aaaee3aa2a587b06125",
+    "message": "Add home realm and modify resources secret to general config\n"
+  }
 }

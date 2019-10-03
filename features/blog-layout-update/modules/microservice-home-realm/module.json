@@ -12,5 +12,9 @@
   "description": "Entities for the home services and entities kubernetes realm",
   "created": 1570131651,
   "updated": 1570131651,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a06bdae0494d260426c0992849b18aa2abf43446",
+    "message": "Add home realm and modify resources secret to general config\n"
+  }
 }

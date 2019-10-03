@@ -12,5 +12,9 @@
   "description": "Config params for home microservices",
   "created": 1570132312,
   "updated": 1570132312,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "95968a98b4ab120bab2397b2de2a6d9732dd245e",
+    "message": "Add home realm and modify resources secret to general config\n"
+  }
 }

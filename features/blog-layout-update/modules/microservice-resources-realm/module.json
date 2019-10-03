@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1570132035,
   "updated": 1570132035,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c313540e154a9ab3a65ac000801df8559dca5052",
+    "message": "Add home realm and modify resources secret to general config\n"
+  }
 }

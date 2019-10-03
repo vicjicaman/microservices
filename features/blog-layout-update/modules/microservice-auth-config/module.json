@@ -12,5 +12,9 @@
   "description": "General configuration for auth service, web, graph and others",
   "created": 1570137308,
   "updated": 1570137308,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "60132c8703271f1143cd758e7b6ad857b5048fa7",
+    "message": "Add home realm and modify resources secret to general config\n"
+  }
 }
