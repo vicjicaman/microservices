@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
+    "message": "Working auth realm\n"
+  },
   "iterate": {
     "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
     "message": "Working auth realm\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
+    "message": "Working auth realm\n"
+  },
   "releasedOn": 1,
   "created": 1570124809,
   "updated": 1570124809,
