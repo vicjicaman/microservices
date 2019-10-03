@@ -10,6 +10,19 @@
   "status": "active",
   "dependants": [
     {
+      "moduleid": "microservice-home-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-web-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "entities/deployment/web.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-home-web-service",
       "references": [
         {

@@ -1,6 +1,6 @@
 {
   "releaseid": "blog-layout-update",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-realm",
     "microservice-home-realm",

@@ -27,6 +27,19 @@
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-home-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-graph-container",
+          "version": "1.70.2-master",
+          "kind": "container",
+          "filename": "entities/deployment/graph.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
     }
   ],
   "dependents": [

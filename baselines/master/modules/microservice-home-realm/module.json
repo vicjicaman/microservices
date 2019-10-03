@@ -1,28 +1,38 @@
 {
-  "moduleid": "microservice-realm",
+  "moduleid": "microservice-home-realm",
   "releases": [
     {
       "releaseid": "blog-layout-update"
-    },
-    {
-      "releaseid": "create-root-realm"
     }
   ],
-  "created": 1570055778,
-  "updated": 1570055778,
+  "created": 1570146117,
+  "updated": 1570146117,
   "status": "active",
   "dependants": [],
   "dependents": [
     {
-      "moduleid": "microservice-certificates-container",
+      "moduleid": "microservice-home-graph-container",
       "references": [
         {
-          "dependencyid": "dependency|entities/cronjob/cronjob.yaml|spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)",
-          "fullname": "repoflow/microservice-certificates-container",
+          "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-graph-container",
+          "version": "1.70.2-master",
+          "kind": "container",
+          "filename": "entities/deployment/graph.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-home-web-container",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-home-web-container",
           "version": "1.70.0-master",
           "kind": "container",
-          "filename": "entities/cronjob/cronjob.yaml",
-          "path": "spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)"
+          "filename": "entities/deployment/web.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
         }
       ]
     },
@@ -53,19 +63,6 @@
       ]
     },
     {
-      "moduleid": "microservice-auth-config",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.6-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-home-config",
       "references": [
         {
@@ -79,15 +76,15 @@
       ]
     },
     {
-      "moduleid": "microservice-blog-config",
+      "moduleid": "microservice-auth-config",
       "references": [
         {
-          "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
-          "fullname": "github.com:vicjicaman/microservice-blog-config.git",
-          "version": "1.70.0-master",
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.6-master",
           "kind": "config",
           "filename": "config.json",
-          "path": "dependencies.microservice-blog-config.version"
+          "path": "dependencies.microservice-auth-config.version"
         }
       ]
     }
