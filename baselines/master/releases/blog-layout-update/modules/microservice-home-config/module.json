@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-update",
+  "moduleid": "microservice-home-config",
+  "version": "1.70.2-master",
+  "fullname": "github.com:vicjicaman/microservice-home-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-home-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "95968a98b4ab120bab2397b2de2a6d9732dd245e",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Config params for home microservices",
+  "dependencies": [],
+  "created": 1570145083,
+  "updated": 1570145083,
+  "status": "active"
+}
