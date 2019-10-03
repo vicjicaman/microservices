@@ -2,6 +2,9 @@
   "moduleid": "microservice-resources-config",
   "releases": [
     {
+      "releaseid": "create-root-realm"
+    },
+    {
       "releaseid": "resources-service"
     }
   ],
@@ -9,6 +12,19 @@
   "updated": 1569351098,
   "status": "active",
   "dependants": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    },
     {
       "moduleid": "microservice-auth-web-service",
       "references": [
@@ -62,6 +78,32 @@
       ]
     },
     {
+      "moduleid": "microservice-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-resources-service",
       "references": [
         {
@@ -82,7 +124,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
           "fullname": "github.com:vicjicaman/microservice-config.git",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"

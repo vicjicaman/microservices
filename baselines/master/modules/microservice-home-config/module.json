@@ -63,6 +63,19 @@
           "path": "dependencies.microservice-home-config.version"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+          "fullname": "github.com:vicjicaman/microservice-home-config.git",
+          "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-home-config.version"
+        }
+      ]
     }
   ],
   "dependents": [

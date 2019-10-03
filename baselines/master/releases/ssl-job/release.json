@@ -1,0 +1,11 @@
+{
+  "releaseid": "ssl-job",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-certificates-container",
+    "microservice-certificates"
+  ],
+  "created": 1570032177,
+  "updated": 1570032177,
+  "status": "active"
+}

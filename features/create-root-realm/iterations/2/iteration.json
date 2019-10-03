@@ -1,0 +1,35 @@
+{
+  "iterationid": 2,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-resources-config",
+    "microservice-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-realm",
+      "version": "1.70.1-create-root-realm-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 2,
+      "version": "1.70.0-create-root-realm-prod"
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "iterationid": 2,
+      "version": "1.70.0-create-root-realm-prod"
+    },
+    {
+      "moduleid": "microservice-config",
+      "iterationid": 2,
+      "version": "1.70.0-create-root-realm-prod"
+    }
+  ],
+  "created": 1570052227,
+  "updated": 1570052227,
+  "status": "active"
+}

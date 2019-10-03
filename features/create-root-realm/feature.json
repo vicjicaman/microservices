@@ -1,0 +1,8 @@
+{
+  "featureid": "create-root-realm",
+  "baselineid": "master",
+  "description": "Create the root realm for the cluster",
+  "created": 1570025246,
+  "updated": 1570025246,
+  "status": "active"
+}

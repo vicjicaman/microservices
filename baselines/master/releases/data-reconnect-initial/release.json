@@ -1,0 +1,11 @@
+{
+  "releaseid": "data-reconnect-initial",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-auth-config"
+  ],
+  "created": 1570125496,
+  "updated": 1570125496,
+  "status": "active"
+}
