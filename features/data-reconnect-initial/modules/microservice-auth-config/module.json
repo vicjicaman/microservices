@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General configuration for auth service, web, graph and others",
+  "created": 1569986180,
+  "updated": 1569986180,
+  "status": "active",
+  "commit": {
+    "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
+    "message": "Working auth realm\n"
+  }
+}

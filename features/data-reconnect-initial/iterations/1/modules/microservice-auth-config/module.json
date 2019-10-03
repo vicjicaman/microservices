@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-config",
+  "mode": "prod",
+  "version": "1.70.0-data-reconnect-initial-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": {
+    "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
+    "message": "Working auth realm\n"
+  },
+  "iterate": {
+    "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
+    "message": "Working auth realm\n"
+  },
+  "mergeback": {
+    "commitid": "7af829c2f5faf81eca657707cf4197c61789f1eb",
+    "message": "Working auth realm\n"
+  },
+  "releasedOn": 1,
+  "created": 1570124809,
+  "updated": 1570124809,
+  "status": "active"
+}

@@ -1,6 +1,6 @@
 {
   "releaseid": "data-reconnect-initial",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-realm",
     "microservice-auth-config"
