@@ -12,5 +12,9 @@
   "description": "Kubernetes entities for functionality related to auth",
   "created": 1569985463,
   "updated": 1569985463,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2aa804d9f9fa0350c6216c51ae46cd1e34b11256",
+    "message": "Working auth realm\n"
+  }
 }
