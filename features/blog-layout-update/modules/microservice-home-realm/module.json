@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-realm.git",
   "fullname": "microservice-home-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
