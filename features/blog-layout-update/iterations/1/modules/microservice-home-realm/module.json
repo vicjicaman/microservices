@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-realm",
+  "mode": "prod",
+  "version": "1.70.0-blog-layout-update-prod",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a06bdae0494d260426c0992849b18aa2abf43446",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570144503,
+  "updated": 1570144503,
+  "status": "active"
+}
