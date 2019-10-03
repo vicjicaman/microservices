@@ -5,12 +5,18 @@
   "fullname": "microservice-home-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-home-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "08c4a6791275bc5c915cacdfa9d659ab884b8029",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "a06bdae0494d260426c0992849b18aa2abf43446",
     "message": "Add home realm and modify resources secret to general config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "9744a8fd04a2f2bbd9e329b71d349c7423485093",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570144503,
   "updated": 1570144503,

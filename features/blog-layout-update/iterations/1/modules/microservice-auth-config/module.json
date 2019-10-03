@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "60132c8703271f1143cd758e7b6ad857b5048fa7",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
   "iterate": {
     "commitid": "60132c8703271f1143cd758e7b6ad857b5048fa7",
     "message": "Add home realm and modify resources secret to general config\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "60132c8703271f1143cd758e7b6ad857b5048fa7",
+    "message": "Add home realm and modify resources secret to general config\n"
+  },
   "releasedOn": 1,
   "created": 1570144504,
   "updated": 1570144504,
