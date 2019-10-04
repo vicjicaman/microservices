@@ -1,0 +1,16 @@
+{
+  "releaseid": "data-reconnect-realm",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-account-graph-container",
+    "microservice-blog-graph-container",
+    "microservice-account-graph",
+    "microservice-blog-graph",
+    "microservice-graph-common"
+  ],
+  "created": 1570209548,
+  "updated": 1570209548,
+  "status": "active"
+}

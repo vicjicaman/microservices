@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-reconnect-realm",
+  "moduleid": "microservice-blog-graph",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "edba973bcd673d6fdfc0be50c67dc59c0fb58aa1",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for the blog service",
+  "dependencies": [],
+  "created": 1570209549,
+  "updated": 1570209549,
+  "status": "active"
+}
