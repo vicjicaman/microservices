@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the account graph",
+  "created": 1570154780,
+  "updated": 1570154780,
+  "status": "active"
+}
