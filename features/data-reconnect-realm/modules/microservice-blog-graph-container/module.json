@@ -12,5 +12,9 @@
   "description": "Container for graph service",
   "created": 1570193593,
   "updated": 1570193593,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "dc332c0baa5fad3c75ad281c4baf204c2986662d",
+    "message": "Fix the data connection to handle the connection promise and retry\n"
+  }
 }

@@ -12,5 +12,9 @@
   "description": "Blog realm for the services and kubernetes entities",
   "created": 1570193656,
   "updated": 1570193656,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "082fd618c7a1ed13894e836079cafb0f2e788fbe",
+    "message": "RELEASE:create-common-realm:1.70.0-master\n"
+  }
 }

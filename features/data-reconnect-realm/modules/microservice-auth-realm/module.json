@@ -12,5 +12,9 @@
   "description": "Kubernetes entities for functionality related to auth",
   "created": 1570154837,
   "updated": 1570154837,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7b2e47f9de1c2b0b365688da9e2eef955ac59b4e",
+    "message": "RELEASE:blog-layout-update:1.70.1-master\n"
+  }
 }

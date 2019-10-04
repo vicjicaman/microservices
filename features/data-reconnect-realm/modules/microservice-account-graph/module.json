@@ -12,5 +12,9 @@
   "description": "Graph for account queries and mutations",
   "created": 1570154756,
   "updated": 1570154756,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f5c1acf51a1c3144408d9c32594d36a92d52b1bb",
+    "message": "Fix the data connection to handle the connection promise and retry\n"
+  }
 }

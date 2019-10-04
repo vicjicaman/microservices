@@ -12,5 +12,9 @@
   "description": "Graph for the blog service",
   "created": 1570193554,
   "updated": 1570193554,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9ee34533d91c15eb7001e0bccaf9748fe23ac966",
+    "message": "Fix the data connection to handle the connection promise and retry\n"
+  }
 }

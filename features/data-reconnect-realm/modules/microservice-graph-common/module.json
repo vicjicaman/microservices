@@ -12,5 +12,9 @@
   "description": "Common code and utils for a graph service",
   "created": 1570154734,
   "updated": 1570154734,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b205000d530984a684838c9661120ee2467f1a7a",
+    "message": "Fix the data connection to handle the connection promise and retry\n"
+  }
 }
