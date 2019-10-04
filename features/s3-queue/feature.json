@@ -1,0 +1,8 @@
+{
+  "featureid": "s3-queue",
+  "baselineid": "master",
+  "description": "Processing queue to generate static backup content from articles and comments",
+  "created": 1570223022,
+  "updated": 1570223022,
+  "status": "active"
+}

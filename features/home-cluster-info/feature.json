@@ -1,0 +1,8 @@
+{
+  "featureid": "home-cluster-info",
+  "baselineid": "master",
+  "description": "Add home info and cluster statistics",
+  "created": 1570223300,
+  "updated": 1570223300,
+  "status": "active"
+}

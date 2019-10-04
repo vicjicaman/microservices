@@ -1,0 +1,8 @@
+{
+  "featureid": "blog-comments",
+  "baselineid": "master",
+  "description": "Add comments from validated users to published entries",
+  "created": 1570223177,
+  "updated": 1570223177,
+  "status": "active"
+}

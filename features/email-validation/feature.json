@@ -1,0 +1,8 @@
+{
+  "featureid": "email-validation",
+  "baselineid": "master",
+  "description": "Add email validation and recovery",
+  "created": 1570223108,
+  "updated": 1570223108,
+  "status": "active"
+}
