@@ -1,0 +1,17 @@
+{
+  "releaseid": "blog-layout-upstream",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-auth-web-container",
+    "microservice-blog-web-container",
+    "microservice-home-web-container",
+    "microservice-auth-web",
+    "microservice-home-web"
+  ],
+  "created": 1570221707,
+  "updated": 1570221707,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-upstream",
+  "moduleid": "microservice-blog-web-container",
+  "version": "1.70.1-master",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "ff0637816655515969e759536eefbc3c9478a008",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the blog web service",
+  "dependencies": [],
+  "created": 1570221708,
+  "updated": 1570221708,
+  "status": "active"
+}

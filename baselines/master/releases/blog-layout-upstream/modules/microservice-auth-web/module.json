@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-upstream",
+  "moduleid": "microservice-auth-web",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "8d8575a5c88687209df42bc62b75bd3cdffa1bb5",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Auth functionality web app",
+  "dependencies": [],
+  "created": 1570221708,
+  "updated": 1570221708,
+  "status": "active"
+}

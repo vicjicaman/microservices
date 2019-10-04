@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-upstream",
+  "moduleid": "microservice-home-web-container",
+  "version": "1.70.1-master",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "ceae595363b7ca323a4154f42f389a6fc9f62571",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for home web app",
+  "dependencies": [],
+  "created": 1570221708,
+  "updated": 1570221708,
+  "status": "active"
+}

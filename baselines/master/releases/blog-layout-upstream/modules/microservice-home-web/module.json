@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-upstream",
+  "moduleid": "microservice-home-web",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "b8b88c1f552916427239a66c890e450513535f47",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Home web app functionality",
+  "dependencies": [],
+  "created": 1570221708,
+  "updated": 1570221708,
+  "status": "active"
+}
