@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.1-data-reconnect-realm-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "070263f451d26414a9393288cbf6020cf68693e8",
+    "message": "Update resources config version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1570200998,
+  "updated": 1570200998,
+  "status": "active"
+}

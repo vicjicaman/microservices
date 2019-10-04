@@ -1,0 +1,47 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "version": "1.70.1-data-reconnect-realm-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-blog-realm",
+      "version": "1.70.0-data-reconnect-realm-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "version": "1.70.0-data-reconnect-realm-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "version": "1.70.0-data-reconnect-realm-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "version": "1.70.0-data-reconnect-realm-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-blog-graph",
+      "version": "1.70.0-data-reconnect-realm-prod",
+      "iterationid": 1
+    },
+    {
+      "moduleid": "microservice-graph-common",
+      "version": "1.70.0-data-reconnect-realm-prod",
+      "iterationid": 1
+    }
+  ],
+  "created": 1570200998,
+  "updated": 1570200998,
+  "status": "active"
+}
