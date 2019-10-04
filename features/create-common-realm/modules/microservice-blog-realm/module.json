@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
   "fullname": "microservice-blog-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Blog realm for the services and kubernetes entities",
   "created": 1570147760,
   "updated": 1570147760,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1cade26fbf540fd1e96329fcec5e8e05acbf5099",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  }
 }

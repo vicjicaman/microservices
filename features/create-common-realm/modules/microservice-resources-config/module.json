@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-config.git",
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Configuration for the common resources service",
   "created": 1570150226,
   "updated": 1570150226,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a93e9a282b2812b0aa3d24ee38e3ad81f4b89dee",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  }
 }
