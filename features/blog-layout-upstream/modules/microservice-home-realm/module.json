@@ -12,5 +12,9 @@
   "description": "Entities for the home services and entities kubernetes realm",
   "created": 1570212217,
   "updated": 1570212217,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "ec3db1cab5fcc2e3133d16fd5a54a958163e4f37",
+    "message": "ITERATION:1\n"
+  }
 }

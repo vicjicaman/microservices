@@ -12,5 +12,9 @@
   "description": "Container for the blog web service",
   "created": 1570215896,
   "updated": 1570215896,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "359963f2c5f46219991549ae8899f2fb3f269611",
+    "message": "ITERATION:1\n"
+  }
 }
