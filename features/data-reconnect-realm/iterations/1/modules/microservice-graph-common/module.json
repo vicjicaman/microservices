@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-graph-common",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-graph-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b0737692402b90b9784f1fab2d2449a9dfa25e36",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "b205000d530984a684838c9661120ee2467f1a7a",
     "message": "Fix the data connection to handle the connection promise and retry\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "0e17668fe01db4689949eda83d03c09553856d84",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570199257,
   "updated": 1570199257,

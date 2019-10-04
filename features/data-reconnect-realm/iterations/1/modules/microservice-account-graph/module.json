@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-account-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-account-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5d11eeaa3250e4b7c24db0071c3db6ce4c2b6eda",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "f5c1acf51a1c3144408d9c32594d36a92d52b1bb",
     "message": "Fix the data connection to handle the connection promise and retry\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "33e8aba7266a27d9c11f7b40b8066c0b28f3c20c",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570199257,
   "updated": 1570199257,

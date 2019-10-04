@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-blog-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-blog-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "443a0de1251f1d201f980cb9d0db825bbc585ef9",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "9ee34533d91c15eb7001e0bccaf9748fe23ac966",
     "message": "Fix the data connection to handle the connection promise and retry\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "edba973bcd673d6fdfc0be50c67dc59c0fb58aa1",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570199257,
   "updated": 1570199257,
