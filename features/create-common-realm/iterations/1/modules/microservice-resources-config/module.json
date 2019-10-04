@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a93e9a282b2812b0aa3d24ee38e3ad81f4b89dee",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  },
   "iterate": {
     "commitid": "a93e9a282b2812b0aa3d24ee38e3ad81f4b89dee",
     "message": "Add blog realm and modifications to resources realm and config issue\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a93e9a282b2812b0aa3d24ee38e3ad81f4b89dee",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  },
   "releasedOn": 1,
   "created": 1570152360,
   "updated": 1570152360,
