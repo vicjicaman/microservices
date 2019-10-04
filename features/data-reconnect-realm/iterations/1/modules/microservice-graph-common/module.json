@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-graph-common",
+  "mode": "prod",
+  "version": "1.70.0-data-reconnect-realm-prod",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "b205000d530984a684838c9661120ee2467f1a7a",
+    "message": "Fix the data connection to handle the connection promise and retry\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570199257,
+  "updated": 1570199257,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-account-graph",
+  "mode": "prod",
+  "version": "1.70.0-data-reconnect-realm-prod",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f5c1acf51a1c3144408d9c32594d36a92d52b1bb",
+    "message": "Fix the data connection to handle the connection promise and retry\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570199257,
+  "updated": 1570199257,
+  "status": "active"
+}

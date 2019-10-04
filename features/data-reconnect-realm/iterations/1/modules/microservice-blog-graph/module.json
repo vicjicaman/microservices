@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.0-data-reconnect-realm-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9ee34533d91c15eb7001e0bccaf9748fe23ac966",
+    "message": "Fix the data connection to handle the connection promise and retry\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570199257,
+  "updated": 1570199257,
+  "status": "active"
+}

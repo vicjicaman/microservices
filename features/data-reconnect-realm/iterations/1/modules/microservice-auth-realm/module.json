@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.0-data-reconnect-realm-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7b2e47f9de1c2b0b365688da9e2eef955ac59b4e",
+    "message": "RELEASE:blog-layout-update:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570199257,
+  "updated": 1570199257,
+  "status": "active"
+}
