@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
   "fullname": "repoflow/microservice-blog-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
