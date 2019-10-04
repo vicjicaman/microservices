@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web.git",
   "fullname": "@nebulario/microservice-auth-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"

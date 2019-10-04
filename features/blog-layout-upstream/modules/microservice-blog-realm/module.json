@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
   "fullname": "microservice-blog-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
