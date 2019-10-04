@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-layout-upstream",
+  "moduleid": "microservice-auth-web-container",
+  "version": "1.70.4-master",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "5c5a2240e9f11005d0ded6d4ae9fd64793bdb4ba",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the web app",
+  "dependencies": [],
+  "created": 1570221708,
+  "updated": 1570221708,
+  "status": "active"
+}
