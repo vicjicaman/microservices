@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-reconnect-realm",
+  "moduleid": "microservice-account-graph",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "33e8aba7266a27d9c11f7b40b8066c0b28f3c20c",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for account queries and mutations",
+  "dependencies": [],
+  "created": 1570209549,
+  "updated": 1570209549,
+  "status": "active"
+}

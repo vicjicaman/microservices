@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-reconnect-realm",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.1-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "34a81f75d17e03ba6ba7a8fe7db316108bd7d165",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1570209548,
+  "updated": 1570209548,
+  "status": "active"
+}

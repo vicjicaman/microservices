@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-reconnect-realm",
+  "moduleid": "microservice-graph-common",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "0e17668fe01db4689949eda83d03c09553856d84",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common code and utils for a graph service",
+  "dependencies": [],
+  "created": 1570209549,
+  "updated": 1570209549,
+  "status": "active"
+}

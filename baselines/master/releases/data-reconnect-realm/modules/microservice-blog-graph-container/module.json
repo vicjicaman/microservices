@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-reconnect-realm",
+  "moduleid": "microservice-blog-graph-container",
+  "version": "1.70.1-master",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "f7a956c0fa2e4427ed27d902d039a139eec21c90",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for graph service",
+  "dependencies": [],
+  "created": 1570209549,
+  "updated": 1570209549,
+  "status": "active"
+}

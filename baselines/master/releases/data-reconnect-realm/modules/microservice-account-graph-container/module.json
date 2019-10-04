@@ -1,0 +1,20 @@
+{
+  "releaseid": "data-reconnect-realm",
+  "moduleid": "microservice-account-graph-container",
+  "version": "1.70.4-master",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "acfbb28d56909f432b1e8c39c3ef8d7a5cdf366a",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the account graph",
+  "dependencies": [],
+  "created": 1570209549,
+  "updated": 1570209549,
+  "status": "active"
+}
