@@ -5,12 +5,18 @@
   "fullname": "microservice-blog-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "cd0c5a7f750e290de8691f8edbfbea2578f8711c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "26b5cde77a5c548e7a362d5bb84cc244a7a60af6",
     "message": "RELEASE:data-reconnect-realm:1.70.1-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "591ee61cfa8989a2dfd8dd3c2cc3f86646921b84",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570217781,
   "updated": 1570217781,

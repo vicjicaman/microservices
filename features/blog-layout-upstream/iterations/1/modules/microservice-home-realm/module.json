@@ -5,12 +5,18 @@
   "fullname": "microservice-home-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-home-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "34626257a8e62d0198fbc2854cb159b2f5064d2b",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "4f15db9c321fc5b15285677373f9f79a02c14e17",
     "message": "RELEASE:blog-layout-update:1.70.0-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ec3db1cab5fcc2e3133d16fd5a54a958163e4f37",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570217781,
   "updated": 1570217781,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "83ad1552e88ae2e66b39c79fe743846eb5ad29bb",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "f2a2fc35785f688069631fdf60350e63fe6edef5",
     "message": "Update layout and docker images app path\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "07c169148cdcd1054a8f921c2144ac31a1a4a062",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570217781,
   "updated": 1570217781,
