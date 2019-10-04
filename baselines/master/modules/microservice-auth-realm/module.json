@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-realm",
   "releases": [
     {
+      "releaseid": "data-reconnect-realm"
+    },
+    {
       "releaseid": "blog-layout-update"
     },
     {
@@ -19,7 +22,7 @@
         {
           "dependencyid": "dependency|entities/deployment/account.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-account-graph-container",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "container",
           "filename": "entities/deployment/account.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -84,7 +87,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
           "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-resources-config.version"

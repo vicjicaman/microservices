@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-graph",
   "releases": [
     {
+      "releaseid": "data-reconnect-realm"
+    },
+    {
       "releaseid": "blog-home"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-graph",
           "fullname": "@nebulario/microservice-blog-graph",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-blog-graph"
@@ -43,7 +46,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
           "fullname": "@nebulario/microservice-graph-common",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-graph-common"

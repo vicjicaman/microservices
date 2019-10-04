@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-realm",
   "releases": [
     {
+      "releaseid": "data-reconnect-realm"
+    },
+    {
       "releaseid": "create-common-realm"
     }
   ],
@@ -16,7 +19,7 @@
         {
           "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-blog-graph-container",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "container",
           "filename": "entities/deployment/graph.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
