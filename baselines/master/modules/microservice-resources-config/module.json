@@ -24,7 +24,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
           "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-resources-config.version"

@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.1-data-reconnect-realm-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": {
+    "commitid": "f8f26ad01066165d2f3bb7febc14de647af5b9af",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "6bdd37ea7ac8c16579ca479cd0cb34b676d85ddd",
+    "message": "Add /env to the app path\n"
+  },
+  "mergeback": {
+    "commitid": "acfbb28d56909f432b1e8c39c3ef8d7a5cdf366a",
+    "message": "ITERATION:3\n"
+  },
+  "releasedOn": 3,
+  "created": 1570202253,
+  "updated": 1570202253,
+  "status": "active"
+}

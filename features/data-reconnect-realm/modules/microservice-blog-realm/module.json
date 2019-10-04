@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "fullname": "microservice-blog-realm",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Blog realm for the services and kubernetes entities",
+  "created": 1570193656,
+  "updated": 1570193656,
+  "status": "active",
+  "commit": {
+    "commitid": "34a81f75d17e03ba6ba7a8fe7db316108bd7d165",
+    "message": "ITERATION:4\n"
+  }
+}
