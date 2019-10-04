@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "dev",
+  "version": "1.70.0-blog-layout-upstream-dev",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "26b5cde77a5c548e7a362d5bb84cc244a7a60af6",
+    "message": "RELEASE:data-reconnect-realm:1.70.1-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570217781,
+  "updated": 1570217781,
+  "status": "active"
+}

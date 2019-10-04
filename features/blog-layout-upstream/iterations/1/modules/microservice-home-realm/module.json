@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-realm",
+  "mode": "dev",
+  "version": "1.70.0-blog-layout-upstream-dev",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "4f15db9c321fc5b15285677373f9f79a02c14e17",
+    "message": "RELEASE:blog-layout-update:1.70.0-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570217781,
+  "updated": 1570217781,
+  "status": "active"
+}

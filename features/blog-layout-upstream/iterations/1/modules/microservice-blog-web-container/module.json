@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "dev",
+  "version": "1.70.0-blog-layout-upstream-dev",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e88464002b04d4ae9f4460c1c05035df41372c9e",
+    "message": "Update layout and docker images app path\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570217781,
+  "updated": 1570217781,
+  "status": "active"
+}

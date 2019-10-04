@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "mode": "dev",
+  "version": "1.70.0-blog-layout-upstream-dev",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c67cecd47f126941ab74363e7712e4ed4fa2c618",
+    "message": "Update layout and docker images app path\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570217781,
+  "updated": 1570217781,
+  "status": "active"
+}

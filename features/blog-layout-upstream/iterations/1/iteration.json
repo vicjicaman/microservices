@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-auth-web-container",
+    "microservice-blog-web-container",
+    "microservice-home-web-container",
+    "microservice-auth-web",
+    "microservice-home-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    },
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    },
+    {
+      "moduleid": "microservice-home-realm",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    },
+    {
+      "moduleid": "microservice-blog-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    },
+    {
+      "moduleid": "microservice-home-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    },
+    {
+      "moduleid": "microservice-auth-web",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    },
+    {
+      "moduleid": "microservice-home-web",
+      "iterationid": 1,
+      "version": "1.70.0-blog-layout-upstream-dev"
+    }
+  ],
+  "created": 1570217781,
+  "updated": 1570217781,
+  "status": "active"
+}
