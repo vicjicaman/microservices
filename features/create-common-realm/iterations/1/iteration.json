@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-resources-realm",
+    "microservice-blog-config",
+    "microservice-resources-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-create-common-realm-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-create-common-realm-prod"
+    },
+    {
+      "moduleid": "microservice-blog-config",
+      "iterationid": 1,
+      "version": "1.70.0-create-common-realm-prod"
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "iterationid": 1,
+      "version": "1.70.0-create-common-realm-prod"
+    }
+  ],
+  "created": 1570152359,
+  "updated": 1570152359,
+  "status": "active"
+}

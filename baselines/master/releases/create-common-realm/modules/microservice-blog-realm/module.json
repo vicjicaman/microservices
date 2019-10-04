@@ -5,15 +5,86 @@
   "fullname": "microservice-blog-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "227781838d98f7e80b775e4423004e997b307abd",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "45345d79925a9587144aeb465d1e968a5310ce40",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "082fd618c7a1ed13894e836079cafb0f2e788fbe",
+    "message": "RELEASE:create-common-realm:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Blog realm for the services and kubernetes entities",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|entities/deployment/graph.yaml|metadata.labels.version",
+      "fullname": "microservice-blog-realm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "entities/deployment/graph.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-blog-graph-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "entities/deployment/graph.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/deployment/web.yaml|metadata.labels.version",
+      "fullname": "microservice-blog-realm",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "entities/deployment/web.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-blog-web-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "entities/deployment/web.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+      "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-resources-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
+      "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-blog-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.6-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    }
+  ],
   "created": 1570153200,
   "updated": 1570153200,
   "status": "active"

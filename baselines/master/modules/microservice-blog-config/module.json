@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-config",
   "releases": [
     {
+      "releaseid": "create-common-realm"
+    },
+    {
       "releaseid": "blog-home"
     }
   ],
@@ -16,6 +19,19 @@
           "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
           "fullname": "github.com:vicjicaman/microservice-blog-config.git",
           "version": "1.70.0-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-blog-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-blog-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
+          "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+          "version": "1.70.1-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-blog-config.version"
@@ -69,7 +85,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
           "fullname": "github.com:vicjicaman/microservice-config.git",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"

@@ -10,6 +10,19 @@
   "status": "active",
   "dependants": [
     {
+      "moduleid": "microservice-blog-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-blog-web-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "entities/deployment/web.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-blog-web-service",
       "references": [
         {

@@ -1,6 +1,6 @@
 {
   "releaseid": "create-common-realm",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-blog-realm",
     "microservice-resources-realm",

@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.0-create-common-realm-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": {
+    "commitid": "93a045079f36f42579894871fbf8ed880c8c2a64",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "1cade26fbf540fd1e96329fcec5e8e05acbf5099",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  },
+  "mergeback": {
+    "commitid": "45345d79925a9587144aeb465d1e968a5310ce40",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570152360,
+  "updated": 1570152360,
+  "status": "active"
+}

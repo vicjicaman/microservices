@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config for blog graph and web services",
+  "created": 1570147902,
+  "updated": 1570147902,
+  "status": "active",
+  "commit": {
+    "commitid": "2cd74e8e616b231788f51c39726d5380763fcd0b",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  }
+}

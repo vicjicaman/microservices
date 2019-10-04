@@ -106,6 +106,19 @@
       ]
     },
     {
+      "moduleid": "microservice-blog-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.6-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-home-realm",
       "references": [
         {
