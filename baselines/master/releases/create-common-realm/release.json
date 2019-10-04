@@ -1,0 +1,13 @@
+{
+  "releaseid": "create-common-realm",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-resources-realm",
+    "microservice-blog-config",
+    "microservice-resources-config"
+  ],
+  "created": 1570153200,
+  "updated": 1570153200,
+  "status": "active"
+}

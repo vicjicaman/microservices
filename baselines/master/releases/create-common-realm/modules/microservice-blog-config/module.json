@@ -1,0 +1,20 @@
+{
+  "releaseid": "create-common-realm",
+  "moduleid": "microservice-blog-config",
+  "version": "1.70.1-master",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "2cd74e8e616b231788f51c39726d5380763fcd0b",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Config for blog graph and web services",
+  "dependencies": [],
+  "created": 1570153200,
+  "updated": 1570153200,
+  "status": "active"
+}
