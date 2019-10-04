@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-web-container",
   "releases": [
     {
+      "releaseid": "blog-layout-upstream"
+    },
+    {
       "releaseid": "web-auth-home-config"
     },
     {
@@ -24,7 +27,7 @@
         {
           "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-web-container",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "container",
           "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -52,7 +55,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-web",
           "fullname": "@nebulario/microservice-auth-web",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-web"

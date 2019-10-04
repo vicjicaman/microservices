@@ -5,15 +5,38 @@
   "fullname": "repoflow/microservice-auth-web-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c12eb782107e6981b3c676b78450ecdfb3dfe9ff",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "5c5a2240e9f11005d0ded6d4ae9fd64793bdb4ba",
     "message": "ITERATION:2\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2d11a9c4eaacfaced135625b8efbeab0c3fd975c",
+    "message": "RELEASE:blog-layout-upstream:1.70.4-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the web app",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-auth-web-container",
+      "version": "1.70.4-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-web",
+      "fullname": "@nebulario/microservice-auth-web",
+      "version": "1.70.1-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-auth-web"
+    }
+  ],
   "created": 1570221708,
   "updated": 1570221708,
   "status": "active"

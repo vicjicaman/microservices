@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-realm",
   "releases": [
     {
+      "releaseid": "blog-layout-upstream"
+    },
+    {
       "releaseid": "blog-layout-update"
     }
   ],
@@ -29,7 +32,7 @@
         {
           "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-home-web-container",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "container",
           "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"

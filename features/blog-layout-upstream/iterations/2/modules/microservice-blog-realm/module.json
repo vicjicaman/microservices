@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.1-blog-layout-upstream-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": {
+    "commitid": "4f5cf8bf899f9e5a9a974a8f70811f6ad0718bb4",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "591ee61cfa8989a2dfd8dd3c2cc3f86646921b84",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "e744a742e9389025cd1c358ba9ecfcb212afdec9",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1570219695,
+  "updated": 1570219695,
+  "status": "active"
+}

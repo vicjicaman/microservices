@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "mode": "dev",
+  "version": "1.70.0-blog-layout-upstream-dev",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": {
+    "commitid": "27bec1f2cc6841ef28e8b9918318cef041c4dca7",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "5b14e7123086683e6e977c69fd0006553ae79b11",
+    "message": "Update layout and docker images app path\n"
+  },
+  "mergeback": {
+    "commitid": "c4e8bda11c2ae987efac1ea73566443faf2eb70d",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570217781,
+  "updated": 1570217781,
+  "status": "active"
+}

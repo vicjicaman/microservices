@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-web",
+  "mode": "dev",
+  "version": "1.70.0-blog-layout-upstream-dev",
+  "fullname": "@nebulario/microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "publish": {
+    "commitid": "7344b149c2d7bf5579791c50102d2f0f3fb53f94",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "655ddd746a99f0dca61b53ec1a4ca87a738490d6",
+    "message": "Update layout and docker images app path\n"
+  },
+  "mergeback": {
+    "commitid": "d1f96523fd0331bfac58114aa793c3a143ddeb7b",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570217781,
+  "updated": 1570217781,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "prod",
+  "version": "1.70.1-blog-layout-upstream-prod",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": {
+    "commitid": "8b24beda211edef486563f42d4399f5fe8ada588",
+    "message": "Sync to iteration\n"
+  },
+  "iterate": {
+    "commitid": "359963f2c5f46219991549ae8899f2fb3f269611",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "ff0637816655515969e759536eefbc3c9478a008",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1570219695,
+  "updated": 1570219695,
+  "status": "active"
+}

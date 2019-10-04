@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "fullname": "microservice-home-realm",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Entities for the home services and entities kubernetes realm",
+  "created": 1570212217,
+  "updated": 1570212217,
+  "status": "active",
+  "commit": {
+    "commitid": "e4724c07d1f7b4af20bba62533e43c3f768d40a6",
+    "message": "ITERATION:2\n"
+  }
+}

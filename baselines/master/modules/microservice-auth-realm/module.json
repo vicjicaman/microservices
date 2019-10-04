@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-realm",
   "releases": [
     {
+      "releaseid": "blog-layout-upstream"
+    },
+    {
       "releaseid": "data-reconnect-realm"
     },
     {
@@ -48,7 +51,7 @@
         {
           "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-web-container",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "container",
           "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
