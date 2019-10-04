@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a93e9a282b2812b0aa3d24ee38e3ad81f4b89dee",
+    "message": "Add blog realm and modifications to resources realm and config issue\n"
+  },
   "released": {
     "commitid": "a93e9a282b2812b0aa3d24ee38e3ad81f4b89dee",
     "message": "Add blog realm and modifications to resources realm and config issue\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "983521a029c2e430c22bf09583bbaa9428846f05",
+    "message": "RELEASE:create-common-realm:1.70.3-master\n"
+  },
   "releaseType": "patch",
   "description": "Configuration for the common resources service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1570153200,
   "updated": 1570153200,
   "status": "active"

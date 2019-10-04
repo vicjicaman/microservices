@@ -21,6 +21,19 @@
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-blog-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-blog-graph-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "entities/deployment/graph.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
     }
   ],
   "dependents": [
