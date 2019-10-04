@@ -1,0 +1,8 @@
+{
+  "featureid": "blog-layout-upstream",
+  "baselineid": "master",
+  "description": "Add the blog layout changes to all the realms",
+  "created": 1570211626,
+  "updated": 1570211626,
+  "status": "active"
+}
