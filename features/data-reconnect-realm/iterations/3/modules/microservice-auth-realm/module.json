@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.2-data-reconnect-realm-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7e22d49daeefd5700836db2e7c4c5d803243a51a",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1570202253,
+  "updated": 1570202253,
+  "status": "active"
+}

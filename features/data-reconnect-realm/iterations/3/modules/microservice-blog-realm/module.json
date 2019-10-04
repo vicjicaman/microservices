@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.1-data-reconnect-realm-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fed6b858df04087683b0a00887c05a53aee79d0d",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1570202253,
+  "updated": 1570202253,
+  "status": "active"
+}

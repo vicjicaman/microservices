@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph-container",
+  "mode": "prod",
+  "version": "1.70.1-data-reconnect-realm-prod",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "87246690973cd55b45dff1d366afa77e98d4860f",
+    "message": "Add /env to the app path\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1570202253,
+  "updated": 1570202253,
+  "status": "active"
+}
