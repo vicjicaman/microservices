@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-web",
   "releases": [
     {
+      "releaseid": "blog-layout-upstream"
+    },
+    {
       "releaseid": "web-auth-home-config"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-web",
           "fullname": "@nebulario/microservice-home-web",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-home-web"
@@ -30,7 +33,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
           "fullname": "@nebulario/microservice-layout",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-layout"
