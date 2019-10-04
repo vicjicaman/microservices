@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for graph service",
+  "created": 1570193593,
+  "updated": 1570193593,
+  "status": "active"
+}
