@@ -5,12 +5,18 @@
   "fullname": "microservice-blog-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b07b3361e25d23afd8029691332851409bc2ad3f",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "06e3131cd04b87cf5bb52d8eda550a8509b6da65",
     "message": "ITERATION:3\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "34a81f75d17e03ba6ba7a8fe7db316108bd7d165",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1570204050,
   "updated": 1570204050,
