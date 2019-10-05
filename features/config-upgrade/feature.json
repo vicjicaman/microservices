@@ -1,0 +1,8 @@
+{
+  "featureid": "config-upgrade",
+  "baselineid": "master",
+  "description": "Update general params in realms to ${REALM}_${TYPE}_${ATTR}",
+  "created": 1570289152,
+  "updated": 1570289152,
+  "status": "active"
+}
