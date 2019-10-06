@@ -5,12 +5,18 @@
   "fullname": "microservice-resources-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f28a72f4857918cbe1a458ccc1cbc0a555109718",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "7493da7bc2b6bea05ae149d28aa1afcdc37a2ccf",
     "message": "Add general queue resource\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6936ff00220ceaf28e26eb41122ec7b28550b8df",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570397134,
   "updated": 1570397134,

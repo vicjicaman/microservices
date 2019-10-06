@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "990cad520a1166477c704a32710c2e4dd31a61be",
+    "message": "Add general queue resource\n"
+  },
   "iterate": {
     "commitid": "990cad520a1166477c704a32710c2e4dd31a61be",
     "message": "Add general queue resource\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "990cad520a1166477c704a32710c2e4dd31a61be",
+    "message": "Add general queue resource\n"
+  },
   "releasedOn": 1,
   "created": 1570397134,
   "updated": 1570397134,

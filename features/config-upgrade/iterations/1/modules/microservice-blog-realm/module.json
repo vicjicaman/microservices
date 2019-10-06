@@ -5,12 +5,18 @@
   "fullname": "microservice-blog-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "4d4a3280486601a31dece5446462384507653ca7",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "d9cad3f4e563c71a99f3cecc9861c2136badcafa",
     "message": "Add general queue resource\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2e9a0a1ecb538d7a0cebb69f39ea7fb5fb74664b",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570397134,
   "updated": 1570397134,
