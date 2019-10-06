@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-upgrade",
+  "moduleid": "microservice-resources-config",
+  "version": "1.70.4-master",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "990cad520a1166477c704a32710c2e4dd31a61be",
+    "message": "Add general queue resource\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Configuration for the common resources service",
+  "dependencies": [],
+  "created": 1570402220,
+  "updated": 1570402220,
+  "status": "active"
+}

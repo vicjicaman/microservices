@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-upgrade",
+  "moduleid": "microservice-blog-graph-container",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "5345cea1f83165002e739e79cc67d799bc33097c",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for graph service",
+  "dependencies": [],
+  "created": 1570402220,
+  "updated": 1570402220,
+  "status": "active"
+}

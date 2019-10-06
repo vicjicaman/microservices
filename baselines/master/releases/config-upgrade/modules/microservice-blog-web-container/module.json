@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-upgrade",
+  "moduleid": "microservice-blog-web-container",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "314d21e6fd90cde244676297520ecca59e6e18a4",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the blog web service",
+  "dependencies": [],
+  "created": 1570402220,
+  "updated": 1570402220,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-upgrade",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.3-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "2e9a0a1ecb538d7a0cebb69f39ea7fb5fb74664b",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1570402220,
+  "updated": 1570402220,
+  "status": "active"
+}
