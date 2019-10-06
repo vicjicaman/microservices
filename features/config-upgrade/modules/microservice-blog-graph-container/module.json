@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
   "fullname": "repoflow/microservice-blog-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for graph service",
   "created": 1570335671,
   "updated": 1570335671,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "3603421abdbf3a369f24e06d0835be17ad064042",
+    "message": "Add general queue resource\n"
+  }
 }

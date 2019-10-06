@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
   "fullname": "microservice-blog-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Blog realm for the services and kubernetes entities",
   "created": 1570315643,
   "updated": 1570315643,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d9cad3f4e563c71a99f3cecc9861c2136badcafa",
+    "message": "Add general queue resource\n"
+  }
 }

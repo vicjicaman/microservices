@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
   "fullname": "repoflow/microservice-blog-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the blog web service",
   "created": 1570383853,
   "updated": 1570383853,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "90aea9bd3a6d53025acf9831466ad42e08181286",
+    "message": "Add general queue resource\n"
+  }
 }

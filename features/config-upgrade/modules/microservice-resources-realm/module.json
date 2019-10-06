@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1570312570,
   "updated": 1570312570,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7493da7bc2b6bea05ae149d28aa1afcdc37a2ccf",
+    "message": "Add general queue resource\n"
+  }
 }

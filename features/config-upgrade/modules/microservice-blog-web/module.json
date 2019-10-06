@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web.git",
   "fullname": "@nebulario/microservice-blog-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Web app for the blog service",
   "created": 1570383882,
   "updated": 1570383882,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6cd71635754f52b294a74afb287ee986aa305289",
+    "message": "Add cache to the list of articles and article content\n"
+  }
 }

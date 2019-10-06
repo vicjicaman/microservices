@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-config.git",
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Configuration for the common resources service",
   "created": 1570313015,
   "updated": 1570313015,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "990cad520a1166477c704a32710c2e4dd31a61be",
+    "message": "Add general queue resource\n"
+  }
 }
