@@ -1,0 +1,20 @@
+{
+  "releaseid": "config-upgrade",
+  "moduleid": "microservice-resources-realm",
+  "version": "1.70.3-master",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "6936ff00220ceaf28e26eb41122ec7b28550b8df",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Realm for common services and resources",
+  "dependencies": [],
+  "created": 1570402220,
+  "updated": 1570402220,
+  "status": "active"
+}

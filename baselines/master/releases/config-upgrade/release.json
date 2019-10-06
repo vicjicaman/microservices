@@ -1,0 +1,17 @@
+{
+  "releaseid": "config-upgrade",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-blog-graph-container",
+    "microservice-blog-web-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-resources-config"
+  ],
+  "created": 1570402220,
+  "updated": 1570402220,
+  "status": "active"
+}
