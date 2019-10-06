@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-config-upgrade-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7493da7bc2b6bea05ae149d28aa1afcdc37a2ccf",
+    "message": "Add general queue resource\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570397134,
+  "updated": 1570397134,
+  "status": "active"
+}

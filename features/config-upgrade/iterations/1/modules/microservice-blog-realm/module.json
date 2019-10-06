@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.0-config-upgrade-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d9cad3f4e563c71a99f3cecc9861c2136badcafa",
+    "message": "Add general queue resource\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570397134,
+  "updated": 1570397134,
+  "status": "active"
+}

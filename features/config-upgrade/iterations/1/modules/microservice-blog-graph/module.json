@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.0-config-upgrade-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9d636d0739bfd2b5282edbe07938f6182cb55efe",
+    "message": "Add cache to the list of articles and article content\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570397134,
+  "updated": 1570397134,
+  "status": "active"
+}

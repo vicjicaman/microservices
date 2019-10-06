@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-config",
+  "mode": "prod",
+  "version": "1.70.0-config-upgrade-prod",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "990cad520a1166477c704a32710c2e4dd31a61be",
+    "message": "Add general queue resource\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570397134,
+  "updated": 1570397134,
+  "status": "active"
+}
