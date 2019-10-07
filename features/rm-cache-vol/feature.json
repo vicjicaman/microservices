@@ -1,0 +1,8 @@
+{
+  "featureid": "rm-cache-vol",
+  "baselineid": "master",
+  "description": "Remove the persistent volumes for the cache (redis) services",
+  "created": 1570409040,
+  "updated": 1570409040,
+  "status": "active"
+}
