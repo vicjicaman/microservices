@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "799d5641e89240ff56c57f8a31fa75fe0138ea90",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

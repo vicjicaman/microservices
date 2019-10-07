@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "e94f32f72efa31ee6e89868134dae29fb9061d7b",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

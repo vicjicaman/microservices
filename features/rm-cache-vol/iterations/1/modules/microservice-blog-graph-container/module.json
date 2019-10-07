@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "60b1d1cf9507c2da4b627296b0f0d087dad4783e",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

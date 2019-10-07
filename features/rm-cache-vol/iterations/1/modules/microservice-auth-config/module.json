@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-config",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9ce965edc67144e2ff3e2234729d6fb743fb59b2",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

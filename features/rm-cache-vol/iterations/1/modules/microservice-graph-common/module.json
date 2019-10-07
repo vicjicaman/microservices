@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-graph-common",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0d8e480dab9866998928c86d4e9a284866ce07b9",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

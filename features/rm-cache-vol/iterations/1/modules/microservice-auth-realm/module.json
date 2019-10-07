@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a756d7afb867a4d001c19e681289c96d4c735c0e",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}
