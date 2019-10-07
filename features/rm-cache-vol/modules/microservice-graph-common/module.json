@@ -12,5 +12,9 @@
   "description": "Common code and utils for a graph service",
   "created": 1570415077,
   "updated": 1570415077,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0d8e480dab9866998928c86d4e9a284866ce07b9",
+    "message": "Add secret for data services\n"
+  }
 }

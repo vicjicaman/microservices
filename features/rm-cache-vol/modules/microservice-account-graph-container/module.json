@@ -12,5 +12,9 @@
   "description": "Container for the account graph",
   "created": 1570414619,
   "updated": 1570414619,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7f5a19702403baaad6d087c80dbff7c0ccc04a50",
+    "message": "Add secret for data services\n"
+  }
 }

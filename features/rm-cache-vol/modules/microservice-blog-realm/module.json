@@ -12,5 +12,9 @@
   "description": "Blog realm for the services and kubernetes entities",
   "created": 1570414711,
   "updated": 1570414711,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e94f32f72efa31ee6e89868134dae29fb9061d7b",
+    "message": "Add secret for data services\n"
+  }
 }

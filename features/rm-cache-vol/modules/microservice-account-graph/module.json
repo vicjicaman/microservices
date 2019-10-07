@@ -12,5 +12,9 @@
   "description": "Graph for account queries and mutations",
   "created": 1570414472,
   "updated": 1570414472,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4b86742c3e773ed3749e9e0deeb2623f979db909",
+    "message": "Add secret for data services\n"
+  }
 }

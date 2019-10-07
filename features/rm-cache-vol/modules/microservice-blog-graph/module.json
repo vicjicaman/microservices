@@ -12,5 +12,9 @@
   "description": "Graph for the blog service",
   "created": 1570414577,
   "updated": 1570414577,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "799d5641e89240ff56c57f8a31fa75fe0138ea90",
+    "message": "Add secret for data services\n"
+  }
 }
