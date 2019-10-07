@@ -5,15 +5,78 @@
   "fullname": "microservice-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b94149f5524685513d8716485b69e4ccf3ab4f3b",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "488dae1e226327511968faeaf6a41149c62362c2",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "083b14c75f8a26a5a4af2f1d8d3730ac81526e55",
+    "message": "RELEASE:config-upgrade:1.70.2-master\n"
+  },
   "releaseType": "patch",
   "description": "Root realm with the namespace, ingress and base services",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|entities/cronjob/cronjob.yaml|metadata.labels.version",
+      "fullname": "microservice-realm",
+      "version": "1.70.2-master",
+      "kind": "inner",
+      "filename": "entities/cronjob/cronjob.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/cronjob/cronjob.yaml|spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-certificates-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "entities/cronjob/cronjob.yaml",
+      "path": "spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+      "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+      "version": "1.70.4-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-resources-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+      "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+      "version": "1.70.6-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-auth-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+      "fullname": "github.com:vicjicaman/microservice-home-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-home-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
+      "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+      "version": "1.70.1-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-blog-config.version"
+    }
+  ],
   "created": 1570402220,
   "updated": 1570402220,
   "status": "active"
