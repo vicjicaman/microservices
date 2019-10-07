@@ -2,6 +2,9 @@
   "moduleid": "microservice-realm",
   "releases": [
     {
+      "releaseid": "config-upgrade"
+    },
+    {
       "releaseid": "blog-layout-update"
     },
     {
@@ -45,7 +48,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
           "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-resources-config.version"
@@ -84,7 +87,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
           "fullname": "github.com:vicjicaman/microservice-blog-config.git",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-blog-config.version"

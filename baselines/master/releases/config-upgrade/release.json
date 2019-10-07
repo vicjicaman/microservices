@@ -1,6 +1,6 @@
 {
   "releaseid": "config-upgrade",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-blog-realm",
     "microservice-realm",

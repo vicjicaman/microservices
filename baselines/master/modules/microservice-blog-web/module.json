@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-web",
   "releases": [
     {
+      "releaseid": "config-upgrade"
+    },
+    {
       "releaseid": "blog-home"
     }
   ],
@@ -15,7 +18,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-web",
           "fullname": "@nebulario/microservice-blog-web",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-blog-web"

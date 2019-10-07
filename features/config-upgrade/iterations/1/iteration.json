@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-blog-graph-container",
+    "microservice-blog-web-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-resources-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    },
+    {
+      "moduleid": "microservice-realm",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "iterationid": 1,
+      "version": "1.70.0-config-upgrade-prod"
+    }
+  ],
+  "created": 1570397133,
+  "updated": 1570397133,
+  "status": "active"
+}

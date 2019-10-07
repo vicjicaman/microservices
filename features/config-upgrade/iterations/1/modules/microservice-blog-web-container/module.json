@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "prod",
+  "version": "1.70.0-config-upgrade-prod",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": {
+    "commitid": "9027304d59c8a1883fe95a508a3ad01ea008d3b1",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "90aea9bd3a6d53025acf9831466ad42e08181286",
+    "message": "Add general queue resource\n"
+  },
+  "mergeback": {
+    "commitid": "314d21e6fd90cde244676297520ecca59e6e18a4",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570397134,
+  "updated": 1570397134,
+  "status": "active"
+}

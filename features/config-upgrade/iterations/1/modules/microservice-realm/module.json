@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-realm",
+  "mode": "prod",
+  "version": "1.70.0-config-upgrade-prod",
+  "fullname": "microservice-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-realm.git",
+  "publish": {
+    "commitid": "7b564fd1baa61de80d2f41c675524e28e947e3fc",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "f198185058c99b7ba058d511864e9b51d142ef5b",
+    "message": "Update ingress config\n"
+  },
+  "mergeback": {
+    "commitid": "488dae1e226327511968faeaf6a41149c62362c2",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570397134,
+  "updated": 1570397134,
+  "status": "active"
+}

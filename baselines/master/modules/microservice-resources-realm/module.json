@@ -2,6 +2,9 @@
   "moduleid": "microservice-resources-realm",
   "releases": [
     {
+      "releaseid": "config-upgrade"
+    },
+    {
       "releaseid": "create-common-realm"
     },
     {
@@ -48,7 +51,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
           "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-resources-config.version"
