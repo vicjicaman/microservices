@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-graph-common",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-graph-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d936757e3e22da7ece20e7b830bfa93660b97113",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "0d8e480dab9866998928c86d4e9a284866ce07b9",
     "message": "Add secret for data services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "68884b857ecef0b873cd9240f0b6617840d1c0f9",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570476379,
   "updated": 1570476379,

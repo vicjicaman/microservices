@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-blog-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9203b0f6da25145365ae500a6751d6396a9810af",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "60b1d1cf9507c2da4b627296b0f0d087dad4783e",
     "message": "Add secret for data services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1db3ffc7fe4a8d8caa6fc9ee875c5c1acdb4b5a7",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570476379,
   "updated": 1570476379,

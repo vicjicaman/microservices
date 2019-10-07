@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-blog-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-blog-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b299549d11dea5e238032342ea05724c083518d1",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "799d5641e89240ff56c57f8a31fa75fe0138ea90",
     "message": "Add secret for data services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "f81b6b74aed8b97936b6cbdc600131c1190ffbc9",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570476379,
   "updated": 1570476379,

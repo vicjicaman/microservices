@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "498e996f2b4c96100adb2826761e2892875bea2a",
+    "message": "Add secret for data services\n"
+  },
   "iterate": {
     "commitid": "498e996f2b4c96100adb2826761e2892875bea2a",
     "message": "Add secret for data services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "498e996f2b4c96100adb2826761e2892875bea2a",
+    "message": "Add secret for data services\n"
+  },
   "releasedOn": 1,
   "created": 1570476379,
   "updated": 1570476379,
