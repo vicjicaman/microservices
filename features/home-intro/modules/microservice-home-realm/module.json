@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-realm.git",
   "fullname": "microservice-home-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Entities for the home services and entities kubernetes realm",
   "created": 1570479802,
   "updated": 1570479802,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bc8c9998c07a8bed24c1a54d36f7cc91d831a087",
+    "message": "Add public realtime cluster information\n"
+  }
 }

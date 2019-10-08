@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph",
   "fullname": "@nebulario/microservice-home-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for home service",
   "created": 1570480366,
   "updated": 1570480366,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "fa43a6104a204d1705bd150efc785c4fff8203d5",
+    "message": "Add public realtime cluster information\n"
+  }
 }

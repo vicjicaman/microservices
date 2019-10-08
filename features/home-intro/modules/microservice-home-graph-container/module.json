@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph-container.git",
   "fullname": "repoflow/microservice-home-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the home service",
   "created": 1570480087,
   "updated": 1570480087,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "39ca0dac2b8ae70cb01a75d654335d44098f4eac",
+    "message": "Add introspection cluster for namespace and service\n"
+  }
 }

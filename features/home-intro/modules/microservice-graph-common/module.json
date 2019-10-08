@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-graph-common.git",
   "fullname": "@nebulario/microservice-graph-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common code and utils for a graph service",
   "created": 1570511531,
   "updated": 1570511531,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "daed28ac9c46fa87622338a14e7bf191a24974a9",
+    "message": "Add public realtime cluster information\n"
+  }
 }

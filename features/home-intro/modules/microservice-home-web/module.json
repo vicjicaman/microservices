@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web.git",
   "fullname": "@nebulario/microservice-home-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Home web app functionality",
   "created": 1570480388,
   "updated": 1570480388,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "18bfa2f34a4314f18baa9873993145f0db88d40a",
+    "message": "Fix services list for small screens\n"
+  }
 }
