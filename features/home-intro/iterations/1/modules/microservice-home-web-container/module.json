@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "mode": "prod",
+  "version": "1.70.0-home-intro-prod",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "459f3b4b7881fa7b58b921caf97acff0a006052e",
+    "message": "Add introspection cluster for namespace and service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570563158,
+  "updated": 1570563158,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-realm",
+  "mode": "prod",
+  "version": "1.70.0-home-intro-prod",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bc8c9998c07a8bed24c1a54d36f7cc91d831a087",
+    "message": "Add public realtime cluster information\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570563158,
+  "updated": 1570563158,
+  "status": "active"
+}

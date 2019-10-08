@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-home-intro-prod",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "39ca0dac2b8ae70cb01a75d654335d44098f4eac",
+    "message": "Add introspection cluster for namespace and service\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1570563158,
+  "updated": 1570563158,
+  "status": "active"
+}
