@@ -5,12 +5,18 @@
   "fullname": "microservice-home-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-home-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "b9139b296f21ba4f37ad61c78f2f430d8aecbc56",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "bc8c9998c07a8bed24c1a54d36f7cc91d831a087",
     "message": "Add public realtime cluster information\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a42e89ed7fb7c648dca342842f50da811934b94a",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1570563158,
   "updated": 1570563158,
