@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-config.git",
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Config params for home microservices",
   "created": 1571282315,
   "updated": 1571282315,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6fb63d1f856d33db331a79a34ee5e2f322b68b59",
+    "message": "RELEASE:blog-layout-update:1.70.2-master\n"
+  }
 }

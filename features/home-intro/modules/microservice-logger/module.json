@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-logger.git",
   "fullname": "@nebulario/microservice-logger",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Logger config for backend",
   "created": 1570801961,
   "updated": 1570801961,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d95f65875f7d136103a3268399f48005ad0d30f2",
+    "message": "Add server logger middleware\n"
+  }
 }

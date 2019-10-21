@@ -14,7 +14,7 @@
   "updated": 1570511531,
   "status": "active",
   "commit": {
-    "commitid": "2b0d13895e33e32e2395a0d7e345ad25bf04d47c",
-    "message": "Fix expire issue with cache operation\n"
+    "commitid": "c4e54cbb9650713776b2ffc95caa7ce3c2696a94",
+    "message": "Fix cache expire issue\n"
   }
 }
