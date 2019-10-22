@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-config",
+  "mode": "prod",
+  "version": "1.70.0-home-intro-prod",
+  "fullname": "github.com:vicjicaman/microservice-home-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-home-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "239db9243353b9002418fa167c1eeae5b773b3f2",
+    "message": "Format change to last line\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1571753145,
+  "updated": 1571753145,
+  "status": "active"
+}
