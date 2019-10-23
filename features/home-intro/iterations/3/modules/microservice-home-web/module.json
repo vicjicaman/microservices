@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "1e7568dbce5e2dbc417bc50b8634482043f99fd6",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "65ad638ac798234527c3e978846771046668e873",
     "message": "Add microservice utils package\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "cb4390c26e0895631496af6760c7f3211d407f59",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1571805257,
   "updated": 1571805257,

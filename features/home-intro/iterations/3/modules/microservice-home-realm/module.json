@@ -5,12 +5,18 @@
   "fullname": "microservice-home-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-home-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "04cd4ea44207137f5ea10fbe02402f114d7d4cd7",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "a42e89ed7fb7c648dca342842f50da811934b94a",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7bd5b7093e6f7ab83a0d830730de67c360bf800a",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1571805256,
   "updated": 1571805256,
