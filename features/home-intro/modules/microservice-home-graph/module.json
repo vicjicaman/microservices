@@ -14,7 +14,7 @@
   "updated": 1570480366,
   "status": "active",
   "commit": {
-    "commitid": "0ad1d60f3c43b54d5cdf2c729366ee67c0c55325",
-    "message": "Add server logger middleware\n"
+    "commitid": "9d6048d63b509b8b840e6e41224fb36b49237234",
+    "message": "Add microservice utils package\n"
   }
 }

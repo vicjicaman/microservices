@@ -14,7 +14,7 @@
   "updated": 1570480388,
   "status": "active",
   "commit": {
-    "commitid": "57f037ce8a9d1f7d8b1bff6dff5cacf1ef7aac39",
-    "message": "Add shutdown signal listener\n"
+    "commitid": "65ad638ac798234527c3e978846771046668e873",
+    "message": "Add microservice utils package\n"
   }
 }
