@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-logger",
+  "mode": "prod",
+  "version": "1.70.1-home-intro-prod",
+  "fullname": "@nebulario/microservice-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-logger.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d95f65875f7d136103a3268399f48005ad0d30f2",
+    "message": "Add server logger middleware\n"
+  },
+  "mergeback": null,
+  "releasedOn": 3,
+  "created": 1571805257,
+  "updated": 1571805257,
+  "status": "active"
+}
