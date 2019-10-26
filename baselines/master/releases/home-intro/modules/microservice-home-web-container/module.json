@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-intro",
+  "moduleid": "microservice-home-web-container",
+  "version": "1.70.2-master",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "2d35f999c137153d7f65851d70f955351daa1dbe",
+    "message": "ITERATION:5\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for home web app",
+  "dependencies": [],
+  "created": 1572120512,
+  "updated": 1572120512,
+  "status": "active"
+}

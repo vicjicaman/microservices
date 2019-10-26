@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-intro",
+  "moduleid": "microservice-home-graph-container",
+  "version": "1.70.3-master",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "acc13a650c7b2df75c401c1649018cdfe2aa1c30",
+    "message": "ITERATION:5\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the home service",
+  "dependencies": [],
+  "created": 1572120511,
+  "updated": 1572120511,
+  "status": "active"
+}
