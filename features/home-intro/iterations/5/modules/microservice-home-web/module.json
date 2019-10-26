@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web",
+  "mode": "prod",
+  "version": "1.70.4-home-intro-prod",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "ab07800ce7d58edbec2d2e89cec4c677c001f09e",
+    "message": "Sync to latest iteration\n"
+  },
+  "mergeback": null,
+  "releasedOn": 5,
+  "created": 1572118792,
+  "updated": 1572118792,
+  "status": "active"
+}
