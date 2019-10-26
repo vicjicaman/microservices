@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "17fb64b6dca199b771d7a14553f4a7bc7885db8b",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "a2c3547a09eb300e671e9fc4a57ea3f22e278f53",
     "message": "Add webpack common configuration for SSR react\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "48bc289630a0712b786b02d69bc2323bdfda0cb1",
+    "message": "ITERATION:4\n"
+  },
   "releasedOn": 4,
   "created": 1572112024,
   "updated": 1572112024,
