@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-home-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-home-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a2a773b4ffd25a9c38885860966b67ab9d9a9364",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "502eac43cd16b768f2b8e3760d402be9717af498",
     "message": "ITERATION:4\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "acc13a650c7b2df75c401c1649018cdfe2aa1c30",
+    "message": "ITERATION:5\n"
+  },
   "releasedOn": 5,
   "created": 1572118792,
   "updated": 1572118792,
