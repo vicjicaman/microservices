@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "fullname": "@nebulario/microservice-graph-common",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Common code and utils for a graph service",
+  "created": 1570511531,
+  "updated": 1570511531,
+  "status": "active",
+  "commit": {
+    "commitid": "cebceb105a0cf7139ae9c762313dd86391a140a1",
+    "message": "ITERATION:3\n"
+  }
+}

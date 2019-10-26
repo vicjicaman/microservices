@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "mode": "prod",
+  "version": "1.70.4-home-intro-prod",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": {
+    "commitid": "a063dcfc98ab92e876641ec560d4b7e9b4bab678",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "3e9716ebc48f70a120f6af5195299a220f979ede",
+    "message": "ITERATION:4\n"
+  },
+  "mergeback": {
+    "commitid": "2d35f999c137153d7f65851d70f955351daa1dbe",
+    "message": "ITERATION:5\n"
+  },
+  "releasedOn": 5,
+  "created": 1572118792,
+  "updated": 1572118792,
+  "status": "active"
+}

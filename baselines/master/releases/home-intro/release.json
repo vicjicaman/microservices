@@ -1,0 +1,17 @@
+{
+  "releaseid": "home-intro",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-home-realm",
+    "microservice-home-graph-container",
+    "microservice-home-web-container",
+    "microservice-home-graph",
+    "microservice-home-web",
+    "microservice-graph-common",
+    "microservice-home-config",
+    "microservice-logger"
+  ],
+  "created": 1572120511,
+  "updated": 1572120511,
+  "status": "active"
+}

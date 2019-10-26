@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-graph",
+  "mode": "prod",
+  "version": "1.70.3-home-intro-prod",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": {
+    "commitid": "ed2fdfefce7245c134bcc16092adb9f0b61c9399",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "01532cac6aad56def719ac579ca9fce990d1490a",
+    "message": "Save dependencies modifications\n"
+  },
+  "mergeback": {
+    "commitid": "995bdd6fdabbfe5b81873c7792a51d4f38b6fdf3",
+    "message": "ITERATION:4\n"
+  },
+  "releasedOn": 4,
+  "created": 1572112024,
+  "updated": 1572112024,
+  "status": "active"
+}

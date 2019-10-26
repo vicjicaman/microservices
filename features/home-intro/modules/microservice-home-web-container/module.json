@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "fullname": "repoflow/microservice-home-web-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for home web app",
+  "created": 1570480100,
+  "updated": 1570480100,
+  "status": "active",
+  "commit": {
+    "commitid": "2d35f999c137153d7f65851d70f955351daa1dbe",
+    "message": "ITERATION:5\n"
+  }
+}

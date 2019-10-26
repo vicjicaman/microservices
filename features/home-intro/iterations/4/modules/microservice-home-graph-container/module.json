@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "mode": "prod",
+  "version": "1.70.3-home-intro-prod",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": {
+    "commitid": "d4fe187dd4b891277e658ac88eff68bf4cbdb534",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "5c3f661b31b851668d5d79ef0f8ade1c0688fa0e",
+    "message": "Save dependencies modifications\n"
+  },
+  "mergeback": {
+    "commitid": "502eac43cd16b768f2b8e3760d402be9717af498",
+    "message": "ITERATION:4\n"
+  },
+  "releasedOn": 4,
+  "created": 1572112023,
+  "updated": 1572112023,
+  "status": "active"
+}

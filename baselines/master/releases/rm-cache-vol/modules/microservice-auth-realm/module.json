@@ -1,0 +1,20 @@
+{
+  "releaseid": "rm-cache-vol",
+  "moduleid": "microservice-auth-realm",
+  "version": "1.70.4-master",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "acab50006d0445834c741da7cfda156a6e160c72",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes entities for functionality related to auth",
+  "dependencies": [],
+  "created": 1572126209,
+  "updated": 1572126209,
+  "status": "active"
+}

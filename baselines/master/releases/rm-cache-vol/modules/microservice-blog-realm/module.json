@@ -1,0 +1,20 @@
+{
+  "releaseid": "rm-cache-vol",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.4-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "1b59290155b727c95c32c65489ef0e6ebb02625f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1572126209,
+  "updated": 1572126209,
+  "status": "active"
+}
