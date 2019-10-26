@@ -1,0 +1,8 @@
+{
+  "featureid": "newsletter-subscribe",
+  "baselineid": "master",
+  "description": "Add functionality to subscribe to update",
+  "created": 1570894471,
+  "updated": 1570894471,
+  "status": "active"
+}
