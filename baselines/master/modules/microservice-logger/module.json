@@ -1,0 +1,13 @@
+{
+  "moduleid": "microservice-logger",
+  "releases": [
+    {
+      "releaseid": "home-intro"
+    }
+  ],
+  "created": 1572125735,
+  "updated": 1572125735,
+  "status": "active",
+  "dependants": [],
+  "dependents": []
+}

@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-realm",
   "releases": [
     {
+      "releaseid": "home-intro"
+    },
+    {
       "releaseid": "blog-layout-upstream"
     },
     {

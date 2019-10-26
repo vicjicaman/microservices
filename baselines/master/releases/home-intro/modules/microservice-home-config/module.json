@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-home-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "239db9243353b9002418fa167c1eeae5b773b3f2",
+    "message": "Format change to last line\n"
+  },
   "released": {
     "commitid": "239db9243353b9002418fa167c1eeae5b773b3f2",
     "message": "Format change to last line\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "efe9cce2e43955f49143c8a476b9a70d86e23121",
+    "message": "RELEASE:home-intro:1.70.3-master\n"
+  },
   "releaseType": "patch",
   "description": "Config params for home microservices",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1572120512,
   "updated": 1572120512,
   "status": "active"

@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-config",
   "releases": [
     {
+      "releaseid": "home-intro"
+    },
+    {
       "releaseid": "blog-layout-update"
     },
     {

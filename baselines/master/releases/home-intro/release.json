@@ -1,6 +1,6 @@
 {
   "releaseid": "home-intro",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-home-realm",
     "microservice-home-graph-container",
