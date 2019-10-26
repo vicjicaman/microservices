@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-intro",
+  "moduleid": "microservice-home-config",
+  "version": "1.70.3-master",
+  "fullname": "github.com:vicjicaman/microservice-home-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-home-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "239db9243353b9002418fa167c1eeae5b773b3f2",
+    "message": "Format change to last line\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Config params for home microservices",
+  "dependencies": [],
+  "created": 1572120512,
+  "updated": 1572120512,
+  "status": "active"
+}

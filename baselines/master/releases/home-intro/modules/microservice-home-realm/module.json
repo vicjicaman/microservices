@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-intro",
+  "moduleid": "microservice-home-realm",
+  "version": "1.70.2-master",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "279c3fb8b61e1bc4032d71093766a0e0a5b40d29",
+    "message": "ITERATION:5\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Entities for the home services and entities kubernetes realm",
+  "dependencies": [],
+  "created": 1572120511,
+  "updated": 1572120511,
+  "status": "active"
+}
