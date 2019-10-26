@@ -1,0 +1,19 @@
+{
+  "releaseid": "rm-cache-vol",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-resources-realm",
+    "microservice-account-graph-container",
+    "microservice-blog-graph-container",
+    "microservice-account-graph",
+    "microservice-blog-graph",
+    "microservice-graph-common",
+    "microservice-auth-config",
+    "microservice-resources-config"
+  ],
+  "created": 1572126209,
+  "updated": 1572126209,
+  "status": "active"
+}
