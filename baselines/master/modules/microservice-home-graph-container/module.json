@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-graph-container",
   "releases": [
     {
+      "releaseid": "home-intro"
+    },
+    {
       "releaseid": "auth-home-config"
     },
     {

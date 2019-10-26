@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web",
+  "mode": "prod",
+  "version": "1.70.0-home-intro-prod",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": {
+    "commitid": "502853c0252fe03f920414720dbf1cecf06c341c",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "18bfa2f34a4314f18baa9873993145f0db88d40a",
+    "message": "Fix services list for small screens\n"
+  },
+  "mergeback": {
+    "commitid": "72a539f8fcbb7bfab5cc98cb2a97724b1fda8fd2",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570563158,
+  "updated": 1570563158,
+  "status": "active"
+}

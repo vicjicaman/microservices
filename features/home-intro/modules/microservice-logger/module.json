@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-logger.git",
+  "fullname": "@nebulario/microservice-logger",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Logger config for backend",
+  "created": 1570801961,
+  "updated": 1570801961,
+  "status": "active",
+  "commit": {
+    "commitid": "53ace7ffc7e2cab2eae43e819167fc01356c5d3f",
+    "message": "ITERATION:3\n"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-graph-common",
+  "mode": "prod",
+  "version": "1.70.1-home-intro-prod",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c4e54cbb9650713776b2ffc95caa7ce3c2696a94",
+    "message": "Fix cache expire issue\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1571753145,
+  "updated": 1571753145,
+  "status": "active"
+}

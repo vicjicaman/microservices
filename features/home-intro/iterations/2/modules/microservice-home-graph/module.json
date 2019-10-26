@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph",
+  "mode": "prod",
+  "version": "1.70.1-home-intro-prod",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": null,
+  "iterate": {
+    "commitid": "0ad1d60f3c43b54d5cdf2c729366ee67c0c55325",
+    "message": "Add server logger middleware\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1571753145,
+  "updated": 1571753145,
+  "status": "active"
+}
