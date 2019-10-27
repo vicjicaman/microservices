@@ -1,0 +1,71 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-resources-realm",
+    "microservice-account-graph-container",
+    "microservice-blog-graph-container",
+    "microservice-account-graph",
+    "microservice-blog-graph",
+    "microservice-graph-common",
+    "microservice-auth-config",
+    "microservice-resources-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-graph-common",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "iterationid": 1,
+      "version": "1.70.0-rm-cache-vol-prod"
+    }
+  ],
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": {
+    "commitid": "1743482e380daf255670f743ba32cccf9c5f60b1",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "7f5a19702403baaad6d087c80dbff7c0ccc04a50",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": {
+    "commitid": "c33f1ad12c9fe1224d2e792bb7f7d693c69c8168",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

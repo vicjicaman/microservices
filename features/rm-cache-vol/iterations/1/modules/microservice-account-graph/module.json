@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph",
+  "mode": "prod",
+  "version": "1.70.0-rm-cache-vol-prod",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": {
+    "commitid": "9619c82f9c3d5b24f0c5dad9f8ae6b45eadd7ec7",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "4b86742c3e773ed3749e9e0deeb2623f979db909",
+    "message": "Add secret for data services\n"
+  },
+  "mergeback": {
+    "commitid": "5f5ae913fa0f05f125582cc625b730e68fd01aac",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1570476379,
+  "updated": 1570476379,
+  "status": "active"
+}

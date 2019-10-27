@@ -37,7 +37,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
           "fullname": "github.com:vicjicaman/microservice-home-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-home-config.version"

@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-graph-container",
   "releases": [
     {
+      "releaseid": "rm-cache-vol"
+    },
+    {
       "releaseid": "config-upgrade"
     },
     {

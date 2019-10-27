@@ -24,7 +24,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-graph",
           "fullname": "@nebulario/microservice-home-graph",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-home-graph"
@@ -47,12 +47,38 @@
       ]
     },
     {
+      "moduleid": "microservice-graph-common",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
+          "fullname": "@nebulario/microservice-graph-common",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-graph-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-utils",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
           "fullname": "@nebulario/microservice-utils",
-          "version": "^1.70.0-master",
+          "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-utils"

@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-realm",
   "releases": [
     {
+      "releaseid": "rm-cache-vol"
+    },
+    {
       "releaseid": "blog-layout-upstream"
     },
     {

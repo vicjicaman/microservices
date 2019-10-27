@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-config",
   "releases": [
     {
+      "releaseid": "rm-cache-vol"
+    },
+    {
       "releaseid": "blog-layout-update"
     },
     {

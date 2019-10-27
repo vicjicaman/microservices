@@ -2,6 +2,9 @@
   "moduleid": "microservice-graph-common",
   "releases": [
     {
+      "releaseid": "rm-cache-vol"
+    },
+    {
       "releaseid": "home-intro"
     },
     {
@@ -35,6 +38,19 @@
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
           "fullname": "@nebulario/microservice-graph-common",
           "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-graph-common"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
+          "fullname": "@nebulario/microservice-graph-common",
+          "version": "1.70.2-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-graph-common"

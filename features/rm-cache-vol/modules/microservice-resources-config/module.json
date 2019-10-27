@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-resources-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Configuration for the common resources service",
+  "created": 1570410017,
+  "updated": 1570410017,
+  "status": "active",
+  "commit": {
+    "commitid": "498e996f2b4c96100adb2826761e2892875bea2a",
+    "message": "Add secret for data services\n"
+  }
+}
