@@ -5,15 +5,38 @@
   "fullname": "repoflow/microservice-blog-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8e5b826b420a902f12f7e34f4753e54bb30e0a34",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "1db3ffc7fe4a8d8caa6fc9ee875c5c1acdb4b5a7",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "1f951f29eebebfd8faaffdde99e5e9a79c0b30ce",
+    "message": "RELEASE:rm-cache-vol:1.70.3-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for graph service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-blog-graph-container",
+      "version": "1.70.3-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-graph",
+      "fullname": "@nebulario/microservice-blog-graph",
+      "version": "1.70.3-master",
+      "kind": "app",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-blog-graph"
+    }
+  ],
   "created": 1572126209,
   "updated": 1572126209,
   "status": "active"

@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9ce965edc67144e2ff3e2234729d6fb743fb59b2",
+    "message": "Add secret for data services\n"
+  },
   "released": {
     "commitid": "9ce965edc67144e2ff3e2234729d6fb743fb59b2",
     "message": "Add secret for data services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "266c9ef0a09c94642cb876fb7090ba1ad629c4a3",
+    "message": "RELEASE:rm-cache-vol:1.70.7-master\n"
+  },
   "releaseType": "patch",
   "description": "General configuration for auth service, web, graph and others",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1572126209,
   "updated": 1572126209,
   "status": "active"

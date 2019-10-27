@@ -5,15 +5,222 @@
   "fullname": "@nebulario/microservice-blog-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-blog-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "9a0bc46e30d3db9caa22ccff1999e1529f7bda1c",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "f81b6b74aed8b97936b6cbdc600131c1190ffbc9",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "83a5e9efb22ec502fbb559246c5534d01527b027",
+    "message": "RELEASE:rm-cache-vol:1.70.3-master\n"
+  },
   "releaseType": "patch",
   "description": "Graph for the blog service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/microservice-blog-graph",
+      "version": "1.70.3-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime",
+      "fullname": "@babel/runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime-corejs3",
+      "fullname": "@babel/runtime-corejs3",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime-corejs3"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
+      "fullname": "@nebulario/microservice-auth-common",
+      "version": "1.70.1-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-auth-common"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
+      "fullname": "@nebulario/microservice-graph-common",
+      "version": "1.70.2-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-graph-common"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
+      "fullname": "@nebulario/microservice-utils",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-utils"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.amqplib",
+      "fullname": "amqplib",
+      "version": "^0.5.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.amqplib"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.async-redis",
+      "fullname": "async-redis",
+      "version": "^1.1.7",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.async-redis"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.dotenv",
+      "fullname": "dotenv",
+      "version": "^7.0.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.dotenv"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express",
+      "fullname": "express",
+      "version": "^4.16.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.express-graphql",
+      "fullname": "express-graphql",
+      "version": "^0.7.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.express-graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql",
+      "fullname": "graphql",
+      "version": "^14.2.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-iso-date",
+      "fullname": "graphql-iso-date",
+      "version": "^3.6.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-iso-date"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-request",
+      "fullname": "graphql-request",
+      "version": "^1.8.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-request"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-tools",
+      "fullname": "graphql-tools",
+      "version": "^4.0.4",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-tools"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.graphql-tools-types",
+      "fullname": "graphql-tools-types",
+      "version": "^1.2.1",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.graphql-tools-types"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.mongoose",
+      "fullname": "mongoose",
+      "version": "^5.6.12",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.mongoose"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/plugin-transform-runtime",
+      "fullname": "@babel/plugin-transform-runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.nodemon",
+      "fullname": "nodemon",
+      "version": "^1.19.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.nodemon"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
   "created": 1572126209,
   "updated": 1572126209,
   "status": "active"

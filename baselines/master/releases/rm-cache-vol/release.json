@@ -1,6 +1,6 @@
 {
   "releaseid": "rm-cache-vol",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-realm",
     "microservice-blog-realm",

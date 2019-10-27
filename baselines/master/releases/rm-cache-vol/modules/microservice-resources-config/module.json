@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "498e996f2b4c96100adb2826761e2892875bea2a",
+    "message": "Add secret for data services\n"
+  },
   "released": {
     "commitid": "498e996f2b4c96100adb2826761e2892875bea2a",
     "message": "Add secret for data services\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e16cfa918f6efef79b07cbf98987d8a1a20324b5",
+    "message": "RELEASE:rm-cache-vol:1.70.5-master\n"
+  },
   "releaseType": "patch",
   "description": "Configuration for the common resources service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.2-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1572126209,
   "updated": 1572126209,
   "status": "active"

@@ -2,6 +2,9 @@
   "moduleid": "microservice-account-graph-container",
   "releases": [
     {
+      "releaseid": "rm-cache-vol"
+    },
+    {
       "releaseid": "data-reconnect-realm"
     },
     {
