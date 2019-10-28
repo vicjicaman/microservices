@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web.git",
   "fullname": "@nebulario/microservice-auth-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Auth functionality web app",
   "created": 1572234775,
   "updated": 1572234775,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "68dbae3cc7f243cf9fa443d07796bf518df68244",
+    "message": "Add logger, update Dockerfile and node version\n"
+  }
 }

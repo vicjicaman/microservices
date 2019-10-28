@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
   "fullname": "repoflow/microservice-auth-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the web app",
   "created": 1572234120,
   "updated": 1572234120,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1350c6b502cfb74f8aa43a9168fce6cfffc566fe",
+    "message": "Add logger, update Dockerfile and node version\n"
+  }
 }

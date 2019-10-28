@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-graph-common.git",
   "fullname": "@nebulario/microservice-graph-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common code and utils for a graph service",
   "created": 1572234897,
   "updated": 1572234897,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "96423bb93594b9764bb26b61a6bbbc7023fef3da",
+    "message": "RELEASE:rm-cache-vol:1.70.2-master\n"
+  }
 }

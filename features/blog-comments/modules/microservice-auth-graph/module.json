@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1572234762,
   "updated": 1572234762,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "edbc1366e9395e8d7dbc1e6db792869248e72956",
+    "message": "Add logger, update Dockerfile and node version\n"
+  }
 }

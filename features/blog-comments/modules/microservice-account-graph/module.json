@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph.git",
   "fullname": "@nebulario/microservice-account-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for account queries and mutations",
   "created": 1572234134,
   "updated": 1572234134,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5ff4d74e57ed16ee550b80621a2b510271e3653b",
+    "message": "Add logger, update Dockerfile and node version\n"
+  }
 }

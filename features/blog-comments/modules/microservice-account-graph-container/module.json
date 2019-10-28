@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-container.git",
   "fullname": "repoflow/microservice-account-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the account graph",
   "created": 1572234115,
   "updated": 1572234115,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5ea31491df7f72c581d2c815c150630424b1f4f2",
+    "message": "Add logger, update Dockerfile and node version\n"
+  }
 }

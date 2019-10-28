@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
   "fullname": "repoflow/microservice-auth-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the auth graph",
   "created": 1572234125,
   "updated": 1572234125,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "063cdb3869ae9865b662a6c7ef9a8383a2d8d967",
+    "message": "Add logger, update Dockerfile and node version\n"
+  }
 }
