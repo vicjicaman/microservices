@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-account-graph-container",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-account-graph",
+    "microservice-auth-graph",
+    "microservice-auth-web",
+    "microservice-graph-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    },
+    {
+      "moduleid": "microservice-auth-web",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    },
+    {
+      "moduleid": "microservice-graph-common",
+      "iterationid": 1,
+      "version": "1.70.0-blog-comments-prod"
+    }
+  ],
+  "created": 1572295632,
+  "updated": 1572295632,
+  "status": "active"
+}

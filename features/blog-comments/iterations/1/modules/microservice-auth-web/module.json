@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web",
+  "mode": "prod",
+  "version": "1.70.0-blog-comments-prod",
+  "fullname": "@nebulario/microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "68dbae3cc7f243cf9fa443d07796bf518df68244",
+    "message": "Add logger, update Dockerfile and node version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572295633,
+  "updated": 1572295633,
+  "status": "active"
+}

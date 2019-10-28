@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-graph-common",
+  "mode": "prod",
+  "version": "1.70.0-blog-comments-prod",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "96423bb93594b9764bb26b61a6bbbc7023fef3da",
+    "message": "RELEASE:rm-cache-vol:1.70.2-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572295633,
+  "updated": 1572295633,
+  "status": "active"
+}
