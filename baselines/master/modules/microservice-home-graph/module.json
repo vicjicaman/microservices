@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-graph",
   "releases": [
     {
+      "releaseid": "s3-queue"
+    },
+    {
       "releaseid": "home-intro"
     },
     {

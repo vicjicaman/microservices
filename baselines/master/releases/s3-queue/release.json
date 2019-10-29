@@ -1,6 +1,6 @@
 {
   "releaseid": "s3-queue",
-  "phase": "releasing",
+  "phase": "invalid",
   "hierarchy": [
     "microservice-auth-realm",
     "microservice-home-realm",
