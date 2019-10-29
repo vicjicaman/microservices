@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1572192742,
   "updated": 1572192742,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bd78fcf2d75fcc6704680f4bd53cc5fda575c6b2",
+    "message": "RELEASE:rm-cache-vol:1.70.4-master\n"
+  }
 }

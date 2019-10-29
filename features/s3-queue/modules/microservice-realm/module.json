@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-realm.git",
   "fullname": "microservice-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Root realm with the namespace, ingress and base services",
   "created": 1572192735,
   "updated": 1572192735,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "625151a5e879d32b1c75b83c64164954b82d4f3e",
+    "message": "Add cronjob identification label\n"
+  }
 }

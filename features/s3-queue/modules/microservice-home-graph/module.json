@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph",
   "fullname": "@nebulario/microservice-home-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for home service",
   "created": 1572321637,
   "updated": 1572321637,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8a8227d07b4e3283290c89e7a5e68142a92522b1",
+    "message": "Get current namespace mounted in pod\n"
+  }
 }

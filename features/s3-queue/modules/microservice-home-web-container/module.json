@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web-container.git",
   "fullname": "repoflow/microservice-home-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for home web app",
   "created": 1572321630,
   "updated": 1572321630,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0e2835a1cf55574a26aadf7b3492e35fb290b2f9",
+    "message": "Add linked pacakges\n"
+  }
 }

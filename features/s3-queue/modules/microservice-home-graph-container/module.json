@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph-container.git",
   "fullname": "repoflow/microservice-home-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the home service",
   "created": 1572321626,
   "updated": 1572321626,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "69860b2050db16f0b25673797d80662b43cc42eb",
+    "message": "Add linked pacakges\n"
+  }
 }
