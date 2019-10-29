@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-home-cluster-info-prod"
+    }
+  ],
+  "created": 1572387614,
+  "updated": 1572387614,
+  "status": "active"
+}

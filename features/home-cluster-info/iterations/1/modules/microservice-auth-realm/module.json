@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.0-home-cluster-info-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5008f04f64fbd571c0e591fe34fd5390b2746269",
+    "message": "RELEASE:blog-comments:1.70.5-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572387614,
+  "updated": 1572387614,
+  "status": "active"
+}
