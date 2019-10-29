@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "fullname": "@nebulario/microservice-account-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Graph for account queries and mutations",
+  "created": 1572234134,
+  "updated": 1572234134,
+  "status": "active",
+  "commit": {
+    "commitid": "dee1b01fcba789878e34a75d15ffee578b85f694",
+    "message": "ITERATION:1\n"
+  }
+}

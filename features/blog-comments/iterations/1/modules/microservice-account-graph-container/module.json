@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-blog-comments-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": {
+    "commitid": "81635820fb6003c93c0a30166ff96987c1f99f72",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "5ea31491df7f72c581d2c815c150630424b1f4f2",
+    "message": "Add logger, update Dockerfile and node version\n"
+  },
+  "mergeback": {
+    "commitid": "f7c7de9cd72e5e34ae9179a600d1196ccd599e51",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1572295632,
+  "updated": 1572295632,
+  "status": "active"
+}

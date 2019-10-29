@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.0-blog-comments-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": {
+    "commitid": "8e164191f9843a6a1b3a6b3a451cd5fedd997c61",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "54a0af3dc1a59ccc966fb63e46b6f84bfb7ff385",
+    "message": "Add logger, update Dockerfile and node version\n"
+  },
+  "mergeback": {
+    "commitid": "2e2c8d0faa66d5d8170daa2ca22b4223165e6d44",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1572295632,
+  "updated": 1572295632,
+  "status": "active"
+}
