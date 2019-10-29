@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-home-realm",
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-home-graph-container",
+    "microservice-home-web-container",
+    "microservice-home-graph",
+    "microservice-home-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    },
+    {
+      "moduleid": "microservice-home-realm",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    },
+    {
+      "moduleid": "microservice-realm",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    },
+    {
+      "moduleid": "microservice-home-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    },
+    {
+      "moduleid": "microservice-home-web",
+      "iterationid": 1,
+      "version": "1.70.0-s3-queue-prod"
+    }
+  ],
+  "created": 1572357742,
+  "updated": 1572357742,
+  "status": "active"
+}

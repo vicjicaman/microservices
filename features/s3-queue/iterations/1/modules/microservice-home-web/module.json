@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web",
+  "mode": "prod",
+  "version": "1.70.0-s3-queue-prod",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "317427307fef8a2a95c4a45c243057eb46dd995a",
+    "message": "Add mode env variable and global error handler\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572357745,
+  "updated": 1572357745,
+  "status": "active"
+}
