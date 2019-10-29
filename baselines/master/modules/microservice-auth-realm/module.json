@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-realm",
   "releases": [
     {
+      "releaseid": "blog-comments"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {
@@ -28,7 +31,7 @@
         {
           "dependencyid": "dependency|entities/deployment/account.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-account-graph-container",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "container",
           "filename": "entities/deployment/account.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -80,7 +83,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.6-master",
+          "version": "1.70.7-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -93,7 +96,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
           "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.3-master",
+          "version": "1.70.5-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-resources-config.version"
