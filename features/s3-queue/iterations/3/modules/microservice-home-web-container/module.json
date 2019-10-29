@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-home-web-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-home-web-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7acab0f95e19d20fe6b56055cef69ebf04bbef72",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "20766efa7db3841911677a51bb505a4907fc1276",
     "message": "Change to iteration instead of release\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "951f2697249d5ac7f3d25b30f69d4d442d4bffa1",
+    "message": "ITERATION:3\n"
+  },
   "releasedOn": 3,
   "created": 1572385770,
   "updated": 1572385770,
