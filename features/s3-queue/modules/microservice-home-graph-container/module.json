@@ -14,7 +14,7 @@
   "updated": 1572321626,
   "status": "active",
   "commit": {
-    "commitid": "fb11ae268463691aff0ef629da7ea6c926fc5ce8",
-    "message": "Create new instance for npm packages\n"
+    "commitid": "0647d325a86f1ea6c58cab7203d6c5a0bab1018b",
+    "message": "Change to iteration instead of release\n"
   }
 }
