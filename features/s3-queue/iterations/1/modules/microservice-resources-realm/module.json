@@ -5,12 +5,18 @@
   "fullname": "microservice-resources-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c270bd49bb03f0120a92a47b157db3228336a63a",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "bd78fcf2d75fcc6704680f4bd53cc5fda575c6b2",
     "message": "RELEASE:rm-cache-vol:1.70.4-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "6da65fb1afb2b69848ab7b8b55cc8d609056c911",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572357744,
   "updated": 1572357744,

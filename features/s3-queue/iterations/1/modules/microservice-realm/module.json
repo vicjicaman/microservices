@@ -5,12 +5,18 @@
   "fullname": "microservice-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "068ac0950d56f70e3284ee36c2c34c149ec66e9c",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "625151a5e879d32b1c75b83c64164954b82d4f3e",
     "message": "Add cronjob identification label\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "bcfbcaee8c4a76027a5d5011ea0787345a4bb5d5",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572357743,
   "updated": 1572357743,

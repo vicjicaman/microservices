@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "6dbf630f51518327b79e18d2e28771b9c4f50f01",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "317427307fef8a2a95c4a45c243057eb46dd995a",
     "message": "Add mode env variable and global error handler\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "65aedaf7b90c6566ce7c7eac9b4efd0a7d8ff508",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572357745,
   "updated": 1572357745,
