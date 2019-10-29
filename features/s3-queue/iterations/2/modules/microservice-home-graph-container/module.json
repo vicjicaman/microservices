@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "mode": "prod",
+  "version": "1.70.1-s3-queue-prod",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "fb11ae268463691aff0ef629da7ea6c926fc5ce8",
+    "message": "Create new instance for npm packages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1572385543,
+  "updated": 1572385543,
+  "status": "active"
+}
