@@ -2,6 +2,9 @@
   "moduleid": "microservice-resources-realm",
   "releases": [
     {
+      "releaseid": "s3-queue"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {

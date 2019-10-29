@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-realm",
   "releases": [
     {
+      "releaseid": "s3-queue"
+    },
+    {
       "releaseid": "blog-comments"
     },
     {
