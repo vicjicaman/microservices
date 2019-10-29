@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-auth-web-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0f10dff1532be869d9857b136661e28aa5611eb8",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "1350c6b502cfb74f8aa43a9168fce6cfffc566fe",
     "message": "Add logger, update Dockerfile and node version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c2817a4905eda8a8ffb71d858e80b392456aad50",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572295632,
   "updated": 1572295632,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-graph-common",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-graph-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "4bcbdd9a6a792d0e823e2db292ff25839d9c5748",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "96423bb93594b9764bb26b61a6bbbc7023fef3da",
     "message": "RELEASE:rm-cache-vol:1.70.2-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "5fef6d02d9d423284bd5b6c306ba6df340cd5260",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572295633,
   "updated": 1572295633,

@@ -1,6 +1,6 @@
 {
   "iterationid": 1,
-  "phase": "releasing",
+  "phase": "iterated",
   "hierarchy": [
     "microservice-auth-realm",
     "microservice-account-graph-container",
