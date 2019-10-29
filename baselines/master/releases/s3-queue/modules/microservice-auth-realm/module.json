@@ -1,0 +1,20 @@
+{
+  "releaseid": "s3-queue",
+  "moduleid": "microservice-auth-realm",
+  "version": "1.70.5-master",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "44620076889918eb9880cbc25ee8a1205a2cd14a",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes entities for functionality related to auth",
+  "dependencies": [],
+  "created": 1572386251,
+  "updated": 1572386251,
+  "status": "active"
+}
