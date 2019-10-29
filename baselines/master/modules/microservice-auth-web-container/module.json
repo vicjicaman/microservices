@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-web-container",
   "releases": [
     {
+      "releaseid": "blog-comments"
+    },
+    {
       "releaseid": "blog-layout-upstream"
     },
     {
