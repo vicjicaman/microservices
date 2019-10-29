@@ -1,0 +1,17 @@
+{
+  "releaseid": "blog-comments",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-account-graph-container",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-account-graph",
+    "microservice-auth-graph",
+    "microservice-auth-web",
+    "microservice-graph-common"
+  ],
+  "created": 1572318554,
+  "updated": 1572318554,
+  "status": "active"
+}
