@@ -1,6 +1,6 @@
 {
   "releaseid": "home-cluster-info",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-realm"
   ],

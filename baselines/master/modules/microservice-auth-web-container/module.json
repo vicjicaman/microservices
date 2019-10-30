@@ -25,19 +25,6 @@
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-auth-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
-          "fullname": "repoflow/microservice-auth-web-container",
-          "version": "1.70.4-master",
-          "kind": "container",
-          "filename": "entities/deployment/web.yaml",
-          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-auth-web-service",
       "references": [
         {
@@ -58,7 +45,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-web",
           "fullname": "@nebulario/microservice-auth-web",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-web"
