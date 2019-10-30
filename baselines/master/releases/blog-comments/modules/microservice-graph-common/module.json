@@ -1,0 +1,139 @@
+{
+  "releaseid": "blog-comments",
+  "moduleid": "microservice-graph-common",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": {
+    "commitid": "252b44f9c92bbd260248c688458050b7eafc2fe9",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "5fef6d02d9d423284bd5b6c306ba6df340cd5260",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "35c08e3a37f0bf130b2be138de461273699c9da5",
+    "message": "RELEASE:blog-comments:1.70.3-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Common code and utils for a graph service",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|package.json|name",
+      "fullname": "@nebulario/microservice-graph-common",
+      "version": "1.70.3-master",
+      "kind": "inner",
+      "filename": "package.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime",
+      "fullname": "@babel/runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@babel/runtime-corejs3",
+      "fullname": "@babel/runtime-corejs3",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@babel/runtime-corejs3"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
+      "fullname": "@nebulario/microservice-utils",
+      "version": "1.70.0-master",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.@nebulario/microservice-utils"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.amqplib",
+      "fullname": "amqplib",
+      "version": "^0.5.5",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.amqplib"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.async-redis",
+      "fullname": "async-redis",
+      "version": "^1.1.7",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.async-redis"
+    },
+    {
+      "dependencyid": "dependency|package.json|dependencies.uuid",
+      "fullname": "uuid",
+      "version": "^3.3.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "dependencies.uuid"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/core",
+      "fullname": "@babel/core",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/core"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/plugin-transform-runtime",
+      "fullname": "@babel/plugin-transform-runtime",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/plugin-transform-runtime"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.@babel/preset-env",
+      "fullname": "@babel/preset-env",
+      "version": "^7.6.0",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.@babel/preset-env"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.babel-loader",
+      "fullname": "babel-loader",
+      "version": "^8.0.6",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.babel-loader"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack",
+      "fullname": "webpack",
+      "version": "^4.39.3",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-cli",
+      "fullname": "webpack-cli",
+      "version": "^3.3.8",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-cli"
+    },
+    {
+      "dependencyid": "dependency|package.json|devDependencies.webpack-node-externals",
+      "fullname": "webpack-node-externals",
+      "version": "^1.7.2",
+      "kind": "dependency",
+      "filename": "package.json",
+      "path": "devDependencies.webpack-node-externals"
+    }
+  ],
+  "created": 1572318554,
+  "updated": 1572318554,
+  "status": "active"
+}

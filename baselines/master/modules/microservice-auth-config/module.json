@@ -70,19 +70,6 @@
       ]
     },
     {
-      "moduleid": "microservice-auth-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.6-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-auth-web-service",
       "references": [
         {
@@ -114,20 +101,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.6-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-home-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.6-master",
+          "version": "1.70.7-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -141,19 +115,6 @@
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
           "version": "1.70.4-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-auth-config.version"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
-          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.6-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"

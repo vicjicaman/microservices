@@ -37,7 +37,7 @@
         {
           "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-blog-graph-container",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "container",
           "filename": "entities/deployment/graph.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -52,7 +52,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-graph",
           "fullname": "@nebulario/microservice-blog-graph",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-blog-graph"

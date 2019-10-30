@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-graph",
   "releases": [
     {
+      "releaseid": "s3-queue"
+    },
+    {
       "releaseid": "home-intro"
     },
     {
@@ -17,73 +20,6 @@
   "created": 1568691794,
   "updated": 1568691794,
   "status": "active",
-  "dependants": [
-    {
-      "moduleid": "microservice-home-graph-container",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-graph",
-          "fullname": "@nebulario/microservice-home-graph",
-          "version": "1.70.3-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-home-graph"
-        }
-      ]
-    }
-  ],
-  "dependents": [
-    {
-      "moduleid": "microservice-auth-common",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
-          "fullname": "@nebulario/microservice-auth-common",
-          "version": "1.70.1-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-auth-common"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-graph-common",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
-          "fullname": "@nebulario/microservice-graph-common",
-          "version": "1.70.2-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-graph-common"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-logger",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
-          "fullname": "@nebulario/microservice-logger",
-          "version": "1.70.0-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-logger"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-utils",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
-          "fullname": "@nebulario/microservice-utils",
-          "version": "1.70.0-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-utils"
-        }
-      ]
-    }
-  ]
+  "dependants": [],
+  "dependents": []
 }

@@ -2,6 +2,9 @@
   "moduleid": "microservice-graph-common",
   "releases": [
     {
+      "releaseid": "blog-comments"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {
@@ -24,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
           "fullname": "@nebulario/microservice-graph-common",
-          "version": "1.70.1-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-graph-common"
@@ -33,19 +36,6 @@
     },
     {
       "moduleid": "microservice-blog-graph",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
-          "fullname": "@nebulario/microservice-graph-common",
-          "version": "1.70.1-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-graph-common"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-home-graph",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",

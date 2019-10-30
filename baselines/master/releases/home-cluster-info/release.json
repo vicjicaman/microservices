@@ -1,0 +1,10 @@
+{
+  "releaseid": "home-cluster-info",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-auth-realm"
+  ],
+  "created": 1572399127,
+  "updated": 1572399127,
+  "status": "active"
+}

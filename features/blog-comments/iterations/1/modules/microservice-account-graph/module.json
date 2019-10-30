@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph",
+  "mode": "prod",
+  "version": "1.70.0-blog-comments-prod",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": {
+    "commitid": "8d70dd340e2853f45949f7f48700688d57560591",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "5ff4d74e57ed16ee550b80621a2b510271e3653b",
+    "message": "Add logger, update Dockerfile and node version\n"
+  },
+  "mergeback": {
+    "commitid": "dee1b01fcba789878e34a75d15ffee578b85f694",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1572295632,
+  "updated": 1572295632,
+  "status": "active"
+}

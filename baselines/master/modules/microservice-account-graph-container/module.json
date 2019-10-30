@@ -2,6 +2,9 @@
   "moduleid": "microservice-account-graph-container",
   "releases": [
     {
+      "releaseid": "blog-comments"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {
@@ -36,19 +39,6 @@
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
         }
       ]
-    },
-    {
-      "moduleid": "microservice-auth-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|entities/deployment/account.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
-          "fullname": "repoflow/microservice-account-graph-container",
-          "version": "1.70.4-master",
-          "kind": "container",
-          "filename": "entities/deployment/account.yaml",
-          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
-        }
-      ]
     }
   ],
   "dependents": [
@@ -58,7 +48,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-account-graph",
           "fullname": "@nebulario/microservice-account-graph",
-          "version": "1.70.4-master",
+          "version": "1.70.6-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-account-graph"

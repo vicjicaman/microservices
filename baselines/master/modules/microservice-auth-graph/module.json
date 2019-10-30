@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-graph",
   "releases": [
     {
+      "releaseid": "blog-comments"
+    },
+    {
       "releaseid": "auth-home-config"
     },
     {
@@ -36,7 +39,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-graph",
           "fullname": "@nebulario/microservice-auth-graph",
-          "version": "1.70.7-master",
+          "version": "1.70.8-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-graph"
@@ -64,10 +67,23 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
           "fullname": "@nebulario/microservice-utils",
-          "version": "^1.70.0-master",
+          "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
         }
       ]
     }
