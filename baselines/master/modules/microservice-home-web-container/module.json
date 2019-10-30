@@ -19,19 +19,6 @@
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-home-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
-          "fullname": "repoflow/microservice-home-web-container",
-          "version": "1.70.2-master",
-          "kind": "container",
-          "filename": "entities/deployment/web.yaml",
-          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-home-web-service",
       "references": [
         {
@@ -45,19 +32,5 @@
       ]
     }
   ],
-  "dependents": [
-    {
-      "moduleid": "microservice-home-web",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-home-web",
-          "fullname": "@nebulario/microservice-home-web",
-          "version": "1.70.2-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-home-web"
-        }
-      ]
-    }
-  ]
+  "dependents": []
 }

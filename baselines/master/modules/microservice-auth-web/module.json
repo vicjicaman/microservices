@@ -21,7 +21,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-web",
           "fullname": "@nebulario/microservice-auth-web",
-          "version": "1.70.1-master",
+          "version": "1.70.2-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-auth-web"
@@ -40,6 +40,32 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-layout"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-utils",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
+          "fullname": "@nebulario/microservice-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
         }
       ]
     }

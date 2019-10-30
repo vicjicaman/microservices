@@ -25,19 +25,6 @@
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-auth-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
-          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.5-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-resources-config.version"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-auth-web-service",
       "references": [
         {
@@ -77,19 +64,6 @@
       ]
     },
     {
-      "moduleid": "microservice-home-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
-          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.4-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-resources-config.version"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-home-web-service",
       "references": [
         {
@@ -109,32 +83,6 @@
           "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
           "fullname": "github.com:vicjicaman/microservice-resources-config.git",
           "version": "1.70.0-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-resources-config.version"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
-          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.4-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-resources-config.version"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-resources-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
-          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.5-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-resources-config.version"

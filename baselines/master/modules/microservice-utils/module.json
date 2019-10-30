@@ -28,7 +28,20 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
           "fullname": "@nebulario/microservice-utils",
-          "version": "^1.70.0-master",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
+          "fullname": "@nebulario/microservice-utils",
+          "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-utils"
@@ -63,32 +76,6 @@
     },
     {
       "moduleid": "microservice-graph-common",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
-          "fullname": "@nebulario/microservice-utils",
-          "version": "1.70.0-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-utils"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-home-graph",
-      "references": [
-        {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
-          "fullname": "@nebulario/microservice-utils",
-          "version": "1.70.0-master",
-          "kind": "dependency",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-utils"
-        }
-      ]
-    },
-    {
-      "moduleid": "microservice-home-web",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",

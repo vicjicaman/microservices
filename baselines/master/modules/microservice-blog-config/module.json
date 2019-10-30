@@ -63,19 +63,6 @@
           "path": "dependencies.microservice-blog-config.version"
         }
       ]
-    },
-    {
-      "moduleid": "microservice-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|config.json|dependencies.microservice-blog-config.version",
-          "fullname": "github.com:vicjicaman/microservice-blog-config.git",
-          "version": "1.70.1-master",
-          "kind": "config",
-          "filename": "config.json",
-          "path": "dependencies.microservice-blog-config.version"
-        }
-      ]
     }
   ],
   "dependents": [
