@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-auth-graph",
+  "mode": "prod",
+  "version": "1.70.0-blog-comments-prod",
+  "fullname": "@nebulario/microservice-auth-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-graph.git",
+  "publish": {
+    "commitid": "78eb75d7fd8b0d0251cebd5e8e0eaec4bd601fe0",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "edbc1366e9395e8d7dbc1e6db792869248e72956",
+    "message": "Add logger, update Dockerfile and node version\n"
+  },
+  "mergeback": {
+    "commitid": "23170cb9611067a2438e9e9444c6b556c8069746",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1572295633,
+  "updated": 1572295633,
+  "status": "active"
+}

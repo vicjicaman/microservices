@@ -1,0 +1,20 @@
+{
+  "releaseid": "s3-queue",
+  "moduleid": "microservice-home-graph",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": null,
+  "released": {
+    "commitid": "4f2cee026965bada690c2b6a0b2a8247099c235c",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for home service",
+  "dependencies": [],
+  "created": 1572386251,
+  "updated": 1572386251,
+  "status": "active"
+}

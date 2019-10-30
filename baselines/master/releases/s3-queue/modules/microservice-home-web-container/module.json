@@ -1,0 +1,20 @@
+{
+  "releaseid": "s3-queue",
+  "moduleid": "microservice-home-web-container",
+  "version": "1.70.3-master",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "951f2697249d5ac7f3d25b30f69d4d442d4bffa1",
+    "message": "ITERATION:3\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for home web app",
+  "dependencies": [],
+  "created": 1572386251,
+  "updated": 1572386251,
+  "status": "active"
+}

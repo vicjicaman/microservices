@@ -1,0 +1,20 @@
+{
+  "releaseid": "s3-queue",
+  "moduleid": "microservice-home-web",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "65aedaf7b90c6566ce7c7eac9b4efd0a7d8ff508",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Home web app functionality",
+  "dependencies": [],
+  "created": 1572386251,
+  "updated": 1572386251,
+  "status": "active"
+}

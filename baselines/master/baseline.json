@@ -3,6 +3,12 @@
   "description": "Live production baseline\n[Only features from stage/hot fix features]",
   "releases": [
     {
+      "releaseid": "s3-queue"
+    },
+    {
+      "releaseid": "blog-comments"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {

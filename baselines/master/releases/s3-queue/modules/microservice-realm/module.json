@@ -1,0 +1,20 @@
+{
+  "releaseid": "s3-queue",
+  "moduleid": "microservice-realm",
+  "version": "1.70.3-master",
+  "fullname": "microservice-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "bcfbcaee8c4a76027a5d5011ea0787345a4bb5d5",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Root realm with the namespace, ingress and base services",
+  "dependencies": [],
+  "created": 1572386251,
+  "updated": 1572386251,
+  "status": "active"
+}

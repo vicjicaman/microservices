@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "mode": "prod",
+  "version": "1.70.1-s3-queue-prod",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "6d033f3f2fe5b16ec6040bf8d73fdbbc34919ffc",
+    "message": "Create new instance for npm packages\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1572385543,
+  "updated": 1572385543,
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "releaseid": "s3-queue",
+  "phase": "invalid",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-home-realm",
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-home-graph-container",
+    "microservice-home-web-container",
+    "microservice-home-graph",
+    "microservice-home-web"
+  ],
+  "created": 1572386251,
+  "updated": 1572386251,
+  "status": "active"
+}
