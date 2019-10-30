@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-cluster-info",
+  "moduleid": "microservice-auth-realm",
+  "version": "1.70.6-master",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "cd2e12a5413b3dcee36f51005bfdcbeb7560088d",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes entities for functionality related to auth",
+  "dependencies": [],
+  "created": 1572399127,
+  "updated": 1572399127,
+  "status": "active"
+}
