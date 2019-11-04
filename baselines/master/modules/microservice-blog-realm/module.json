@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-realm",
   "releases": [
     {
+      "releaseid": "email-validation"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {

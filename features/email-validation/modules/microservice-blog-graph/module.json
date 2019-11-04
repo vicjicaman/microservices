@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Graph for the blog service",
+  "created": 1572405768,
+  "updated": 1572405768,
+  "status": "active",
+  "commit": {
+    "commitid": "57a4b29f073fb058ae1243c755fa88ab7310baec",
+    "message": "ITERATION:1\n"
+  }
+}

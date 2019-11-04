@@ -1,6 +1,6 @@
 {
   "releaseid": "email-validation",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-blog-realm",
     "microservice-blog-graph-container",

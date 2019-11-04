@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-graph-container",
   "releases": [
     {
+      "releaseid": "email-validation"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {

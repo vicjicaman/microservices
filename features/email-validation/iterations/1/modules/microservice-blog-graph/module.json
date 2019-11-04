@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.0-email-validation-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": {
+    "commitid": "1d91847d56ee9a635e8d1168b5267cdcb050adbd",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "332321c262fd821aa4502fde4b102e5363571933",
+    "message": "Replace console to logger with info level\n"
+  },
+  "mergeback": {
+    "commitid": "57a4b29f073fb058ae1243c755fa88ab7310baec",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1572907299,
+  "updated": 1572907299,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "fullname": "@nebulario/microservice-blog-web",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Web app for the blog service",
+  "created": 1572405772,
+  "updated": 1572405772,
+  "status": "active",
+  "commit": {
+    "commitid": "e78bfbf2122b929c6751e1eb93331dede9ae196d",
+    "message": "ITERATION:1\n"
+  }
+}
