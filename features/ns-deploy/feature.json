@@ -1,0 +1,8 @@
+{
+  "featureid": "ns-deploy",
+  "baselineid": "master",
+  "description": "Change the entities to be deployed to production",
+  "created": 1572909895,
+  "updated": 1572909895,
+  "status": "active"
+}
