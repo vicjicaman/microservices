@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-blog-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "732d35ceb6a77963cec98d98f9d5909dc4b68789",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "900f1bc0578b7e9e3034214c01d5c8d5eb7e8152",
     "message": "Replace console to logger with info level\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "531b586d8001a1e33007644a4bfcc026426083ef",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572907299,
   "updated": 1572907299,

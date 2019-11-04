@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-logger",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-logger.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a40fd6725b2e6d19ee62454608e34a270d945822",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "a282ad3d7679b38821113941ef45a612f5509b7f",
     "message": "Replace console to logger with info level\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8608f3bcb3a83d79e698d9a2d7ca3b37d1569d33",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572907299,
   "updated": 1572907299,

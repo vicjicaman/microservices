@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-blog-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-blog-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "0055532a5bc2dea5b6d54872b8ec23399ba30bba",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "5afb685d9fc0d41588f12a0d4835d74f877d6d76",
     "message": "Replace console to logger with info level\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e78bfbf2122b929c6751e1eb93331dede9ae196d",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1572907299,
   "updated": 1572907299,
