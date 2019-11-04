@@ -1,0 +1,20 @@
+{
+  "releaseid": "email-validation",
+  "moduleid": "microservice-blog-graph-container",
+  "version": "1.70.4-master",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "531b586d8001a1e33007644a4bfcc026426083ef",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for graph service",
+  "dependencies": [],
+  "created": 1572908478,
+  "updated": 1572908478,
+  "status": "active"
+}

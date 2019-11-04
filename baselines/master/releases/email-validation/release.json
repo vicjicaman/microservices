@@ -1,0 +1,15 @@
+{
+  "releaseid": "email-validation",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-blog-graph-container",
+    "microservice-blog-web-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-logger"
+  ],
+  "created": 1572908477,
+  "updated": 1572908477,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "email-validation",
+  "moduleid": "microservice-logger",
+  "version": "1.70.1-master",
+  "fullname": "@nebulario/microservice-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-logger.git",
+  "publish": null,
+  "released": {
+    "commitid": "8608f3bcb3a83d79e698d9a2d7ca3b37d1569d33",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Logger config for backend",
+  "dependencies": [],
+  "created": 1572908478,
+  "updated": 1572908478,
+  "status": "active"
+}
