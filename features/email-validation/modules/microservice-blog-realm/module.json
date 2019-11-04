@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
   "fullname": "microservice-blog-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Blog realm for the services and kubernetes entities",
   "created": 1572405755,
   "updated": 1572405755,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "acfce70922568fc0fd257d04af11bb0dade0bf84",
+    "message": "RELEASE:rm-cache-vol:1.70.4-master\n"
+  }
 }

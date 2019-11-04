@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-graph.git",
   "fullname": "@nebulario/microservice-blog-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for the blog service",
   "created": 1572405768,
   "updated": 1572405768,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "332321c262fd821aa4502fde4b102e5363571933",
+    "message": "Replace console to logger with info level\n"
+  }
 }

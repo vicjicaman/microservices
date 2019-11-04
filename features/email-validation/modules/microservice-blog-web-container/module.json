@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
   "fullname": "repoflow/microservice-blog-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the blog web service",
   "created": 1572405765,
   "updated": 1572405765,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "179776a75a4b5025ced4eb7660a7af9c8ee60ec7",
+    "message": "Replace console to logger with info level\n"
+  }
 }

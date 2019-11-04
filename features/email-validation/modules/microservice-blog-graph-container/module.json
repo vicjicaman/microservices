@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
   "fullname": "repoflow/microservice-blog-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for graph service",
   "created": 1572405762,
   "updated": 1572405762,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "900f1bc0578b7e9e3034214c01d5c8d5eb7e8152",
+    "message": "Replace console to logger with info level\n"
+  }
 }

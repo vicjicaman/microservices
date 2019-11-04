@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-logger.git",
   "fullname": "@nebulario/microservice-logger",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Logger config for backend",
   "created": 1572834638,
   "updated": 1572834638,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "a282ad3d7679b38821113941ef45a612f5509b7f",
+    "message": "Replace console to logger with info level\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web.git",
   "fullname": "@nebulario/microservice-blog-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Web app for the blog service",
   "created": 1572405772,
   "updated": 1572405772,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5afb685d9fc0d41588f12a0d4835d74f877d6d76",
+    "message": "Replace console to logger with info level\n"
+  }
 }
