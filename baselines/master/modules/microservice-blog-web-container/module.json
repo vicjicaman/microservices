@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-web-container",
   "releases": [
     {
+      "releaseid": "email-validation"
+    },
+    {
       "releaseid": "config-upgrade"
     },
     {

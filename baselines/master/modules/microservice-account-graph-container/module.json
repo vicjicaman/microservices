@@ -39,6 +39,19 @@
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-auth-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/account.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-account-graph-container",
+          "version": "1.70.6-master",
+          "kind": "container",
+          "filename": "entities/deployment/account.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
     }
   ],
   "dependents": [

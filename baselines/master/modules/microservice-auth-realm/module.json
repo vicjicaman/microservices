@@ -30,5 +30,84 @@
   "updated": 1570128559,
   "status": "active",
   "dependants": [],
-  "dependents": []
+  "dependents": [
+    {
+      "moduleid": "microservice-account-graph-container",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/account.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-account-graph-container",
+          "version": "1.70.6-master",
+          "kind": "container",
+          "filename": "entities/deployment/account.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-auth-graph-container",
+          "version": "1.70.8-master",
+          "kind": "container",
+          "filename": "entities/deployment/graph.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-auth-web-container",
+          "version": "1.70.5-master",
+          "kind": "container",
+          "filename": "entities/deployment/web.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.2-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
+          "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+          "version": "1.70.7-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-auth-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.5-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    }
+  ]
 }

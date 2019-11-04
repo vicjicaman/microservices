@@ -2,6 +2,9 @@
   "moduleid": "microservice-logger",
   "releases": [
     {
+      "releaseid": "email-validation"
+    },
+    {
       "releaseid": "home-intro"
     }
   ],
