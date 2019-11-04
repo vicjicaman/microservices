@@ -1,0 +1,20 @@
+{
+  "releaseid": "email-validation",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.5-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "c617c371d1dadbbe8ffc5fd0f599f570c316534f",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1572908478,
+  "updated": 1572908478,
+  "status": "active"
+}
