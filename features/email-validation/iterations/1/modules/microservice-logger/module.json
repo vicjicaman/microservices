@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-logger",
+  "mode": "prod",
+  "version": "1.70.0-email-validation-prod",
+  "fullname": "@nebulario/microservice-logger",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-logger.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "a282ad3d7679b38821113941ef45a612f5509b7f",
+    "message": "Replace console to logger with info level\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572907299,
+  "updated": 1572907299,
+  "status": "active"
+}

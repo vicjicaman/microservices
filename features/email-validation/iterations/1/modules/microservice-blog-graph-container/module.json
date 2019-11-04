@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-email-validation-prod",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "900f1bc0578b7e9e3034214c01d5c8d5eb7e8152",
+    "message": "Replace console to logger with info level\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572907299,
+  "updated": 1572907299,
+  "status": "active"
+}

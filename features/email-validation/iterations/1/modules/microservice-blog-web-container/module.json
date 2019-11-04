@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "prod",
+  "version": "1.70.0-email-validation-prod",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "179776a75a4b5025ced4eb7660a7af9c8ee60ec7",
+    "message": "Replace console to logger with info level\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572907299,
+  "updated": 1572907299,
+  "status": "active"
+}

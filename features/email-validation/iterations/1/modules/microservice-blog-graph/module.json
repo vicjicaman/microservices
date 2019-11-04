@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.0-email-validation-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "332321c262fd821aa4502fde4b102e5363571933",
+    "message": "Replace console to logger with info level\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1572907299,
+  "updated": 1572907299,
+  "status": "active"
+}

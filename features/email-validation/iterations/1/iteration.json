@@ -1,0 +1,47 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-blog-graph-container",
+    "microservice-blog-web-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-logger"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-email-validation-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-email-validation-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-email-validation-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph",
+      "iterationid": 1,
+      "version": "1.70.0-email-validation-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web",
+      "iterationid": 1,
+      "version": "1.70.0-email-validation-prod"
+    },
+    {
+      "moduleid": "microservice-logger",
+      "iterationid": 1,
+      "version": "1.70.0-email-validation-prod"
+    }
+  ],
+  "created": 1572907299,
+  "updated": 1572907299,
+  "status": "active"
+}
