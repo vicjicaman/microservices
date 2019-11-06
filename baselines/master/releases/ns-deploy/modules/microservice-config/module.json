@@ -1,0 +1,20 @@
+{
+  "releaseid": "ns-deploy",
+  "moduleid": "microservice-config",
+  "version": "1.70.3-master",
+  "fullname": "github.com:vicjicaman/microservice-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "20a02e5b7246e445c43abc1b6b8365cc7ee79c93",
+    "message": "Change to blog repoflow namespace\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "General configuration for microservices",
+  "dependencies": [],
+  "created": 1573077956,
+  "updated": 1573077956,
+  "status": "active"
+}

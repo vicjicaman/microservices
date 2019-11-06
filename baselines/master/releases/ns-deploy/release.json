@@ -1,0 +1,17 @@
+{
+  "releaseid": "ns-deploy",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-certificates-container",
+    "microservice-certificates",
+    "microservice-resources-container",
+    "microservice-resources-proxy",
+    "microservice-resources-config",
+    "microservice-config"
+  ],
+  "created": 1573077956,
+  "updated": 1573077956,
+  "status": "active"
+}

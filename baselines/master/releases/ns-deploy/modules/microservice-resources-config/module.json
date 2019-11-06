@@ -1,0 +1,20 @@
+{
+  "releaseid": "ns-deploy",
+  "moduleid": "microservice-resources-config",
+  "version": "1.70.6-master",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": null,
+  "released": {
+    "commitid": "c40797839f3a840786baa64a24fca468846dbb69",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Configuration for the common resources service",
+  "dependencies": [],
+  "created": 1573077956,
+  "updated": 1573077956,
+  "status": "active"
+}
