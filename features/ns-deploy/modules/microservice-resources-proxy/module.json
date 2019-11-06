@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-resources-proxy",
+  "type": "folder",
+  "url": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Nginx proxy configuration for static resources",
+  "created": 1573013138,
+  "updated": 1573013138,
+  "status": "active"
+}
