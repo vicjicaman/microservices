@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
   "type": "folder",
   "url": "github.com:vicjicaman/microservice-resources-proxy.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3c364207030f58e95399e8e4de53c2c5f5e01b89",
+    "message": "Change namespace and ingress for production deployment\n"
+  },
   "released": {
     "commitid": "3c364207030f58e95399e8e4de53c2c5f5e01b89",
     "message": "Change namespace and ingress for production deployment\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c91e5efc295cfe79274b997f00fe91f42c62e45b",
+    "message": "RELEASE:ns-deploy:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Nginx proxy configuration for static resources",
   "dependencies": [],

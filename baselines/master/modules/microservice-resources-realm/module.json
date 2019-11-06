@@ -2,6 +2,15 @@
   "moduleid": "microservice-resources-realm",
   "releases": [
     {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
       "releaseid": "s3-queue"
     },
     {
@@ -24,5 +33,45 @@
   "updated": 1570055778,
   "status": "active",
   "dependants": [],
-  "dependents": []
+  "dependents": [
+    {
+      "moduleid": "microservice-resources-container",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-resources-container",
+          "version": "1.70.1-master",
+          "kind": "container",
+          "filename": "entities/deployment/web.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.3-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.6-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    }
+  ]
 }
