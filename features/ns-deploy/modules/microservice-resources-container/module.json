@@ -14,7 +14,7 @@
   "updated": 1573011210,
   "status": "active",
   "commit": {
-    "commitid": "5b5940c352a8fca015e5e738e6fbdfc2e99caa76",
-    "message": "Change namespace and ingress for production deployment\n"
+    "commitid": "f27f7167dccf90cf512a0d66c9199f0448962a34",
+    "message": "ITERATION:1\n"
   }
 }
