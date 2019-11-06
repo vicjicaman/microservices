@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-certificates-container.git",
   "fullname": "repoflow/microservice-certificates-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the certificate generation cronjob",
   "created": 1572931203,
   "updated": 1572931203,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "69a2869c228e7efb4075edba31090fc1428dfae4",
+    "message": "Change namespace and ingress for production deployment\n"
+  }
 }

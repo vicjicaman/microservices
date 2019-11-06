@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-container.git",
   "fullname": "repoflow/microservice-resources-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the common resources service",
   "created": 1573011210,
   "updated": 1573011210,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "5b5940c352a8fca015e5e738e6fbdfc2e99caa76",
+    "message": "Change namespace and ingress for production deployment\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-certificates.git",
   "fullname": "@nebulario/microservice-certificates",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "App to check and generate the ingress SSL certificates",
   "created": 1572931211,
   "updated": 1572931211,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0c7eec73e5bdaa831046f005d8f5f0d97c7704e8",
+    "message": "Change namespace and ingress for production deployment\n"
+  }
 }

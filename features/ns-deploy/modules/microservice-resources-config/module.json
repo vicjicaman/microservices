@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-config.git",
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Configuration for the common resources service",
   "created": 1572964370,
   "updated": 1572964370,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "2558cc8c798ba5dd3d260f36ece772fdc9a49847",
+    "message": "Change namespace and ingress for production deployment\n"
+  }
 }

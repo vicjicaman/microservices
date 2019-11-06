@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-proxy.git",
   "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Nginx proxy configuration for static resources",
   "created": 1573013138,
   "updated": 1573013138,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "3c364207030f58e95399e8e4de53c2c5f5e01b89",
+    "message": "Change namespace and ingress for production deployment\n"
+  }
 }

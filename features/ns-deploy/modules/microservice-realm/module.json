@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-realm.git",
   "fullname": "microservice-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Root realm with the namespace, ingress and base services",
   "created": 1572910895,
   "updated": 1572910895,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8d3678d527325b9624076833f8ea693896a7d878",
+    "message": "Change namespace and ingress for production deployment\n"
+  }
 }

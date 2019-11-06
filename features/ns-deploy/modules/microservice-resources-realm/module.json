@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1572964252,
   "updated": 1572964252,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "bd505d863cd5113f95981a45e2e286e7fdfd41e7",
+    "message": "Change namespace and ingress for production deployment\n"
+  }
 }
