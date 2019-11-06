@@ -1,0 +1,20 @@
+{
+  "releaseid": "ns-deploy",
+  "moduleid": "microservice-certificates-container",
+  "version": "1.70.1-master",
+  "fullname": "repoflow/microservice-certificates-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-certificates-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "65a43ed23350c20e963567c3bade8b62357d8a69",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the certificate generation cronjob",
+  "dependencies": [],
+  "created": 1573077956,
+  "updated": 1573077956,
+  "status": "active"
+}
