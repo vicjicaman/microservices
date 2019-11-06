@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-container",
+  "mode": "prod",
+  "version": "1.70.0-ns-deploy-prod",
+  "fullname": "repoflow/microservice-resources-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-resources-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5b5940c352a8fca015e5e738e6fbdfc2e99caa76",
+    "message": "Change namespace and ingress for production deployment\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573071121,
+  "updated": 1573071121,
+  "status": "active"
+}

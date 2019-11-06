@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-config",
+  "mode": "prod",
+  "version": "1.70.0-ns-deploy-prod",
+  "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-resources-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2558cc8c798ba5dd3d260f36ece772fdc9a49847",
+    "message": "Change namespace and ingress for production deployment\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573071121,
+  "updated": 1573071121,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-ns-deploy-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bd505d863cd5113f95981a45e2e286e7fdfd41e7",
+    "message": "Change namespace and ingress for production deployment\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573071121,
+  "updated": 1573071121,
+  "status": "active"
+}
