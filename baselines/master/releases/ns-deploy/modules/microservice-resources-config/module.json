@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-resources-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-resources-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5facb400d19eb4c48e8c4e33cc4400eed7e8b158",
+    "message": "Sync to release\n"
+  },
   "released": {
     "commitid": "c40797839f3a840786baa64a24fca468846dbb69",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c62565bffdceeb8fbc1b40ed5dd184a070a1dc69",
+    "message": "RELEASE:ns-deploy:1.70.6-master\n"
+  },
   "releaseType": "patch",
   "description": "Configuration for the common resources service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1573077956,
   "updated": 1573077956,
   "status": "active"

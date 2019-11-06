@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-resources-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-resources-container.git",
+  "fullname": "repoflow/microservice-resources-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the common resources service",
+  "created": 1573011210,
+  "updated": 1573011210,
+  "status": "active",
+  "commit": {
+    "commitid": "f27f7167dccf90cf512a0d66c9199f0448962a34",
+    "message": "ITERATION:1\n"
+  }
+}

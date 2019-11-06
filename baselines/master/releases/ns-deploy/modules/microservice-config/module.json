@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "20a02e5b7246e445c43abc1b6b8365cc7ee79c93",
+    "message": "Change to blog repoflow namespace\n"
+  },
   "released": {
     "commitid": "20a02e5b7246e445c43abc1b6b8365cc7ee79c93",
     "message": "Change to blog repoflow namespace\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "3a61b4dd555114e28bb38c1141a890ca481d8247",
+    "message": "RELEASE:ns-deploy:1.70.3-master\n"
+  },
   "releaseType": "patch",
   "description": "General configuration for microservices",
   "dependencies": [],

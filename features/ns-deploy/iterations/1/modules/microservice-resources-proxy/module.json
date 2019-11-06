@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-resources-proxy",
+  "mode": "prod",
+  "version": "1.70.0-ns-deploy-prod",
+  "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "type": "folder",
+  "url": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "publish": {
+    "commitid": "3c364207030f58e95399e8e4de53c2c5f5e01b89",
+    "message": "Change namespace and ingress for production deployment\n"
+  },
+  "iterate": {
+    "commitid": "3c364207030f58e95399e8e4de53c2c5f5e01b89",
+    "message": "Change namespace and ingress for production deployment\n"
+  },
+  "mergeback": {
+    "commitid": "3c364207030f58e95399e8e4de53c2c5f5e01b89",
+    "message": "Change namespace and ingress for production deployment\n"
+  },
+  "releasedOn": 1,
+  "created": 1573071121,
+  "updated": 1573071121,
+  "status": "active"
+}

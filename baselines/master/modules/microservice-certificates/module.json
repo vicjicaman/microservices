@@ -2,6 +2,15 @@
   "moduleid": "microservice-certificates",
   "releases": [
     {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
       "releaseid": "ssl-job"
     }
   ],
@@ -13,12 +22,12 @@
       "moduleid": "microservice-certificates-container",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-certificates",
+          "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-certificates",
-          "version": "1.70.0-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-certificates"
+          "version": "1.70.1-master",
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
         }
       ]
     }
@@ -30,10 +39,23 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
           "fullname": "@nebulario/microservice-utils",
-          "version": "^1.70.0-master",
+          "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
         }
       ]
     }

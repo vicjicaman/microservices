@@ -1,0 +1,33 @@
+{
+  "moduleid": "microservice-resources-proxy",
+  "releases": [
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    }
+  ],
+  "created": 1573078962,
+  "updated": 1573078962,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-resources-container",
+      "references": [
+        {
+          "dependencyid": "dependency|container.json|source",
+          "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+          "version": "1.70.0-master",
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
+        }
+      ]
+    }
+  ],
+  "dependents": []
+}

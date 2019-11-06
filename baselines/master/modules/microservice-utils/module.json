@@ -62,12 +62,25 @@
       ]
     },
     {
+      "moduleid": "microservice-blog-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
+          "fullname": "@nebulario/microservice-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-certificates",
       "references": [
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
           "fullname": "@nebulario/microservice-utils",
-          "version": "^1.70.0-master",
+          "version": "1.70.0-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-utils"

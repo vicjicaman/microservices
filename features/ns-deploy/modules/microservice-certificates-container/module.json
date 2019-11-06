@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-certificates-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-certificates-container.git",
+  "fullname": "repoflow/microservice-certificates-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the certificate generation cronjob",
+  "created": 1572931203,
+  "updated": 1572931203,
+  "status": "active",
+  "commit": {
+    "commitid": "65a43ed23350c20e963567c3bade8b62357d8a69",
+    "message": "ITERATION:1\n"
+  }
+}

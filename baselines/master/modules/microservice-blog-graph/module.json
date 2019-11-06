@@ -27,7 +27,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-graph",
           "fullname": "@nebulario/microservice-blog-graph",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "app",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-blog-graph"
@@ -55,7 +55,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-graph-common",
           "fullname": "@nebulario/microservice-graph-common",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-graph-common"
@@ -72,6 +72,19 @@
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
         }
       ]
     }

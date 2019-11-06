@@ -2,6 +2,15 @@
   "moduleid": "microservice-resources-config",
   "releases": [
     {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
       "releaseid": "rm-cache-vol"
     },
     {
@@ -103,6 +112,19 @@
       ]
     },
     {
+      "moduleid": "microservice-resources-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+          "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+          "version": "1.70.6-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-resources-config.version"
+        }
+      ]
+    },
+    {
       "moduleid": "microservice-resources-service",
       "references": [
         {
@@ -123,7 +145,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
           "fullname": "github.com:vicjicaman/microservice-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"

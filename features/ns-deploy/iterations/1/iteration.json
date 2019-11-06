@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-certificates-container",
+    "microservice-certificates",
+    "microservice-resources-container",
+    "microservice-resources-proxy",
+    "microservice-resources-config",
+    "microservice-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-realm",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    },
+    {
+      "moduleid": "microservice-certificates-container",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    },
+    {
+      "moduleid": "microservice-certificates",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    },
+    {
+      "moduleid": "microservice-resources-container",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    },
+    {
+      "moduleid": "microservice-resources-proxy",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    },
+    {
+      "moduleid": "microservice-resources-config",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    },
+    {
+      "moduleid": "microservice-config",
+      "iterationid": 1,
+      "version": "1.70.0-ns-deploy-prod"
+    }
+  ],
+  "created": 1573071120,
+  "updated": 1573071120,
+  "status": "active"
+}

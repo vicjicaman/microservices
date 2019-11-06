@@ -2,6 +2,15 @@
   "moduleid": "microservice-realm",
   "releases": [
     {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
+      "releaseid": "ns-deploy"
+    },
+    {
       "releaseid": "s3-queue"
     },
     {
@@ -18,5 +27,32 @@
   "updated": 1570055778,
   "status": "active",
   "dependants": [],
-  "dependents": []
+  "dependents": [
+    {
+      "moduleid": "microservice-certificates-container",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/cronjob/cronjob.yaml|spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-certificates-container",
+          "version": "1.70.1-master",
+          "kind": "container",
+          "filename": "entities/cronjob/cronjob.yaml",
+          "path": "spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-config",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+          "fullname": "github.com:vicjicaman/microservice-config.git",
+          "version": "1.70.3-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-config.version"
+        }
+      ]
+    }
+  ]
 }
