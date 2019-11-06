@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "20a02e5b7246e445c43abc1b6b8365cc7ee79c93",
+    "message": "Change to blog repoflow namespace\n"
+  },
   "iterate": {
     "commitid": "20a02e5b7246e445c43abc1b6b8365cc7ee79c93",
     "message": "Change to blog repoflow namespace\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "20a02e5b7246e445c43abc1b6b8365cc7ee79c93",
+    "message": "Change to blog repoflow namespace\n"
+  },
   "releasedOn": 1,
   "created": 1573071121,
   "updated": 1573071121,

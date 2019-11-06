@@ -5,12 +5,18 @@
   "fullname": "microservice-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "774a47e6fe67ca40720f12abb16c4c444eaa21e2",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "8d3678d527325b9624076833f8ea693896a7d878",
     "message": "Change namespace and ingress for production deployment\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "14c2b684f10bedceadae28ad1bebe71bb0abfedf",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1573071120,
   "updated": 1573071120,
