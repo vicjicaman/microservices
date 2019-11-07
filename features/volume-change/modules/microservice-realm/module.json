@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-realm.git",
+  "fullname": "microservice-realm",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Root realm with the namespace, ingress and base services",
+  "created": 1573141968,
+  "updated": 1573141968,
+  "status": "active"
+}
