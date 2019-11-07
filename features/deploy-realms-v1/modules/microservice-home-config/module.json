@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-home-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-home-config.git",
+  "fullname": "github.com:vicjicaman/microservice-home-config.git",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Config params for home microservices",
+  "created": 1573163988,
+  "updated": 1573163988,
+  "status": "active"
+}
