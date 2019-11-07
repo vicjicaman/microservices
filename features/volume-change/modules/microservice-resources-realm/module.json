@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1573143934,
   "updated": 1573143934,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4d7c9a64d75123f787990b1c74eec77d4474bbcc",
+    "message": "Change to local-storage for production\n"
+  }
 }
