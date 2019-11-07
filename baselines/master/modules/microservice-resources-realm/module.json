@@ -2,6 +2,9 @@
   "moduleid": "microservice-resources-realm",
   "releases": [
     {
+      "releaseid": "volume-change"
+    },
+    {
       "releaseid": "ns-deploy"
     },
     {

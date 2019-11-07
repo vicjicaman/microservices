@@ -1,6 +1,6 @@
 {
   "releaseid": "volume-change",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-realm",
     "microservice-resources-realm"

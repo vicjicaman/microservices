@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-realm",
+  "mode": "prod",
+  "version": "1.70.0-volume-change-prod",
+  "fullname": "microservice-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-realm.git",
+  "publish": {
+    "commitid": "17598f9533895fddb30e9d563b2079372a10af29",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "9c313f9320e6439ce041fa3c9f28677db47330e2",
+    "message": "Change to local-storage for production\n"
+  },
+  "mergeback": {
+    "commitid": "632e685d607859a8177d237f2b52c8c184ca2393",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1573147161,
+  "updated": 1573147161,
+  "status": "active"
+}
