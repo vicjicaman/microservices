@@ -1,0 +1,23 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-realm",
+    "microservice-resources-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-realm",
+      "iterationid": 1,
+      "version": "1.70.0-volume-change-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-volume-change-prod"
+    }
+  ],
+  "created": 1573147161,
+  "updated": 1573147161,
+  "status": "active"
+}
