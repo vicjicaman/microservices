@@ -1,0 +1,20 @@
+{
+  "releaseid": "volume-change",
+  "moduleid": "microservice-resources-realm",
+  "version": "1.70.7-master",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "43aceb356b52c9606f2e7e07459edd80f2d68738",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Realm for common services and resources",
+  "dependencies": [],
+  "created": 1573147855,
+  "updated": 1573147855,
+  "status": "active"
+}
