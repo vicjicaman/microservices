@@ -5,15 +5,46 @@
   "fullname": "microservice-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "03841b2ed9f35d2d72e8a5bcd2783d78113f6a4d",
+    "message": "Publish modifications\n"
+  },
   "released": {
     "commitid": "632e685d607859a8177d237f2b52c8c184ca2393",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "cfac79d897531309e4c1b16774addcfc859ebc79",
+    "message": "RELEASE:volume-change:1.70.5-master\n"
+  },
   "releaseType": "patch",
   "description": "Root realm with the namespace, ingress and base services",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "inner|entities/cronjob/cronjob.yaml|metadata.labels.version",
+      "fullname": "microservice-realm",
+      "version": "1.70.5-master",
+      "kind": "inner",
+      "filename": "entities/cronjob/cronjob.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/cronjob/cronjob.yaml|spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-certificates-container",
+      "version": "1.70.1-master",
+      "kind": "container",
+      "filename": "entities/cronjob/cronjob.yaml",
+      "path": "spec.jobTemplate.spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1573147855,
   "updated": 1573147855,
   "status": "active"
