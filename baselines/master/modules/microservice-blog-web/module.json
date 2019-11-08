@@ -19,12 +19,12 @@
       "moduleid": "microservice-blog-web-container",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-web",
+          "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-blog-web",
           "version": "1.70.2-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-blog-web"
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
         }
       ]
     }

@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-web-container",
   "releases": [
     {
+      "releaseid": "blog-auth-container-update-v1"
+    },
+    {
       "releaseid": "email-validation"
     },
     {
@@ -50,12 +53,12 @@
       "moduleid": "microservice-blog-web",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-web",
+          "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-blog-web",
           "version": "1.70.2-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-blog-web"
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
         }
       ]
     }

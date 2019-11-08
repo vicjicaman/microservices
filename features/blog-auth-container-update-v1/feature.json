@@ -1,0 +1,8 @@
+{
+  "featureid": "blog-auth-container-update-v1",
+  "baselineid": "master",
+  "description": "Update containers to the source/dist structure",
+  "created": 1573186798,
+  "updated": 1573186798,
+  "status": "active"
+}

@@ -1,0 +1,43 @@
+{
+  "releaseid": "blog-auth-container-update-v1",
+  "moduleid": "microservice-blog-web-container",
+  "version": "1.70.4-master",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": {
+    "commitid": "3bb6cb6aa3df0560f8d094a10ebc3ed0c2d02118",
+    "message": "Sync to release\n"
+  },
+  "released": {
+    "commitid": "a022768bad3cc30467c0d915dd999159ad225169",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "242663654801021ce015d99c0fcba13f5771bac3",
+    "message": "RELEASE:blog-auth-container-update-v1:1.70.4-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container for the blog web service",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-blog-web-container",
+      "version": "1.70.4-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|container.json|source",
+      "fullname": "@nebulario/microservice-blog-web",
+      "version": "1.70.2-master",
+      "kind": "source",
+      "filename": "container.json",
+      "path": "source.version"
+    }
+  ],
+  "created": 1573193138,
+  "updated": 1573193138,
+  "status": "active"
+}

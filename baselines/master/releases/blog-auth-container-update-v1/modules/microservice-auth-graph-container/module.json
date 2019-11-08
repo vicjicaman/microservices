@@ -1,0 +1,43 @@
+{
+  "releaseid": "blog-auth-container-update-v1",
+  "moduleid": "microservice-auth-graph-container",
+  "version": "1.70.9-master",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": {
+    "commitid": "1f8b37881fac5355c95b5f599335cf493ac89a2d",
+    "message": "Sync to release\n"
+  },
+  "released": {
+    "commitid": "c5b68cadc82b066a3e6223a4686f2835e0d2e561",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "73d8cbc3c9be162678f0f3d285d16b732cb14156",
+    "message": "RELEASE:blog-auth-container-update-v1:1.70.9-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container for the auth graph",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-auth-graph-container",
+      "version": "1.70.9-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|container.json|source",
+      "fullname": "@nebulario/microservice-auth-graph",
+      "version": "1.70.8-master",
+      "kind": "source",
+      "filename": "container.json",
+      "path": "source.version"
+    }
+  ],
+  "created": 1573193137,
+  "updated": 1573193137,
+  "status": "active"
+}
