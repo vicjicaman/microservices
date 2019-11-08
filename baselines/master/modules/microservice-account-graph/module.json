@@ -31,12 +31,12 @@
       "moduleid": "microservice-account-graph-container",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-account-graph",
+          "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-account-graph",
           "version": "1.70.6-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-account-graph"
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
         }
       ]
     }

@@ -25,12 +25,12 @@
       "moduleid": "microservice-blog-graph-container",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-blog-graph",
+          "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-blog-graph",
           "version": "1.70.4-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-blog-graph"
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
         }
       ]
     }
