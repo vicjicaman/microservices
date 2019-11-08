@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-config.git",
   "fullname": "github.com:vicjicaman/microservice-blog-config.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Config for blog graph and web services",
   "created": 1573163980,
   "updated": 1573163980,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "787533e856d600383bb83f1da810a4bb980357d9",
+    "message": "Update config,namespace and containers to latest version\n"
+  }
 }

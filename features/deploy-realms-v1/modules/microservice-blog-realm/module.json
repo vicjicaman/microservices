@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
   "fullname": "microservice-blog-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Blog realm for the services and kubernetes entities",
   "created": 1573161398,
   "updated": 1573161398,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6a19f2fe0a7926c925fcf5a0b3e578519302091c",
+    "message": "Change to local-storage for temporal production deploy\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-realm.git",
   "fullname": "microservice-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Root realm with the namespace, ingress and base services",
   "created": 1573161383,
   "updated": 1573161383,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "523dd2dc1d7f043b46a470fd78beb85ac799fb08",
+    "message": "Change to local-storage for temporal production deploy\n"
+  }
 }

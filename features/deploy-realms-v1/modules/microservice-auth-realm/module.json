@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
   "fullname": "microservice-auth-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes entities for functionality related to auth",
   "created": 1573161374,
   "updated": 1573161374,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "1b7931e134e2961fed534610f85aaae1593b1697",
+    "message": "Change to local-storage for temporal production deploy\n"
+  }
 }
