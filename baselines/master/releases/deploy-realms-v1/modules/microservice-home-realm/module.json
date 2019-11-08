@@ -1,0 +1,20 @@
+{
+  "releaseid": "deploy-realms-v1",
+  "moduleid": "microservice-home-realm",
+  "version": "1.70.4-master",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "7e863af7430315a7252a3f33ac97563e451b5250",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Entities for the home services and entities kubernetes realm",
+  "dependencies": [],
+  "created": 1573234211,
+  "updated": 1573234211,
+  "status": "active"
+}
