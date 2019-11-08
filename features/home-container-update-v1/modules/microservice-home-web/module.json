@@ -12,5 +12,9 @@
   "description": "Home web app functionality",
   "created": 1573180833,
   "updated": 1573180833,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "139e9e392be3c9dfbbd6a0cf442f22fd0bd4b9f5",
+    "message": "Merge remote-tracking branch 'origin/s3-queue/master' into home-container-update-v1/master\n"
+  }
 }

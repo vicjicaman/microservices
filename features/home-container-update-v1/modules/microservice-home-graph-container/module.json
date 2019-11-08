@@ -12,5 +12,9 @@
   "description": "Container for the home service",
   "created": 1573165246,
   "updated": 1573165246,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "7b8cc9d8b435d6bbb338f73a792eedeef72ae477",
+    "message": "Update container to source based content\n"
+  }
 }
