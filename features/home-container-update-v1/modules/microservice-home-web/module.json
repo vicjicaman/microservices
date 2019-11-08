@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web.git",
   "fullname": "@nebulario/microservice-home-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
