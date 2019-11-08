@@ -1,0 +1,14 @@
+{
+  "releaseid": "blog-auth-container-update-v1",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-account-graph-container",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-blog-graph-container",
+    "microservice-blog-web-container"
+  ],
+  "created": 1573193136,
+  "updated": 1573193136,
+  "status": "active"
+}
