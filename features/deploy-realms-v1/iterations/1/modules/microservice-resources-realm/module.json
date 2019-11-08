@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-deploy-realms-v1-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5384b600aae0b40160c5ce42d1eea5b47f5c2ff4",
+    "message": "Change to local-storage for temporal production deploy\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573232260,
+  "updated": 1573232260,
+  "status": "active"
+}

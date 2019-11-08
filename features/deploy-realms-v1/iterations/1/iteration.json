@@ -1,0 +1,59 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-blog-config",
+    "microservice-home-config",
+    "microservice-auth-config"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    },
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    },
+    {
+      "moduleid": "microservice-home-realm",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    },
+    {
+      "moduleid": "microservice-realm",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    },
+    {
+      "moduleid": "microservice-blog-config",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    },
+    {
+      "moduleid": "microservice-home-config",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "iterationid": 1,
+      "version": "1.70.0-deploy-realms-v1-prod"
+    }
+  ],
+  "created": 1573232260,
+  "updated": 1573232260,
+  "status": "active"
+}

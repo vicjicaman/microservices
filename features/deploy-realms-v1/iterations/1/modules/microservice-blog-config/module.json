@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-config",
+  "mode": "prod",
+  "version": "1.70.0-deploy-realms-v1-prod",
+  "fullname": "github.com:vicjicaman/microservice-blog-config.git",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-blog-config.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "787533e856d600383bb83f1da810a4bb980357d9",
+    "message": "Update config,namespace and containers to latest version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573232260,
+  "updated": 1573232260,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.0-deploy-realms-v1-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "1b7931e134e2961fed534610f85aaae1593b1697",
+    "message": "Change to local-storage for temporal production deploy\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573232260,
+  "updated": 1573232260,
+  "status": "active"
+}
