@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-config",
   "releases": [
     {
+      "releaseid": "deploy-realms-v1"
+    },
+    {
       "releaseid": "home-intro"
     },
     {
@@ -25,6 +28,19 @@
           "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
           "fullname": "github.com:vicjicaman/microservice-home-config.git",
           "version": "1.70.1-master",
+          "kind": "config",
+          "filename": "config.json",
+          "path": "dependencies.microservice-home-config.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-home-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|config.json|dependencies.microservice-home-config.version",
+          "fullname": "github.com:vicjicaman/microservice-home-config.git",
+          "version": "1.70.4-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-home-config.version"
@@ -78,7 +94,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
           "fullname": "github.com:vicjicaman/microservice-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"

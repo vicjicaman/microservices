@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-home-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e67d36f1c85663befb639883154071f2303e4efd",
+    "message": "Update config,namespace and containers to latest version\n"
+  },
   "released": {
     "commitid": "e67d36f1c85663befb639883154071f2303e4efd",
     "message": "Update config,namespace and containers to latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "efd8de0d6584d2fc6f0180eeb10fc61bfff268b7",
+    "message": "RELEASE:deploy-realms-v1:1.70.4-master\n"
+  },
   "releaseType": "patch",
   "description": "Config params for home microservices",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1573234211,
   "updated": 1573234211,
   "status": "active"

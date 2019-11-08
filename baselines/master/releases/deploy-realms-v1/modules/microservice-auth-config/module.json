@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "c0a2a5dcb0efd83996c4c0db79ede4e0734f9cf8",
+    "message": "Update config,namespace and containers to latest version\n"
+  },
   "released": {
     "commitid": "c0a2a5dcb0efd83996c4c0db79ede4e0734f9cf8",
     "message": "Update config,namespace and containers to latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "775e29e567065368a64c73c6bbedaa6f6b57a0c3",
+    "message": "RELEASE:deploy-realms-v1:1.70.8-master\n"
+  },
   "releaseType": "patch",
   "description": "General configuration for auth service, web, graph and others",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1573234211,
   "updated": 1573234211,
   "status": "active"
