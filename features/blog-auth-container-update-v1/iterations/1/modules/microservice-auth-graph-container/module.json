@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-auth-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "67458487cc7af62cf52e32d2ae14754902fcc3b5",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "3baca02755d182b9df30949f51359160f1de2a2d",
     "message": "Update container to the source/dist changes\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c5b68cadc82b066a3e6223a4686f2835e0d2e561",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1573190121,
   "updated": 1573190121,
