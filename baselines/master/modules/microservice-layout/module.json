@@ -55,6 +55,19 @@
       ]
     },
     {
+      "moduleid": "microservice-home-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
+          "fullname": "@nebulario/microservice-layout",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-layout"
+        }
+      ]
+    },
+    {
       "moduleid": "microservices-auth-web",
       "references": [
         {

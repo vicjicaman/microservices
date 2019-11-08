@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-web-container",
+  "mode": "prod",
+  "version": "1.70.0-home-container-update-v1-prod",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": {
+    "commitid": "b53ad66a0640e962a6f9dd1f0e8f104049f57e60",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "65677d84c6148ecaefcdc9ad76e347a5eeffe442",
+    "message": "Update container to source based content\n"
+  },
+  "mergeback": {
+    "commitid": "25be959e2ccfe9373e46525aa1f521fb4c8dee66",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1573184999,
+  "updated": 1573184999,
+  "status": "active"
+}

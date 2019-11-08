@@ -1,0 +1,43 @@
+{
+  "releaseid": "home-container-update-v1",
+  "moduleid": "microservice-home-web-container",
+  "version": "1.70.4-master",
+  "fullname": "repoflow/microservice-home-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-web-container.git",
+  "publish": {
+    "commitid": "41a92ad0afe30f1c10f60c326a0e5782dd8cb03b",
+    "message": "Sync to release version\n"
+  },
+  "released": {
+    "commitid": "25be959e2ccfe9373e46525aa1f521fb4c8dee66",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "639f7e7bc9090a856e159e66e80f3e9a7727bb99",
+    "message": "RELEASE:home-container-update-v1:1.70.4-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Container for home web app",
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-home-web-container",
+      "version": "1.70.4-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|container.json|source",
+      "fullname": "@nebulario/microservice-home-web",
+      "version": "1.70.4-master",
+      "kind": "source",
+      "filename": "container.json",
+      "path": "source.version"
+    }
+  ],
+  "created": 1573185561,
+  "updated": 1573185561,
+  "status": "active"
+}

@@ -1,0 +1,13 @@
+{
+  "releaseid": "home-container-update-v1",
+  "phase": "released",
+  "hierarchy": [
+    "microservice-home-graph-container",
+    "microservice-home-web-container",
+    "microservice-home-graph",
+    "microservice-home-web"
+  ],
+  "created": 1573185560,
+  "updated": 1573185560,
+  "status": "active"
+}
