@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "mode": "prod",
+  "version": "1.70.0-blog-auth-container-update-v1-prod",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "bbac065da924bf62f50a3d9aff2f94a4c18566ed",
+    "message": "Update container to the source/dist changes\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573190121,
+  "updated": 1573190121,
+  "status": "active"
+}
