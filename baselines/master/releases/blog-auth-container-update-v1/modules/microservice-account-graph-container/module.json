@@ -1,0 +1,20 @@
+{
+  "releaseid": "blog-auth-container-update-v1",
+  "moduleid": "microservice-account-graph-container",
+  "version": "1.70.7-master",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "fdc6b87fc64773890b5b9a4d6b76ccbcbd39e315",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the account graph",
+  "dependencies": [],
+  "created": 1573193137,
+  "updated": 1573193137,
+  "status": "active"
+}
