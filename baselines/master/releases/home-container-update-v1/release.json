@@ -1,6 +1,6 @@
 {
   "releaseid": "home-container-update-v1",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-home-graph-container",
     "microservice-home-web-container",

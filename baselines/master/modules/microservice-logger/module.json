@@ -89,6 +89,32 @@
           "path": "dependencies.@nebulario/microservice-logger"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-home-web",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
+        }
+      ]
     }
   ],
   "dependents": []

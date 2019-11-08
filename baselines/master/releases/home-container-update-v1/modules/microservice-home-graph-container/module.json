@@ -5,15 +5,38 @@
   "fullname": "repoflow/microservice-home-graph-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-home-graph-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e9620b9428bef69e4537e23de48656d9b54e97e3",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "0fdb803d9732fc2c55be5c9d47b499ceff4efd76",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "44893dbee68bd3b06b4787a358a4c4b849d621b7",
+    "message": "RELEASE:home-container-update-v1:1.70.5-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the home service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-home-graph-container",
+      "version": "1.70.5-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|container.json|source",
+      "fullname": "@nebulario/microservice-home-graph",
+      "version": "1.70.5-master",
+      "kind": "source",
+      "filename": "container.json",
+      "path": "source.version"
+    }
+  ],
   "created": 1573185561,
   "updated": 1573185561,
   "status": "active"

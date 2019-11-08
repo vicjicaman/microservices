@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-graph-container",
   "releases": [
     {
+      "releaseid": "home-container-update-v1"
+    },
+    {
       "releaseid": "s3-queue"
     },
     {
@@ -35,5 +38,19 @@
       ]
     }
   ],
-  "dependents": []
+  "dependents": [
+    {
+      "moduleid": "microservice-home-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|container.json|source",
+          "fullname": "@nebulario/microservice-home-graph",
+          "version": "1.70.5-master",
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
+        }
+      ]
+    }
+  ]
 }

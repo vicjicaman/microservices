@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-web",
   "releases": [
     {
+      "releaseid": "home-container-update-v1"
+    },
+    {
       "releaseid": "s3-queue"
     },
     {
@@ -17,6 +20,60 @@
   "created": 1569353325,
   "updated": 1569353325,
   "status": "active",
-  "dependants": [],
-  "dependents": []
+  "dependants": [
+    {
+      "moduleid": "microservice-home-web-container",
+      "references": [
+        {
+          "dependencyid": "dependency|container.json|source",
+          "fullname": "@nebulario/microservice-home-web",
+          "version": "1.70.4-master",
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-layout",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
+          "fullname": "@nebulario/microservice-layout",
+          "version": "1.70.2-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-layout"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-logger",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
+          "fullname": "@nebulario/microservice-logger",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-logger"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-utils",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-utils",
+          "fullname": "@nebulario/microservice-utils",
+          "version": "1.70.0-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-utils"
+        }
+      ]
+    }
+  ]
 }
