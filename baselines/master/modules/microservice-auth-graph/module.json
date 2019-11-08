@@ -37,12 +37,12 @@
       "moduleid": "microservice-auth-graph-container",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-graph",
+          "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-auth-graph",
           "version": "1.70.8-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-auth-graph"
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
         }
       ]
     }

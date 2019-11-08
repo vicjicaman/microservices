@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "prod",
+  "version": "1.70.0-blog-auth-container-update-v1-prod",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": {
+    "commitid": "1d12d7fbfbe25ed1f0aec54a5d7ccdb1dcde358f",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "5b69e9b4cbc65c67829385805a04491aef185f65",
+    "message": "Update container to the source/dist changes\n"
+  },
+  "mergeback": {
+    "commitid": "a022768bad3cc30467c0d915dd999159ad225169",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1573190121,
+  "updated": 1573190121,
+  "status": "active"
+}

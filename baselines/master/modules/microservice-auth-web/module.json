@@ -19,12 +19,12 @@
       "moduleid": "microservice-auth-web-container",
       "references": [
         {
-          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-web",
+          "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-auth-web",
           "version": "1.70.2-master",
-          "kind": "app",
-          "filename": "package.json",
-          "path": "dependencies.@nebulario/microservice-auth-web"
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
         }
       ]
     }

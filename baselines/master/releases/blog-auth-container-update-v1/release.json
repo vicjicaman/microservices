@@ -1,6 +1,6 @@
 {
   "releaseid": "blog-auth-container-update-v1",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-account-graph-container",
     "microservice-auth-graph-container",
