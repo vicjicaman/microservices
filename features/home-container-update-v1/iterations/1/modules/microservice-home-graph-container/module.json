@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-home-container-update-v1-prod",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "7b8cc9d8b435d6bbb338f73a792eedeef72ae477",
+    "message": "Update container to source based content\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573184999,
+  "updated": 1573184999,
+  "status": "active"
+}

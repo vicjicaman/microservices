@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-web",
+  "mode": "prod",
+  "version": "1.70.0-home-container-update-v1-prod",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "5a44e6ca8f88cbc99cc6ea1a02d5ce58e82482b9",
+    "message": "Merge s3 missing changes\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1573184999,
+  "updated": 1573184999,
+  "status": "active"
+}

@@ -1,0 +1,35 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-home-graph-container",
+    "microservice-home-web-container",
+    "microservice-home-graph",
+    "microservice-home-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-home-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-home-container-update-v1-prod"
+    },
+    {
+      "moduleid": "microservice-home-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-home-container-update-v1-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "iterationid": 1,
+      "version": "1.70.0-home-container-update-v1-prod"
+    },
+    {
+      "moduleid": "microservice-home-web",
+      "iterationid": 1,
+      "version": "1.70.0-home-container-update-v1-prod"
+    }
+  ],
+  "created": 1573184999,
+  "updated": 1573184999,
+  "status": "active"
+}
