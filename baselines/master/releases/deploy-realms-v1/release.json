@@ -1,0 +1,17 @@
+{
+  "releaseid": "deploy-realms-v1",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-realm",
+    "microservice-resources-realm",
+    "microservice-blog-config",
+    "microservice-home-config",
+    "microservice-auth-config"
+  ],
+  "created": 1573234210,
+  "updated": 1573234210,
+  "status": "active"
+}

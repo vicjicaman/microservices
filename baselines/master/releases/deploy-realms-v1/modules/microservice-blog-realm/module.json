@@ -1,0 +1,20 @@
+{
+  "releaseid": "deploy-realms-v1",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.6-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "68bf41cebb632a196cb94849e70e965f84e227f0",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1573234211,
+  "updated": 1573234211,
+  "status": "active"
+}

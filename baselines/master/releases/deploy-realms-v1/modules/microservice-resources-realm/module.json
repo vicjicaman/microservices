@@ -1,0 +1,20 @@
+{
+  "releaseid": "deploy-realms-v1",
+  "moduleid": "microservice-resources-realm",
+  "version": "1.70.8-master",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "1e3cded7b2029a89dbb7f41a4654084bd9890df2",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Realm for common services and resources",
+  "dependencies": [],
+  "created": 1573234211,
+  "updated": 1573234211,
+  "status": "active"
+}
