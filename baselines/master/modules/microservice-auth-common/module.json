@@ -37,6 +37,19 @@
           "path": "dependencies.@nebulario/microservice-auth-common"
         }
       ]
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "references": [
+        {
+          "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-auth-common",
+          "fullname": "@nebulario/microservice-auth-common",
+          "version": "1.70.1-master",
+          "kind": "dependency",
+          "filename": "package.json",
+          "path": "dependencies.@nebulario/microservice-auth-common"
+        }
+      ]
     }
   ],
   "dependents": []

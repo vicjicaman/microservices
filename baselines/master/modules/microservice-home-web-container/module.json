@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-web-container",
   "releases": [
     {
+      "releaseid": "home-container-update-v1"
+    },
+    {
       "releaseid": "s3-queue"
     },
     {
@@ -32,5 +35,19 @@
       ]
     }
   ],
-  "dependents": []
+  "dependents": [
+    {
+      "moduleid": "microservice-home-web",
+      "references": [
+        {
+          "dependencyid": "dependency|container.json|source",
+          "fullname": "@nebulario/microservice-home-web",
+          "version": "1.70.4-master",
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
+        }
+      ]
+    }
+  ]
 }
