@@ -14,7 +14,7 @@
   "updated": 1573161398,
   "status": "active",
   "commit": {
-    "commitid": "6a19f2fe0a7926c925fcf5a0b3e578519302091c",
-    "message": "Change to local-storage for temporal production deploy\n"
+    "commitid": "68bf41cebb632a196cb94849e70e965f84e227f0",
+    "message": "ITERATION:1\n"
   }
 }

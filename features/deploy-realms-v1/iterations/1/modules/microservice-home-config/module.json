@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-home-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-home-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "e67d36f1c85663befb639883154071f2303e4efd",
+    "message": "Update config,namespace and containers to latest version\n"
+  },
   "iterate": {
     "commitid": "e67d36f1c85663befb639883154071f2303e4efd",
     "message": "Update config,namespace and containers to latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e67d36f1c85663befb639883154071f2303e4efd",
+    "message": "Update config,namespace and containers to latest version\n"
+  },
   "releasedOn": 1,
   "created": 1573232260,
   "updated": 1573232260,

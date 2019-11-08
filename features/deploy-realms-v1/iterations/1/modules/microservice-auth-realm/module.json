@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "22302c73058d2e19bd1915115db47c8dfad668dd",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "1b7931e134e2961fed534610f85aaae1593b1697",
     "message": "Change to local-storage for temporal production deploy\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "2c4f72d5c2f9e492fff695da48597436b99e733a",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1573232260,
   "updated": 1573232260,
