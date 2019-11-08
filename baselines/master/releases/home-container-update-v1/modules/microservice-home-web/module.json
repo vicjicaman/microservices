@@ -1,0 +1,20 @@
+{
+  "releaseid": "home-container-update-v1",
+  "moduleid": "microservice-home-web",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "b377dc9c15c6417b319cdb7f36cb7ef9ef4b3519",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Home web app functionality",
+  "dependencies": [],
+  "created": 1573185561,
+  "updated": 1573185561,
+  "status": "active"
+}
