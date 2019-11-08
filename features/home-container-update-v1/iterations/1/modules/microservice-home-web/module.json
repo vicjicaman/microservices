@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a0573485b8137319d79b7996e2f0c9cee939085b",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "5a44e6ca8f88cbc99cc6ea1a02d5ce58e82482b9",
     "message": "Merge s3 missing changes\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b377dc9c15c6417b319cdb7f36cb7ef9ef4b3519",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1573184999,
   "updated": 1573184999,

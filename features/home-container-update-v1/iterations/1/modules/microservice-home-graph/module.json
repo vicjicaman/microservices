@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-graph",
-  "publish": null,
+  "publish": {
+    "commitid": "c68c55e4e909c750aaf54f828558682bb849db93",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "25dcd6cfc5d3765134ec5788da4405484174c73e",
     "message": "Merge s3 missing changes\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c77e1515410948f52675ee84cae8ba59b48142a1",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1573184999,
   "updated": 1573184999,
