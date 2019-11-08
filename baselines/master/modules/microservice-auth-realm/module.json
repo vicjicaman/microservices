@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-realm",
   "releases": [
     {
+      "releaseid": "deploy-realms-v1"
+    },
+    {
       "releaseid": "home-cluster-info"
     },
     {
@@ -37,7 +40,7 @@
         {
           "dependencyid": "dependency|entities/deployment/account.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-account-graph-container",
-          "version": "1.70.6-master",
+          "version": "1.70.7-master",
           "kind": "container",
           "filename": "entities/deployment/account.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -50,7 +53,7 @@
         {
           "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-graph-container",
-          "version": "1.70.8-master",
+          "version": "1.70.9-master",
           "kind": "container",
           "filename": "entities/deployment/graph.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -63,7 +66,7 @@
         {
           "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-web-container",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "container",
           "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -76,7 +79,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
           "fullname": "github.com:vicjicaman/microservice-config.git",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-config.version"
@@ -89,7 +92,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.7-master",
+          "version": "1.70.8-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
@@ -102,7 +105,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
           "fullname": "github.com:vicjicaman/microservice-resources-config.git",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-resources-config.version"

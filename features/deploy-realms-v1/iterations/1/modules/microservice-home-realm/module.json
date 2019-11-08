@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-realm",
+  "mode": "prod",
+  "version": "1.70.0-deploy-realms-v1-prod",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": {
+    "commitid": "b455e4a228151298ef6b7b48aeb2d24a42c0434a",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "824bff7ca43d1fc3d13f32e3cc6ab6596585b23b",
+    "message": "Update config,namespace and containers to latest version\n"
+  },
+  "mergeback": {
+    "commitid": "7e863af7430315a7252a3f33ac97563e451b5250",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1573232260,
+  "updated": 1573232260,
+  "status": "active"
+}

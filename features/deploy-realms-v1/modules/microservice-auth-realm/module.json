@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "fullname": "microservice-auth-realm",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Kubernetes entities for functionality related to auth",
+  "created": 1573161374,
+  "updated": 1573161374,
+  "status": "active",
+  "commit": {
+    "commitid": "2c4f72d5c2f9e492fff695da48597436b99e733a",
+    "message": "ITERATION:1\n"
+  }
+}

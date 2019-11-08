@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General configuration for auth service, web, graph and others",
+  "created": 1573163975,
+  "updated": 1573163975,
+  "status": "active",
+  "commit": {
+    "commitid": "c0a2a5dcb0efd83996c4c0db79ede4e0734f9cf8",
+    "message": "Update config,namespace and containers to latest version\n"
+  }
+}
