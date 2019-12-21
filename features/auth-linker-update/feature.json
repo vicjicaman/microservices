@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-linker-update",
+  "baselineid": "master",
+  "description": "Add the changes from the linker project to the blog",
+  "created": 1576948932,
+  "updated": 1576948932,
+  "status": "active"
+}
