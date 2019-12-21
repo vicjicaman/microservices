@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "fullname": "microservice-blog-realm",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Blog realm for the services and kubernetes entities",
+  "created": 1576945436,
+  "updated": 1576945436,
+  "status": "active"
+}
