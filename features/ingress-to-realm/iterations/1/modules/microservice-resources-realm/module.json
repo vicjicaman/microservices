@@ -5,12 +5,18 @@
   "fullname": "microservice-resources-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "3c38e9fa162d4016ba556c46e3e2e6d9c6f43016",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "2f05c2ad4327331018596da9265b88bcbc0c8e31",
     "message": "add limit-rps annotation\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "01390c2e385a0f930222628fcf35b53312543e00",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1577160738,
   "updated": 1577160738,

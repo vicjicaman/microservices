@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2614d058c44a5b56df5e218a633d107f21771b3a",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "575f2fc71abec79cbb91aa5c766c3f277e736ad9",
     "message": "add limit-rps annotation\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "cfe5d3244a892f444b1d38e74a232363ab773f51",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1577160738,
   "updated": 1577160738,
