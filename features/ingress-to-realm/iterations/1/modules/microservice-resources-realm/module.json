@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-ingress-to-realm-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "2f05c2ad4327331018596da9265b88bcbc0c8e31",
+    "message": "add limit-rps annotation\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1577160738,
+  "updated": 1577160738,
+  "status": "active"
+}

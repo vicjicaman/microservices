@@ -1,0 +1,41 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-realm",
+    "microservice-resources-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-ingress-to-realm-prod"
+    },
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-ingress-to-realm-prod"
+    },
+    {
+      "moduleid": "microservice-home-realm",
+      "iterationid": 1,
+      "version": "1.70.0-ingress-to-realm-prod"
+    },
+    {
+      "moduleid": "microservice-realm",
+      "iterationid": 1,
+      "version": "1.70.0-ingress-to-realm-prod"
+    },
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-ingress-to-realm-prod"
+    }
+  ],
+  "created": 1577160738,
+  "updated": 1577160738,
+  "status": "active"
+}

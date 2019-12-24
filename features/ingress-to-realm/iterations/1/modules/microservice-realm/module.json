@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-realm",
+  "mode": "prod",
+  "version": "1.70.0-ingress-to-realm-prod",
+  "fullname": "microservice-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f89b5d9c49cbc97880b9318da363e70e4fc86508",
+    "message": "Change env mode\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1577160738,
+  "updated": 1577160738,
+  "status": "active"
+}
