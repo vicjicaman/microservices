@@ -1,0 +1,20 @@
+{
+  "releaseid": "ingress-to-realm",
+  "moduleid": "microservice-resources-realm",
+  "version": "1.70.9-master",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "01390c2e385a0f930222628fcf35b53312543e00",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Realm for common services and resources",
+  "dependencies": [],
+  "created": 1577160993,
+  "updated": 1577160993,
+  "status": "active"
+}

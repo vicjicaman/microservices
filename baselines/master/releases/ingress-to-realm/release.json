@@ -1,0 +1,14 @@
+{
+  "releaseid": "ingress-to-realm",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-realm",
+    "microservice-resources-realm"
+  ],
+  "created": 1577160992,
+  "updated": 1577160992,
+  "status": "active"
+}
