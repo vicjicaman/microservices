@@ -1,0 +1,20 @@
+{
+  "releaseid": "ingress-to-realm",
+  "moduleid": "microservice-home-realm",
+  "version": "1.70.5-master",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "490cb63fa9ce769746d9add348c8d6cdfc31a8c3",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Entities for the home services and entities kubernetes realm",
+  "dependencies": [],
+  "created": 1577160992,
+  "updated": 1577160992,
+  "status": "active"
+}

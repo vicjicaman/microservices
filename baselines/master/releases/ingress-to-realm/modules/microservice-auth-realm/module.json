@@ -1,0 +1,20 @@
+{
+  "releaseid": "ingress-to-realm",
+  "moduleid": "microservice-auth-realm",
+  "version": "1.70.8-master",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "cfe5d3244a892f444b1d38e74a232363ab773f51",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes entities for functionality related to auth",
+  "dependencies": [],
+  "created": 1577160992,
+  "updated": 1577160992,
+  "status": "active"
+}

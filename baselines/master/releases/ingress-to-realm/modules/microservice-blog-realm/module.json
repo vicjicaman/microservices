@@ -1,0 +1,20 @@
+{
+  "releaseid": "ingress-to-realm",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.7-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "b397662badd6ac13b55bba84675e0929f691472a",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1577160992,
+  "updated": 1577160992,
+  "status": "active"
+}
