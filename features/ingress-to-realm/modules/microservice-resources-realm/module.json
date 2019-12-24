@@ -14,7 +14,7 @@
   "updated": 1576945445,
   "status": "active",
   "commit": {
-    "commitid": "cdeeed81ab3462eedc4c3458998fd84bbeb2b9b6",
-    "message": "RELEASE:deploy-realms-v1:1.70.8-master\n"
+    "commitid": "2f05c2ad4327331018596da9265b88bcbc0c8e31",
+    "message": "add limit-rps annotation\n"
   }
 }

@@ -14,7 +14,7 @@
   "updated": 1576945436,
   "status": "active",
   "commit": {
-    "commitid": "d7b84960a3a1c32179c675fa6b9c9f91fe92dcdc",
-    "message": "Change env mode\n"
+    "commitid": "7a20070524e25cf95117c3949bc27a48d7fe731d",
+    "message": "add limit-rps annotation\n"
   }
 }
