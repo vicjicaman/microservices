@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
   "fullname": "microservice-auth-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes entities for functionality related to auth",
   "created": 1576945433,
   "updated": 1576945433,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "42e09791513c1f273781cbeab0a6335ce03415eb",
+    "message": "RELEASE:deploy-realms-v1:1.70.7-master\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1576945445,
   "updated": 1576945445,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "cdeeed81ab3462eedc4c3458998fd84bbeb2b9b6",
+    "message": "RELEASE:deploy-realms-v1:1.70.8-master\n"
+  }
 }

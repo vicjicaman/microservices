@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-realm.git",
   "fullname": "microservice-home-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Entities for the home services and entities kubernetes realm",
   "created": 1576945441,
   "updated": 1576945441,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "61f92a1c33f7951adcae85029bfebd73c6ca6248",
+    "message": "Change env mode\n"
+  }
 }
