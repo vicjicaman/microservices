@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.0-ingress-to-realm-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": {
+    "commitid": "4571ed6956065def6fdf6a936858a2f3f28526b2",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "7a20070524e25cf95117c3949bc27a48d7fe731d",
+    "message": "add limit-rps annotation\n"
+  },
+  "mergeback": {
+    "commitid": "b397662badd6ac13b55bba84675e0929f691472a",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1577160738,
+  "updated": 1577160738,
+  "status": "active"
+}

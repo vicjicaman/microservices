@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-realm",
   "releases": [
     {
+      "releaseid": "ingress-to-realm"
+    },
+    {
       "releaseid": "deploy-realms-v1"
     },
     {
