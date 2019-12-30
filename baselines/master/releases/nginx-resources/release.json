@@ -1,0 +1,12 @@
+{
+  "releaseid": "nginx-resources",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-resources-realm",
+    "microservice-resources-proxy-container",
+    "microservice-resources-proxy"
+  ],
+  "created": 1577740832,
+  "updated": 1577740832,
+  "status": "active"
+}

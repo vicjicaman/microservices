@@ -1,0 +1,20 @@
+{
+  "releaseid": "nginx-resources",
+  "moduleid": "microservice-resources-proxy",
+  "version": "1.70.1-master",
+  "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "type": "folder",
+  "url": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "publish": null,
+  "released": {
+    "commitid": "f193e6df4dac11db7a94d2c0a7806ebdbe5156c9",
+    "message": "Add proxy config and container\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Nginx proxy configuration for static resources",
+  "dependencies": [],
+  "created": 1577740832,
+  "updated": 1577740832,
+  "status": "active"
+}
