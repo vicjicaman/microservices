@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-resources-proxy-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-resources-proxy-container.git",
+  "fullname": "repoflow/microservice-resources-proxy-container",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the resource proxy upstream",
+  "created": 1577736351,
+  "updated": 1577736351,
+  "status": "active"
+}
