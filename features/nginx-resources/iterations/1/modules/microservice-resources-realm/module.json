@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-nginx-resources-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": {
+    "commitid": "3adcdcf060ea4a528c09bfd1c6a583e1cb84774d",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "0614ec88c0980aec989764937bbdd9d63b1d89b0",
+    "message": "Add gitignore and dist changes\n"
+  },
+  "mergeback": {
+    "commitid": "55c3bdf9453e89ba377b29e5c9f406bc323fa131",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1577739937,
+  "updated": 1577739937,
+  "status": "active"
+}

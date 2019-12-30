@@ -2,6 +2,9 @@
   "moduleid": "microservice-resources-proxy",
   "releases": [
     {
+      "releaseid": "nginx-resources"
+    },
+    {
       "releaseid": "ns-deploy"
     },
     {
@@ -22,6 +25,19 @@
           "dependencyid": "dependency|container.json|source",
           "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
           "version": "1.70.0-master",
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
+        }
+      ]
+    },
+    {
+      "moduleid": "microservice-resources-proxy-container",
+      "references": [
+        {
+          "dependencyid": "dependency|container.json|source",
+          "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+          "version": "1.70.1-master",
           "kind": "source",
           "filename": "container.json",
           "path": "source.version"

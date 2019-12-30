@@ -1,6 +1,6 @@
 {
   "releaseid": "nginx-resources",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-resources-realm",
     "microservice-resources-proxy-container",
