@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-resources-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-resource-data-mount-fix-prod"
+    }
+  ],
+  "created": 1577679908,
+  "updated": 1577679908,
+  "status": "active"
+}
