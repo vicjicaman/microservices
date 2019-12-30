@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1577679781,
   "updated": 1577679781,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "c83136f3361af3839af3620184f2a571e7027cd2",
+    "message": "Fix the mount folder for the bitnami image\n"
+  }
 }
