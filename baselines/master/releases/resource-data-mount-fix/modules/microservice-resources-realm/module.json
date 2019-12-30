@@ -1,0 +1,20 @@
+{
+  "releaseid": "resource-data-mount-fix",
+  "moduleid": "microservice-resources-realm",
+  "version": "1.70.10-master",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "5d084ea2fb87db18e2bd01dd67f1defd630559f1",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Realm for common services and resources",
+  "dependencies": [],
+  "created": 1577681446,
+  "updated": 1577681446,
+  "status": "active"
+}
