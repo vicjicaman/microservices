@@ -2,6 +2,9 @@
   "moduleid": "microservice-resources-realm",
   "releases": [
     {
+      "releaseid": "resource-data-mount-fix"
+    },
+    {
       "releaseid": "ingress-to-realm"
     },
     {
