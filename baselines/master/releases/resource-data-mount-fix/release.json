@@ -1,0 +1,10 @@
+{
+  "releaseid": "resource-data-mount-fix",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-resources-realm"
+  ],
+  "created": 1577681446,
+  "updated": 1577681446,
+  "status": "active"
+}
