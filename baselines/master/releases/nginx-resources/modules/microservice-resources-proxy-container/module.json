@@ -5,15 +5,38 @@
   "fullname": "repoflow/microservice-resources-proxy-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-resources-proxy-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "11e297ad62fd20c923fe409a6a1d2cd5aa4800ad",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "c6f206a538946849403ec3c02aeed3fa2eac2346",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "e1923e84934097081efa1415b46ba4fcefe28e81",
+    "message": "RELEASE:nginx-resources:1.70.0-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the resource proxy upstream",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-resources-proxy-container",
+      "version": "1.70.0-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|container.json|source",
+      "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+      "version": "1.70.1-master",
+      "kind": "source",
+      "filename": "container.json",
+      "path": "source.version"
+    }
+  ],
   "created": 1577740832,
   "updated": 1577740832,
   "status": "active"

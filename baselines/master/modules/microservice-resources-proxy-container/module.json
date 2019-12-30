@@ -1,32 +1,23 @@
 {
-  "moduleid": "microservice-resources-container",
+  "moduleid": "microservice-resources-proxy-container",
   "releases": [
     {
-      "releaseid": "ns-deploy"
-    },
-    {
-      "releaseid": "ns-deploy"
-    },
-    {
-      "releaseid": "ns-deploy"
-    },
-    {
-      "releaseid": "resources-service"
+      "releaseid": "nginx-resources"
     }
   ],
-  "created": 1569351097,
-  "updated": 1569351097,
+  "created": 1577741541,
+  "updated": 1577741541,
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-resources-service",
+      "moduleid": "microservice-resources-realm",
       "references": [
         {
-          "dependencyid": "dependency|deployment.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
-          "fullname": "repoflow/microservice-resources-container",
+          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-resources-proxy-container",
           "version": "1.70.0-master",
           "kind": "container",
-          "filename": "deployment.yaml",
+          "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
         }
       ]
@@ -39,7 +30,7 @@
         {
           "dependencyid": "dependency|container.json|source",
           "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "source",
           "filename": "container.json",
           "path": "source.version"
