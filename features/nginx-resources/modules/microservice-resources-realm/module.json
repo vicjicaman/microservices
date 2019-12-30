@@ -14,7 +14,7 @@
   "updated": 1577736055,
   "status": "active",
   "commit": {
-    "commitid": "44b749e6c0a75634fcd5d97e79dec91a46ae7330",
-    "message": "Add proxy config and container\n"
+    "commitid": "0614ec88c0980aec989764937bbdd9d63b1d89b0",
+    "message": "Add gitignore and dist changes\n"
   }
 }
