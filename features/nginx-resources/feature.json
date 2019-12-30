@@ -1,0 +1,8 @@
+{
+  "featureid": "nginx-resources",
+  "baselineid": "master",
+  "description": "Change the node resources source to a nginx upstream",
+  "created": 1577736027,
+  "updated": 1577736027,
+  "status": "active"
+}
