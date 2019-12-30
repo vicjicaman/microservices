@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-proxy-container",
+  "mode": "prod",
+  "version": "1.70.0-nginx-resources-prod",
+  "fullname": "repoflow/microservice-resources-proxy-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-resources-proxy-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8afdb638720b0d2d776ad7be828717c1c311854b",
+    "message": "Add gitignore and dist changes\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1577739937,
+  "updated": 1577739937,
+  "status": "active"
+}

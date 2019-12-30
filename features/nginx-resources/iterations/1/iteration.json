@@ -1,0 +1,29 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-resources-realm",
+    "microservice-resources-proxy-container",
+    "microservice-resources-proxy"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-nginx-resources-prod"
+    },
+    {
+      "moduleid": "microservice-resources-proxy-container",
+      "iterationid": 1,
+      "version": "1.70.0-nginx-resources-prod"
+    },
+    {
+      "moduleid": "microservice-resources-proxy",
+      "iterationid": 1,
+      "version": "1.70.0-nginx-resources-prod"
+    }
+  ],
+  "created": 1577739937,
+  "updated": 1577739937,
+  "status": "active"
+}

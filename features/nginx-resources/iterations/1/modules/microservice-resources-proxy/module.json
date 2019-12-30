@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-proxy",
+  "mode": "prod",
+  "version": "1.70.0-nginx-resources-prod",
+  "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "type": "folder",
+  "url": "github.com:vicjicaman/microservice-resources-proxy.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "f193e6df4dac11db7a94d2c0a7806ebdbe5156c9",
+    "message": "Add proxy config and container\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1577739937,
+  "updated": 1577739937,
+  "status": "active"
+}
