@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-resource-data-mount-fix-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c83136f3361af3839af3620184f2a571e7027cd2",
+    "message": "Fix the mount folder for the bitnami image\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1577679908,
+  "updated": 1577679908,
+  "status": "active"
+}
