@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1577736055,
   "updated": 1577736055,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "44b749e6c0a75634fcd5d97e79dec91a46ae7330",
+    "message": "Add proxy config and container\n"
+  }
 }

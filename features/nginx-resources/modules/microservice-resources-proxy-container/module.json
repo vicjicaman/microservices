@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-proxy-container.git",
   "fullname": "repoflow/microservice-resources-proxy-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the resource proxy upstream",
   "created": 1577736351,
   "updated": 1577736351,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "4b348be9e2e0482cf48daed2edd067269c972610",
+    "message": "Add proxy config and container\n"
+  }
 }

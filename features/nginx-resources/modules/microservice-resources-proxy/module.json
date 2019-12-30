@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-proxy.git",
   "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Nginx proxy configuration for static resources",
   "created": 1577736294,
   "updated": 1577736294,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "f193e6df4dac11db7a94d2c0a7806ebdbe5156c9",
+    "message": "Add proxy config and container\n"
+  }
 }
