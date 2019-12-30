@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-resources-proxy-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-resources-proxy-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f5f6b3ad5955ec64318eb6cab34f360337cc8803",
+    "message": "Sync to iteration\n"
+  },
   "iterate": {
     "commitid": "8afdb638720b0d2d776ad7be828717c1c311854b",
     "message": "Add gitignore and dist changes\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "c6f206a538946849403ec3c02aeed3fa2eac2346",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1577739937,
   "updated": 1577739937,
