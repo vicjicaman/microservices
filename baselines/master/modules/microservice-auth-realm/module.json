@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-realm",
   "releases": [
     {
+      "releaseid": "auth-linker-update-fix"
+    },
+    {
       "releaseid": "auth-linker-update"
     },
     {
