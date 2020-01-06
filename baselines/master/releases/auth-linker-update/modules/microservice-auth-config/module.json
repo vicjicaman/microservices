@@ -5,15 +5,30 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a2b72876d250f289b67a5e873e21c0df540bc953",
+    "message": "Change the linker references and add the token secrets\n"
+  },
   "released": {
     "commitid": "a2b72876d250f289b67a5e873e21c0df540bc953",
     "message": "Change the linker references and add the token secrets\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "7452f0d9a5f602568504f72158c4bdd8840721fd",
+    "message": "RELEASE:auth-linker-update:1.70.9-master\n"
+  },
   "releaseType": "patch",
   "description": "General configuration for auth service, web, graph and others",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    }
+  ],
   "created": 1578351169,
   "updated": 1578351169,
   "status": "active"

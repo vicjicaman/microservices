@@ -1,6 +1,6 @@
 {
   "releaseid": "auth-linker-update",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-auth-realm",
     "microservice-auth-graph-container",

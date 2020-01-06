@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-web",
   "releases": [
     {
+      "releaseid": "auth-linker-update"
+    },
+    {
       "releaseid": "blog-comments"
     },
     {
@@ -21,7 +24,7 @@
         {
           "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-auth-web",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "source",
           "filename": "container.json",
           "path": "source.version"
@@ -36,7 +39,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
           "fullname": "@nebulario/microservice-layout",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-layout"
@@ -62,7 +65,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-logger",
           "fullname": "@nebulario/microservice-logger",
-          "version": "1.70.0-master",
+          "version": "1.70.1-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-logger"
