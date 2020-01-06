@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-linker-update-fix",
+  "moduleid": "microservice-auth-realm",
+  "version": "1.70.10-master",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "72ae0baf3556afd7b1aa10ac66bbd7cbfba6f1a1",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Kubernetes entities for functionality related to auth",
+  "dependencies": [],
+  "created": 1578353602,
+  "updated": 1578353602,
+  "status": "active"
+}

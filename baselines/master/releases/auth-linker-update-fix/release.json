@@ -1,0 +1,10 @@
+{
+  "releaseid": "auth-linker-update-fix",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm"
+  ],
+  "created": 1578353602,
+  "updated": 1578353602,
+  "status": "active"
+}
