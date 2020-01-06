@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-common",
+  "mode": "prod",
+  "version": "1.70.1-auth-linker-update-prod",
+  "fullname": "@nebulario/microservice-auth-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "41f9044c74b65de17a12b41bff72cf85643637e3",
+    "message": "Change the linker references and add the token secrets\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1578348492,
+  "updated": 1578348492,
+  "status": "active"
+}

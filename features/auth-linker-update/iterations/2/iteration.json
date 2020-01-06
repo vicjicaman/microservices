@@ -1,0 +1,77 @@
+{
+  "iterationid": 2,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-account-graph-container",
+    "microservice-auth-graph",
+    "microservice-account-graph",
+    "microservice-auth-web",
+    "microservice-auth-common",
+    "microservice-layout",
+    "microservice-auth-config",
+    "microservice-graph-common"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-web",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-common",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-layout",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-graph-common",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1578348492,
+  "updated": 1578348492,
+  "status": "active"
+}

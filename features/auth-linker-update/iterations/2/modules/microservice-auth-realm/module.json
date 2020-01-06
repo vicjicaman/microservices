@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.1-auth-linker-update-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "8c5217fb85f07a32bd61120fe1fe6480c4bf8017",
+    "message": "Change the linker references and add the token secrets\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1578348492,
+  "updated": 1578348492,
+  "status": "active"
+}

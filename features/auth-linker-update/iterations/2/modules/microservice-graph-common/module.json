@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-graph-common",
+  "mode": "prod",
+  "version": "1.70.1-auth-linker-update-prod",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "af3531c39efa327925f1367f86a319f592958256",
+    "message": "Change the linker references and add the token secrets\n"
+  },
+  "mergeback": null,
+  "releasedOn": 2,
+  "created": 1578348493,
+  "updated": 1578348493,
+  "status": "active"
+}
