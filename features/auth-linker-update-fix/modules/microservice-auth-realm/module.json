@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
   "fullname": "microservice-auth-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes entities for functionality related to auth",
   "created": 1578353236,
   "updated": 1578353236,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "515da800ad4b191a5da9dc1a2259705f225b71c2",
+    "message": "Fix issue with linker namespace config\n"
+  }
 }
