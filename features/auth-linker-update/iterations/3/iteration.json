@@ -1,0 +1,67 @@
+{
+  "iterationid": 3,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "version": "1.70.2-auth-linker-update-prod",
+      "iterationid": 3
+    },
+    {
+      "moduleid": "microservice-auth-graph-container",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-web-container",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-account-graph-container",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-graph",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-account-graph",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-web",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-common",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-layout",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-auth-config",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    },
+    {
+      "moduleid": "microservice-graph-common",
+      "version": "1.70.1-auth-linker-update-prod",
+      "iterationid": 2
+    }
+  ],
+  "created": 1578350867,
+  "updated": 1578350867,
+  "status": "active"
+}
