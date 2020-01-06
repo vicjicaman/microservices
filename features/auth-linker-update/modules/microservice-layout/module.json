@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-layout.git",
+  "fullname": "@nebulario/microservice-layout",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Shared layout for microservices",
+  "created": 1578328471,
+  "updated": 1578328471,
+  "status": "active",
+  "commit": {
+    "commitid": "836d64ac843c545f330c8aec3c7dd2a0e5a6a75e",
+    "message": "ITERATION:2\n"
+  }
+}

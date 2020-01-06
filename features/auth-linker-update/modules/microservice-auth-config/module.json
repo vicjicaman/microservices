@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-config",
+  "type": "config",
+  "url": "github.com:vicjicaman/microservice-auth-config.git",
+  "fullname": "github.com:vicjicaman/microservice-auth-config.git",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "General configuration for auth service, web, graph and others",
+  "created": 1578324412,
+  "updated": 1578324412,
+  "status": "active",
+  "commit": {
+    "commitid": "a2b72876d250f289b67a5e873e21c0df540bc953",
+    "message": "Change the linker references and add the token secrets\n"
+  }
+}

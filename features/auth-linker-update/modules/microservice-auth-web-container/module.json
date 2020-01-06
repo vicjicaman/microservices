@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Container for the web app",
+  "created": 1578324774,
+  "updated": 1578324774,
+  "status": "active",
+  "commit": {
+    "commitid": "aa7a96a46ad5d5729264b52ddc3818662f0d8e63",
+    "message": "ITERATION:2\n"
+  }
+}

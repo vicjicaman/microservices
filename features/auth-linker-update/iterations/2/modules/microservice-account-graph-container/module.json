@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-account-graph-container",
+  "mode": "prod",
+  "version": "1.70.1-auth-linker-update-prod",
+  "fullname": "repoflow/microservice-account-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-account-graph-container.git",
+  "publish": {
+    "commitid": "3ea2625b560c8f08dcc7db8a55a1f0413cf9d1b7",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "3be4c99a96d13b2e0b8a688e2902a96c2f503dc4",
+    "message": "Change the linker references and add the token secrets\n"
+  },
+  "mergeback": {
+    "commitid": "63934e1fac57c62a69585b67a2c9fcf392b36381",
+    "message": "ITERATION:2\n"
+  },
+  "releasedOn": 2,
+  "created": 1578348492,
+  "updated": 1578348492,
+  "status": "active"
+}

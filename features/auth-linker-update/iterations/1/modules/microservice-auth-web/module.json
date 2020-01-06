@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web",
+  "mode": "prod",
+  "version": "1.70.0-auth-linker-update-prod",
+  "fullname": "@nebulario/microservice-auth-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-auth-web.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "309f6016cef3049ae72a1df03ee96f9a6246cf44",
+    "message": "Change the linker references and add the token secrets\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578347390,
+  "updated": 1578347390,
+  "status": "active"
+}

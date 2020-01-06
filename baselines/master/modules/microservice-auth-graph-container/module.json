@@ -2,6 +2,9 @@
   "moduleid": "microservice-auth-graph-container",
   "releases": [
     {
+      "releaseid": "auth-linker-update"
+    },
+    {
       "releaseid": "blog-auth-container-update-v1"
     },
     {
@@ -55,7 +58,7 @@
         {
           "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-auth-graph-container",
-          "version": "1.70.9-master",
+          "version": "1.70.10-master",
           "kind": "container",
           "filename": "entities/deployment/graph.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -70,7 +73,7 @@
         {
           "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-auth-graph",
-          "version": "1.70.8-master",
+          "version": "1.70.9-master",
           "kind": "source",
           "filename": "container.json",
           "path": "source.version"

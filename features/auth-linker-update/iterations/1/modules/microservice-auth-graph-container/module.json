@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-linker-update-prod",
+  "fullname": "repoflow/microservice-auth-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "94db48e9b992f2e98aa6bcbc1463fe588493a0ed",
+    "message": "Add changes from linker auth\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578347389,
+  "updated": 1578347389,
+  "status": "active"
+}
