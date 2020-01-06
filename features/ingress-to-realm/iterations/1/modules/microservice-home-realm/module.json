@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-realm",
+  "mode": "prod",
+  "version": "1.70.0-ingress-to-realm-prod",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": {
+    "commitid": "570806e40d5be8ea402c2608591053c20e29b0c1",
+    "message": "Publish modifications\n"
+  },
+  "iterate": {
+    "commitid": "61f92a1c33f7951adcae85029bfebd73c6ca6248",
+    "message": "Change env mode\n"
+  },
+  "mergeback": {
+    "commitid": "490cb63fa9ce769746d9add348c8d6cdfc31a8c3",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1577160738,
+  "updated": 1577160738,
+  "status": "active"
+}

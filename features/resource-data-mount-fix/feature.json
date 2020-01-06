@@ -1,0 +1,8 @@
+{
+  "featureid": "resource-data-mount-fix",
+  "baselineid": "master",
+  "description": "Fix the mount path for the resource data service",
+  "created": 1577679742,
+  "updated": 1577679742,
+  "status": "active"
+}

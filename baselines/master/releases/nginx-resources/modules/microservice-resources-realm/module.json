@@ -1,0 +1,107 @@
+{
+  "releaseid": "nginx-resources",
+  "moduleid": "microservice-resources-realm",
+  "version": "1.70.11-master",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": {
+    "commitid": "d63bf9f605ddf910f24bbe64e52489ca65ae97a3",
+    "message": "Publish modifications\n"
+  },
+  "released": {
+    "commitid": "55c3bdf9453e89ba377b29e5c9f406bc323fa131",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": {
+    "commitid": "5c5741d346aa9e3a342afd320bafbe443415a205",
+    "message": "RELEASE:nginx-resources:1.70.11-master\n"
+  },
+  "releaseType": "patch",
+  "description": "Realm for common services and resources",
+  "dependencies": [
+    {
+      "dependencyid": "inner|entities/stateful/cache.yaml|metadata.labels.version",
+      "fullname": "microservice-resources-realm",
+      "version": "1.70.11-master",
+      "kind": "inner",
+      "filename": "entities/stateful/cache.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/stateful/cache.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "redis",
+      "version": "3.2-alpine",
+      "kind": "container",
+      "filename": "entities/stateful/cache.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/stateful/data.yaml|metadata.labels.version",
+      "fullname": "microservice-resources-realm",
+      "version": "1.70.11-master",
+      "kind": "inner",
+      "filename": "entities/stateful/data.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/stateful/data.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "bitnami/mongodb",
+      "version": "4.0.12",
+      "kind": "container",
+      "filename": "entities/stateful/data.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/stateful/queue.yaml|metadata.labels.version",
+      "fullname": "microservice-resources-realm",
+      "version": "1.70.11-master",
+      "kind": "inner",
+      "filename": "entities/stateful/queue.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/stateful/queue.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "rabbitmq",
+      "version": "3-management",
+      "kind": "container",
+      "filename": "entities/stateful/queue.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "inner|entities/deployment/web.yaml|metadata.labels.version",
+      "fullname": "microservice-resources-realm",
+      "version": "1.70.11-master",
+      "kind": "inner",
+      "filename": "entities/deployment/web.yaml",
+      "path": "metadata.labels.version"
+    },
+    {
+      "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+      "fullname": "repoflow/microservice-resources-proxy-container",
+      "version": "1.70.0-master",
+      "kind": "container",
+      "filename": "entities/deployment/web.yaml",
+      "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-config.version",
+      "fullname": "github.com:vicjicaman/microservice-config.git",
+      "version": "1.70.3-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-config.version"
+    },
+    {
+      "dependencyid": "dependency|config.json|dependencies.microservice-resources-config.version",
+      "fullname": "github.com:vicjicaman/microservice-resources-config.git",
+      "version": "1.70.6-master",
+      "kind": "config",
+      "filename": "config.json",
+      "path": "dependencies.microservice-resources-config.version"
+    }
+  ],
+  "created": 1577740832,
+  "updated": 1577740832,
+  "status": "active"
+}

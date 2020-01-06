@@ -2,6 +2,15 @@
   "moduleid": "microservice-resources-realm",
   "releases": [
     {
+      "releaseid": "nginx-resources"
+    },
+    {
+      "releaseid": "resource-data-mount-fix"
+    },
+    {
+      "releaseid": "ingress-to-realm"
+    },
+    {
       "releaseid": "deploy-realms-v1"
     },
     {
@@ -41,12 +50,12 @@
   "dependants": [],
   "dependents": [
     {
-      "moduleid": "microservice-resources-container",
+      "moduleid": "microservice-resources-proxy-container",
       "references": [
         {
           "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
-          "fullname": "repoflow/microservice-resources-container",
-          "version": "1.70.1-master",
+          "fullname": "repoflow/microservice-resources-proxy-container",
+          "version": "1.70.0-master",
           "kind": "container",
           "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"

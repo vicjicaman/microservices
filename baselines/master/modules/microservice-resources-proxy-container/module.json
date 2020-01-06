@@ -1,0 +1,41 @@
+{
+  "moduleid": "microservice-resources-proxy-container",
+  "releases": [
+    {
+      "releaseid": "nginx-resources"
+    }
+  ],
+  "created": 1577741541,
+  "updated": 1577741541,
+  "status": "active",
+  "dependants": [
+    {
+      "moduleid": "microservice-resources-realm",
+      "references": [
+        {
+          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
+          "fullname": "repoflow/microservice-resources-proxy-container",
+          "version": "1.70.0-master",
+          "kind": "container",
+          "filename": "entities/deployment/web.yaml",
+          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
+        }
+      ]
+    }
+  ],
+  "dependents": [
+    {
+      "moduleid": "microservice-resources-proxy",
+      "references": [
+        {
+          "dependencyid": "dependency|container.json|source",
+          "fullname": "github.com:vicjicaman/microservice-resources-proxy.git",
+          "version": "1.70.1-master",
+          "kind": "source",
+          "filename": "container.json",
+          "path": "source.version"
+        }
+      ]
+    }
+  ]
+}

@@ -19,19 +19,6 @@
   "status": "active",
   "dependants": [
     {
-      "moduleid": "microservice-resources-realm",
-      "references": [
-        {
-          "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
-          "fullname": "repoflow/microservice-resources-container",
-          "version": "1.70.1-master",
-          "kind": "container",
-          "filename": "entities/deployment/web.yaml",
-          "path": "spec.template.spec.containers|0|(?:.+):(.+)"
-        }
-      ]
-    },
-    {
       "moduleid": "microservice-resources-service",
       "references": [
         {
