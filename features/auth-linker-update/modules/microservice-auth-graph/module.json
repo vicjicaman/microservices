@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1576965003,
   "updated": 1576965003,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "596e2d8dd1ecfbca597bec204f5946ff9c15a5a1",
+    "message": "Change Linker to Blog label\n"
+  }
 }

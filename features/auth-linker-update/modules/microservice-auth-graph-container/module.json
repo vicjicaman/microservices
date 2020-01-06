@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph-container.git",
   "fullname": "repoflow/microservice-auth-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the auth graph",
   "created": 1576964994,
   "updated": 1576964994,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "94db48e9b992f2e98aa6bcbc1463fe588493a0ed",
+    "message": "Add changes from linker auth\n"
+  }
 }

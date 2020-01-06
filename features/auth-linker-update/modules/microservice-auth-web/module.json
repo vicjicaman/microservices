@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web.git",
   "fullname": "@nebulario/microservice-auth-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Auth functionality web app",
   "created": 1578324796,
   "updated": 1578324796,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "309f6016cef3049ae72a1df03ee96f9a6246cf44",
+    "message": "Change the linker references and add the token secrets\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-layout.git",
   "fullname": "@nebulario/microservice-layout",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Shared layout for microservices",
   "created": 1578328471,
   "updated": 1578328471,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9a5e33f324b2b5098edf264419bbd40a4bd259dd",
+    "message": "Add changes from linker auth\n"
+  }
 }

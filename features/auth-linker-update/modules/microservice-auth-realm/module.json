@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
   "fullname": "microservice-auth-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Kubernetes entities for functionality related to auth",
   "created": 1576964948,
   "updated": 1576964948,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "8c5217fb85f07a32bd61120fe1fe6480c4bf8017",
+    "message": "Change the linker references and add the token secrets\n"
+  }
 }

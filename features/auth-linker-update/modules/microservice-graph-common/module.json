@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-graph-common.git",
   "fullname": "@nebulario/microservice-graph-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common code and utils for a graph service",
   "created": 1578325434,
   "updated": 1578325434,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "af3531c39efa327925f1367f86a319f592958256",
+    "message": "Change the linker references and add the token secrets\n"
+  }
 }

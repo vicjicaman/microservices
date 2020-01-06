@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph.git",
   "fullname": "@nebulario/microservice-account-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for account queries and mutations",
   "created": 1578324785,
   "updated": 1578324785,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "28454192a9a3e3ea5cb8ab61a353bfcdc7227e95",
+    "message": "Change the linker references and add the token secrets\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web-container.git",
   "fullname": "repoflow/microservice-auth-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the web app",
   "created": 1578324774,
   "updated": 1578324774,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "0293506751d11a9b67a0f1841fadddc73370fbd9",
+    "message": "Add changes from linker auth\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-common.git",
   "fullname": "@nebulario/microservice-auth-common",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Common functionality for auth services",
   "created": 1578325392,
   "updated": 1578325392,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "41f9044c74b65de17a12b41bff72cf85643637e3",
+    "message": "Change the linker references and add the token secrets\n"
+  }
 }

@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-account-graph-container.git",
   "fullname": "repoflow/microservice-account-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the account graph",
   "created": 1578324778,
   "updated": 1578324778,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "3be4c99a96d13b2e0b8a688e2902a96c2f503dc4",
+    "message": "Change the linker references and add the token secrets\n"
+  }
 }
