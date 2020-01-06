@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-common-update",
+  "baselineid": "master",
+  "description": "Change the auth common lib for blog and home",
+  "created": 1578354385,
+  "updated": 1578354385,
+  "status": "active"
+}
