@@ -5,12 +5,18 @@
   "fullname": "github.com:vicjicaman/microservice-auth-config.git",
   "type": "config",
   "url": "github.com:vicjicaman/microservice-auth-config.git",
-  "publish": null,
+  "publish": {
+    "commitid": "a2b72876d250f289b67a5e873e21c0df540bc953",
+    "message": "Change the linker references and add the token secrets\n"
+  },
   "iterate": {
     "commitid": "a2b72876d250f289b67a5e873e21c0df540bc953",
     "message": "Change the linker references and add the token secrets\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "a2b72876d250f289b67a5e873e21c0df540bc953",
+    "message": "Change the linker references and add the token secrets\n"
+  },
   "releasedOn": 2,
   "created": 1578348492,
   "updated": 1578348492,

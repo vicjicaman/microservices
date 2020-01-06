@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-auth-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f0bdbbd21dca53a4824ea1a0ecd7041eaeaa8ee6",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "596e2d8dd1ecfbca597bec204f5946ff9c15a5a1",
     "message": "Change Linker to Blog label\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "da3e8d322705f54ed2c2f2034b9d5a25257e3ca8",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1578348492,
   "updated": 1578348492,

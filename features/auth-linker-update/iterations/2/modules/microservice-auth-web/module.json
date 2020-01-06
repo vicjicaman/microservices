@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-auth-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-auth-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "7da67fe9f6a41e752c2bc9f711b122a1982dea09",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "309f6016cef3049ae72a1df03ee96f9a6246cf44",
     "message": "Change the linker references and add the token secrets\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "45b1a8013766ef82a1134edbac819905cddc5e76",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1578348492,
   "updated": 1578348492,

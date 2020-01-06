@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-auth-common",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-auth-common.git",
-  "publish": null,
+  "publish": {
+    "commitid": "fd7b213c4b60bf5bd43b6d0189455909ed8b9968",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "41f9044c74b65de17a12b41bff72cf85643637e3",
     "message": "Change the linker references and add the token secrets\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "b3ecee76667f87c28be25438928b4a34cc4b07d1",
+    "message": "ITERATION:2\n"
+  },
   "releasedOn": 2,
   "created": 1578348492,
   "updated": 1578348492,
