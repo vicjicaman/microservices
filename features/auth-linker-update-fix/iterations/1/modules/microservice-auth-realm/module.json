@@ -5,12 +5,18 @@
   "fullname": "microservice-auth-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-auth-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "5a3ee6b84b44b1dccabf045aed8028447e13803f",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "0615dc9d3fcdf8435cd47d6a9b96c013ece72a9d",
     "message": "Add build entities\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "72ae0baf3556afd7b1aa10ac66bbd7cbfba6f1a1",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1578353492,
   "updated": 1578353492,
