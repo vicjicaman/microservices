@@ -1,0 +1,16 @@
+{
+  "moduleid": "microservice-home-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-web.git",
+  "fullname": "@nebulario/microservice-home-web",
+  "iteration": {
+    "mode": "dev"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Home web app functionality",
+  "created": 1578354547,
+  "updated": 1578354547,
+  "status": "active"
+}
