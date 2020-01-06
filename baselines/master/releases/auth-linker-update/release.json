@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-linker-update",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm",
+    "microservice-auth-graph-container",
+    "microservice-auth-web-container",
+    "microservice-account-graph-container",
+    "microservice-auth-graph",
+    "microservice-account-graph",
+    "microservice-auth-web",
+    "microservice-auth-common",
+    "microservice-layout",
+    "microservice-auth-config",
+    "microservice-graph-common"
+  ],
+  "created": 1578351168,
+  "updated": 1578351168,
+  "status": "active"
+}

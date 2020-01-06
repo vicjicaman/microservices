@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-linker-update",
+  "moduleid": "microservice-layout",
+  "version": "1.70.3-master",
+  "fullname": "@nebulario/microservice-layout",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-layout.git",
+  "publish": null,
+  "released": {
+    "commitid": "836d64ac843c545f330c8aec3c7dd2a0e5a6a75e",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Shared layout for microservices",
+  "dependencies": [],
+  "created": 1578351169,
+  "updated": 1578351169,
+  "status": "active"
+}

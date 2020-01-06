@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-linker-update",
+  "moduleid": "microservice-account-graph",
+  "version": "1.70.7-master",
+  "fullname": "@nebulario/microservice-account-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-account-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "7de33656f7e0630a77d4b304cc7257ba77c97907",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for account queries and mutations",
+  "dependencies": [],
+  "created": 1578351169,
+  "updated": 1578351169,
+  "status": "active"
+}
