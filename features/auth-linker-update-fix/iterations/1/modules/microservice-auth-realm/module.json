@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-realm",
+  "mode": "prod",
+  "version": "1.70.0-auth-linker-update-fix-prod",
+  "fullname": "microservice-auth-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-auth-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0615dc9d3fcdf8435cd47d6a9b96c013ece72a9d",
+    "message": "Add build entities\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578353492,
+  "updated": 1578353492,
+  "status": "active"
+}

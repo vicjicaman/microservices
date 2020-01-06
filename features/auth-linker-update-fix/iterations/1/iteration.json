@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-auth-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-auth-realm",
+      "iterationid": 1,
+      "version": "1.70.0-auth-linker-update-fix-prod"
+    }
+  ],
+  "created": 1578353492,
+  "updated": 1578353492,
+  "status": "active"
+}
