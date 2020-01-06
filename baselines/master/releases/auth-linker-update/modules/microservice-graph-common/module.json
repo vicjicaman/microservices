@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-linker-update",
+  "moduleid": "microservice-graph-common",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/microservice-graph-common",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-graph-common.git",
+  "publish": null,
+  "released": {
+    "commitid": "d1a8583183d729b915fd618abf1452dc36a932ce",
+    "message": "ITERATION:2\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Common code and utils for a graph service",
+  "dependencies": [],
+  "created": 1578351169,
+  "updated": 1578351169,
+  "status": "active"
+}
