@@ -1,0 +1,8 @@
+{
+  "featureid": "auth-linker-update-fix",
+  "baselineid": "master",
+  "description": "Fix issue with namespace",
+  "created": 1578353207,
+  "updated": 1578353207,
+  "status": "active"
+}
