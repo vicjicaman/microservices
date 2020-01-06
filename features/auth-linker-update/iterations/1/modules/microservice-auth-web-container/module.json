@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-auth-web-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-linker-update-prod",
+  "fullname": "repoflow/microservice-auth-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-auth-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "0293506751d11a9b67a0f1841fadddc73370fbd9",
+    "message": "Add changes from linker auth\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578347389,
+  "updated": 1578347389,
+  "status": "active"
+}
