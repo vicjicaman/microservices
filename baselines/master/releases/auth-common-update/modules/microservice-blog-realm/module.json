@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-common-update",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.8-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "86d77222f617af53d8dedde127725f3f497916a6",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1578367775,
+  "updated": 1578367775,
+  "status": "active"
+}

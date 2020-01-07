@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-common-update",
+  "moduleid": "microservice-blog-graph",
+  "version": "1.70.5-master",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "released": {
+    "commitid": "ede6cc40619610db1cf91ff9f9ec74cb05bc4699",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Graph for the blog service",
+  "dependencies": [],
+  "created": 1578367776,
+  "updated": 1578367776,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-common-update",
+  "moduleid": "microservice-home-graph-container",
+  "version": "1.70.6-master",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "7f35e5e24505bb1823967d2f9b86649403f87ff5",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the home service",
+  "dependencies": [],
+  "created": 1578367775,
+  "updated": 1578367775,
+  "status": "active"
+}
