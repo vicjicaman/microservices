@@ -1,0 +1,10 @@
+{
+  "releaseid": "external-nginx-service",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-resources-realm"
+  ],
+  "created": 1578439768,
+  "updated": 1578439768,
+  "status": "active"
+}

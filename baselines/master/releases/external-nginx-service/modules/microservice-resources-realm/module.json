@@ -1,0 +1,20 @@
+{
+  "releaseid": "external-nginx-service",
+  "moduleid": "microservice-resources-realm",
+  "version": "1.70.12-master",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "1e812c26072ec41a9ddfbbfba1f236ccc2d4f4ff",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Realm for common services and resources",
+  "dependencies": [],
+  "created": 1578439768,
+  "updated": 1578439768,
+  "status": "active"
+}
