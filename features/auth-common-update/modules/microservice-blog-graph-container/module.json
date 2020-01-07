@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
   "fullname": "repoflow/microservice-blog-graph-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for graph service",
   "created": 1578354491,
   "updated": 1578354491,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "6a93b157f62e1cab9fc7997aa5962103e61c45c5",
+    "message": "Update to auth common and graph common latest version\n"
+  }
 }

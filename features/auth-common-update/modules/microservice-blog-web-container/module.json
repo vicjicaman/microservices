@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
   "fullname": "repoflow/microservice-blog-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the blog web service",
   "created": 1578354476,
   "updated": 1578354476,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "52868ac0fb5657242b5c73d389a4943d1164de70",
+    "message": "Update to auth common and graph common latest version\n"
+  }
 }

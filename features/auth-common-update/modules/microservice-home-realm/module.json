@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-realm.git",
   "fullname": "microservice-home-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Entities for the home services and entities kubernetes realm",
   "created": 1578354420,
   "updated": 1578354420,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "00ccc3ff0d7dceaf6420ea97437004f2230072f4",
+    "message": "Update to auth common and graph common latest version\n"
+  }
 }

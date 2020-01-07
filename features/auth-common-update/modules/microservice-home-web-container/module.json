@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-web-container.git",
   "fullname": "repoflow/microservice-home-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for home web app",
   "created": 1578354484,
   "updated": 1578354484,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e965680b63930033bb18c30e41fe8debeca6e508",
+    "message": "Update to auth common and graph common latest version\n"
+  }
 }

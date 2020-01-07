@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-home-graph",
   "fullname": "@nebulario/microservice-home-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Graph for home service",
   "created": 1578354538,
   "updated": 1578354538,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d559857bad1eafd04bd9379e6a3dd6a3b38801e8",
+    "message": "Update to auth common and graph common latest version\n"
+  }
 }

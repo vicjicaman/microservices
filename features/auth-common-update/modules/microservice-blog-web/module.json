@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web.git",
   "fullname": "@nebulario/microservice-blog-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Web app for the blog service",
   "created": 1578354526,
   "updated": 1578354526,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "61e576deae0946e826b712a6d440bb159ebb73e2",
+    "message": "Update to auth common and graph common latest version\n"
+  }
 }
