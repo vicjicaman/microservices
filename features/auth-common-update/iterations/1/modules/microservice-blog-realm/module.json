@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-update-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "314cf8070b1576c9b413bae82052bf4390a538e0",
+    "message": "Update to auth common and graph common latest version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578366764,
+  "updated": 1578366764,
+  "status": "active"
+}

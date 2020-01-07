@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-graph",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-update-prod",
+  "fullname": "@nebulario/microservice-blog-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-graph.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "24a340224b44b3851d559b4c87196c9b2b098185",
+    "message": "Update to auth common and graph common latest version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578366764,
+  "updated": 1578366764,
+  "status": "active"
+}

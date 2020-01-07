@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-home-graph",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-update-prod",
+  "fullname": "@nebulario/microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "publish": null,
+  "iterate": {
+    "commitid": "d559857bad1eafd04bd9379e6a3dd6a3b38801e8",
+    "message": "Update to auth common and graph common latest version\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578366765,
+  "updated": 1578366765,
+  "status": "active"
+}
