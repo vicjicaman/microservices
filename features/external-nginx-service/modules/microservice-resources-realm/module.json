@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-resources-realm.git",
   "fullname": "microservice-resources-realm",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Realm for common services and resources",
   "created": 1578412859,
   "updated": 1578412859,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "9ba325e939986d749677c73a7fb3406f9162e682",
+    "message": "Add external service and ingress rewrite config\n"
+  }
 }
