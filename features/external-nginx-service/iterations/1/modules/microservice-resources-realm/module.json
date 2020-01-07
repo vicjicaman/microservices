@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-resources-realm",
+  "mode": "prod",
+  "version": "1.70.0-external-nginx-service-prod",
+  "fullname": "microservice-resources-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-resources-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "9ba325e939986d749677c73a7fb3406f9162e682",
+    "message": "Add external service and ingress rewrite config\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578439580,
+  "updated": 1578439580,
+  "status": "active"
+}
