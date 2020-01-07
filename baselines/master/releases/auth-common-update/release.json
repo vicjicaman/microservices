@@ -1,0 +1,19 @@
+{
+  "releaseid": "auth-common-update",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-blog-graph-container",
+    "microservice-blog-web-container",
+    "microservice-home-graph-container",
+    "microservice-home-web-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-home-graph",
+    "microservice-home-web"
+  ],
+  "created": 1578367775,
+  "updated": 1578367775,
+  "status": "active"
+}

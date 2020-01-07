@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-common-update",
+  "moduleid": "microservice-blog-web-container",
+  "version": "1.70.5-master",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "14d53e4a642dd69c332edfa3750cd818bb079f7d",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the blog web service",
+  "dependencies": [],
+  "created": 1578367775,
+  "updated": 1578367775,
+  "status": "active"
+}

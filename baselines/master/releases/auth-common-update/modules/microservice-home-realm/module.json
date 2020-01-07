@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-common-update",
+  "moduleid": "microservice-home-realm",
+  "version": "1.70.6-master",
+  "fullname": "microservice-home-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-home-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "8acab2e503f1e0340abcf8127525153bf647d38a",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Entities for the home services and entities kubernetes realm",
+  "dependencies": [],
+  "created": 1578367775,
+  "updated": 1578367775,
+  "status": "active"
+}

@@ -1,0 +1,20 @@
+{
+  "releaseid": "auth-common-update",
+  "moduleid": "microservice-blog-graph-container",
+  "version": "1.70.6-master",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "c3d071c178ed546c3692847f3868f4f13f86f1a3",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for graph service",
+  "dependencies": [],
+  "created": 1578367775,
+  "updated": 1578367775,
+  "status": "active"
+}
