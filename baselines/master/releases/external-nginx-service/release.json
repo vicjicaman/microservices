@@ -1,6 +1,6 @@
 {
   "releaseid": "external-nginx-service",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-resources-realm"
   ],

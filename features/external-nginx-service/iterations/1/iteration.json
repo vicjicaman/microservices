@@ -1,0 +1,17 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-resources-realm"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-resources-realm",
+      "iterationid": 1,
+      "version": "1.70.0-external-nginx-service-prod"
+    }
+  ],
+  "created": 1578439580,
+  "updated": 1578439580,
+  "status": "active"
+}
