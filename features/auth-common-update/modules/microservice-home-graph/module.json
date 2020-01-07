@@ -1,0 +1,20 @@
+{
+  "moduleid": "microservice-home-graph",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-home-graph",
+  "fullname": "@nebulario/microservice-home-graph",
+  "iteration": {
+    "mode": "prod"
+  },
+  "release": {
+    "type": "patch"
+  },
+  "description": "Graph for home service",
+  "created": 1578354538,
+  "updated": 1578354538,
+  "status": "active",
+  "commit": {
+    "commitid": "8dbbe50420d2619a2f27d7775d052a63e47963b1",
+    "message": "ITERATION:1\n"
+  }
+}

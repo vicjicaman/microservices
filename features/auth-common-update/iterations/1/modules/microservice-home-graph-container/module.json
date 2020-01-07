@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-home-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-update-prod",
+  "fullname": "repoflow/microservice-home-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-home-graph-container.git",
+  "publish": {
+    "commitid": "a7fc104315a9250949ada759eabc204df1b05fcc",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "3a0434e43c291c270ce6921371873126afd68fb9",
+    "message": "Update to auth common and graph common latest version\n"
+  },
+  "mergeback": {
+    "commitid": "7f35e5e24505bb1823967d2f9b86649403f87ff5",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1578366764,
+  "updated": 1578366764,
+  "status": "active"
+}

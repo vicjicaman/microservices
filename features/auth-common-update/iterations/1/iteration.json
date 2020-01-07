@@ -1,0 +1,71 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-home-realm",
+    "microservice-blog-graph-container",
+    "microservice-blog-web-container",
+    "microservice-home-graph-container",
+    "microservice-home-web-container",
+    "microservice-blog-graph",
+    "microservice-blog-web",
+    "microservice-home-graph",
+    "microservice-home-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-home-realm",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-home-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-blog-graph",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-home-graph",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    },
+    {
+      "moduleid": "microservice-home-web",
+      "iterationid": 1,
+      "version": "1.70.0-auth-common-update-prod"
+    }
+  ],
+  "created": 1578366764,
+  "updated": 1578366764,
+  "status": "active"
+}

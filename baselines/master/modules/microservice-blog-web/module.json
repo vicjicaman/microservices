@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-web",
   "releases": [
     {
+      "releaseid": "auth-common-update"
+    },
+    {
       "releaseid": "email-validation"
     },
     {
@@ -21,7 +24,7 @@
         {
           "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-blog-web",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "source",
           "filename": "container.json",
           "path": "source.version"
@@ -36,7 +39,7 @@
         {
           "dependencyid": "dependency|package.json|dependencies.@nebulario/microservice-layout",
           "fullname": "@nebulario/microservice-layout",
-          "version": "1.70.2-master",
+          "version": "1.70.3-master",
           "kind": "dependency",
           "filename": "package.json",
           "path": "dependencies.@nebulario/microservice-layout"

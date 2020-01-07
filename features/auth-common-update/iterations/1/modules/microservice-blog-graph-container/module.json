@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-graph-container",
+  "mode": "prod",
+  "version": "1.70.0-auth-common-update-prod",
+  "fullname": "repoflow/microservice-blog-graph-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-graph-container.git",
+  "publish": {
+    "commitid": "07915b4af38ab5a7b16b5c1e860400c763525bbd",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "6a93b157f62e1cab9fc7997aa5962103e61c45c5",
+    "message": "Update to auth common and graph common latest version\n"
+  },
+  "mergeback": {
+    "commitid": "c3d071c178ed546c3692847f3868f4f13f86f1a3",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1578366764,
+  "updated": 1578366764,
+  "status": "active"
+}
