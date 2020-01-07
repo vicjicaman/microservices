@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-blog-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-blog-graph.git",
-  "publish": null,
+  "publish": {
+    "commitid": "d878d22bb0ee516d08c21dbc7901e54c3bc573d8",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "24a340224b44b3851d559b4c87196c9b2b098185",
     "message": "Update to auth common and graph common latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "ede6cc40619610db1cf91ff9f9ec74cb05bc4699",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1578366764,
   "updated": 1578366764,

@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-graph",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-graph",
-  "publish": null,
+  "publish": {
+    "commitid": "a45436c68df100e36d11b215777e68ee3bf0d58c",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "d559857bad1eafd04bd9379e6a3dd6a3b38801e8",
     "message": "Update to auth common and graph common latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8dbbe50420d2619a2f27d7775d052a63e47963b1",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1578366765,
   "updated": 1578366765,

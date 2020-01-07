@@ -5,12 +5,18 @@
   "fullname": "repoflow/microservice-blog-web-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "2524f6341861c907086f9ff6b5a23686ab33573e",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "52868ac0fb5657242b5c73d389a4943d1164de70",
     "message": "Update to auth common and graph common latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "14d53e4a642dd69c332edfa3750cd818bb079f7d",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1578366764,
   "updated": 1578366764,

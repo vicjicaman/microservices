@@ -5,12 +5,18 @@
   "fullname": "@nebulario/microservice-home-web",
   "type": "npm",
   "url": "github.com:vicjicaman/microservice-home-web.git",
-  "publish": null,
+  "publish": {
+    "commitid": "f456ca0f96a8b279cbcc886b0aae73d7b04423f1",
+    "message": "Sync to iteration version\n"
+  },
   "iterate": {
     "commitid": "bbc6e0c2faef942deffa276b1f75c4ef28b0ccce",
     "message": "Update to auth common and graph common latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "254c343f62a8372daacf451deeeb44111456e417",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1578366765,
   "updated": 1578366765,

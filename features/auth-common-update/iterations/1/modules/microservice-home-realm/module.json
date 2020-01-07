@@ -5,12 +5,18 @@
   "fullname": "microservice-home-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-home-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "8ef1a1257a2cc607eab50fa33ed0376d50ec0566",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "00ccc3ff0d7dceaf6420ea97437004f2230072f4",
     "message": "Update to auth common and graph common latest version\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "8acab2e503f1e0340abcf8127525153bf647d38a",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1578366764,
   "updated": 1578366764,
