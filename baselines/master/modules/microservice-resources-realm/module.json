@@ -2,6 +2,9 @@
   "moduleid": "microservice-resources-realm",
   "releases": [
     {
+      "releaseid": "external-nginx-service"
+    },
+    {
       "releaseid": "nginx-resources"
     },
     {
