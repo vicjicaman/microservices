@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-web-container",
   "releases": [
     {
+      "releaseid": "auth-common-update"
+    },
+    {
       "releaseid": "home-container-update-v1"
     },
     {
@@ -27,7 +30,7 @@
         {
           "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-home-web-container",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "container",
           "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -55,7 +58,7 @@
         {
           "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-home-web",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "source",
           "filename": "container.json",
           "path": "source.version"

@@ -2,6 +2,9 @@
   "moduleid": "microservice-home-realm",
   "releases": [
     {
+      "releaseid": "auth-common-update"
+    },
+    {
       "releaseid": "ingress-to-realm"
     },
     {
@@ -31,7 +34,7 @@
         {
           "dependencyid": "dependency|entities/deployment/graph.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-home-graph-container",
-          "version": "1.70.5-master",
+          "version": "1.70.6-master",
           "kind": "container",
           "filename": "entities/deployment/graph.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -44,7 +47,7 @@
         {
           "dependencyid": "dependency|entities/deployment/web.yaml|spec.template.spec.containers|0|(?:.+):(.+)",
           "fullname": "repoflow/microservice-home-web-container",
-          "version": "1.70.4-master",
+          "version": "1.70.5-master",
           "kind": "container",
           "filename": "entities/deployment/web.yaml",
           "path": "spec.template.spec.containers|0|(?:.+):(.+)"
@@ -96,7 +99,7 @@
         {
           "dependencyid": "dependency|config.json|dependencies.microservice-auth-config.version",
           "fullname": "github.com:vicjicaman/microservice-auth-config.git",
-          "version": "1.70.8-master",
+          "version": "1.70.9-master",
           "kind": "config",
           "filename": "config.json",
           "path": "dependencies.microservice-auth-config.version"
