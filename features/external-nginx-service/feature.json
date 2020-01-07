@@ -1,0 +1,8 @@
+{
+  "featureid": "external-nginx-service",
+  "baselineid": "master",
+  "description": "Use an external service for the resources ingress",
+  "created": 1578412795,
+  "updated": 1578412795,
+  "status": "active"
+}
