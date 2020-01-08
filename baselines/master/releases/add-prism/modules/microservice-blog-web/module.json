@@ -1,0 +1,20 @@
+{
+  "releaseid": "add-prism",
+  "moduleid": "microservice-blog-web",
+  "version": "1.70.4-master",
+  "fullname": "@nebulario/microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "publish": null,
+  "released": {
+    "commitid": "afd43f83b6aa2faea5ac6547cd659891175f2b66",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Web app for the blog service",
+  "dependencies": [],
+  "created": 1578498646,
+  "updated": 1578498646,
+  "status": "active"
+}

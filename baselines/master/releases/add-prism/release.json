@@ -1,0 +1,12 @@
+{
+  "releaseid": "add-prism",
+  "phase": "releasing",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-blog-web-container",
+    "microservice-blog-web"
+  ],
+  "created": 1578498645,
+  "updated": 1578498645,
+  "status": "active"
+}
