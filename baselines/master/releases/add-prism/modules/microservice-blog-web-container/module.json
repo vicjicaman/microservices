@@ -5,15 +5,38 @@
   "fullname": "repoflow/microservice-blog-web-container",
   "type": "container",
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
-  "publish": null,
+  "publish": {
+    "commitid": "77483059262bec69bbbebcdd0595cc93395d60f0",
+    "message": "Sync to release version\n"
+  },
   "released": {
     "commitid": "8fc215b87c3afc1ee2f1bc426e328779ac9eae40",
     "message": "ITERATION:1\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "fee42b81780b086205988bdfb49fdfaab8b08642",
+    "message": "RELEASE:add-prism:1.70.6-master\n"
+  },
   "releaseType": "patch",
   "description": "Container for the blog web service",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "dependencyid": "dependency|container.json|name",
+      "fullname": "repoflow/microservice-blog-web-container",
+      "version": "1.70.6-master",
+      "kind": "inner",
+      "filename": "container.json",
+      "path": "version"
+    },
+    {
+      "dependencyid": "dependency|container.json|source",
+      "fullname": "@nebulario/microservice-blog-web",
+      "version": "1.70.4-master",
+      "kind": "source",
+      "filename": "container.json",
+      "path": "source.version"
+    }
+  ],
   "created": 1578498645,
   "updated": 1578498645,
   "status": "active"
