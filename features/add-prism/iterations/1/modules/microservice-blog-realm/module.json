@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-realm",
+  "mode": "prod",
+  "version": "1.70.0-add-prism-prod",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "c8443fab6d0bcd07be36a3f4603965ce085aceb2",
+    "message": "RELEASE:auth-common-update:1.70.8-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578495636,
+  "updated": 1578495636,
+  "status": "active"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleid": "microservice-blog-web-container",
+  "mode": "prod",
+  "version": "1.70.0-add-prism-prod",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "iterate": {
+    "commitid": "d420d73a1ef2a13e24acb6e18bcec654af5f72e4",
+    "message": "RELEASE:auth-common-update:1.70.5-master\n"
+  },
+  "mergeback": null,
+  "releasedOn": 1,
+  "created": 1578495636,
+  "updated": 1578495636,
+  "status": "active"
+}
