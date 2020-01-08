@@ -5,12 +5,18 @@
   "fullname": "microservice-blog-realm",
   "type": "realm",
   "url": "github.com:vicjicaman/microservice-blog-realm.git",
-  "publish": null,
+  "publish": {
+    "commitid": "04baadd75a36c801474ebf8c25f9faf4afd03e6e",
+    "message": "Publish modifications\n"
+  },
   "iterate": {
     "commitid": "c8443fab6d0bcd07be36a3f4603965ce085aceb2",
     "message": "RELEASE:auth-common-update:1.70.8-master\n"
   },
-  "mergeback": null,
+  "mergeback": {
+    "commitid": "85a03ead3b33527fb0be1e37e7c216c596e35493",
+    "message": "ITERATION:1\n"
+  },
   "releasedOn": 1,
   "created": 1578495636,
   "updated": 1578495636,
