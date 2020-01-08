@@ -1,0 +1,20 @@
+{
+  "releaseid": "add-prism",
+  "moduleid": "microservice-blog-realm",
+  "version": "1.70.9-master",
+  "fullname": "microservice-blog-realm",
+  "type": "realm",
+  "url": "github.com:vicjicaman/microservice-blog-realm.git",
+  "publish": null,
+  "released": {
+    "commitid": "85a03ead3b33527fb0be1e37e7c216c596e35493",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Blog realm for the services and kubernetes entities",
+  "dependencies": [],
+  "created": 1578498645,
+  "updated": 1578498645,
+  "status": "active"
+}

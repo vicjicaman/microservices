@@ -1,0 +1,20 @@
+{
+  "releaseid": "add-prism",
+  "moduleid": "microservice-blog-web-container",
+  "version": "1.70.6-master",
+  "fullname": "repoflow/microservice-blog-web-container",
+  "type": "container",
+  "url": "github.com:vicjicaman/microservice-blog-web-container.git",
+  "publish": null,
+  "released": {
+    "commitid": "8fc215b87c3afc1ee2f1bc426e328779ac9eae40",
+    "message": "ITERATION:1\n"
+  },
+  "mergeback": null,
+  "releaseType": "patch",
+  "description": "Container for the blog web service",
+  "dependencies": [],
+  "created": 1578498645,
+  "updated": 1578498645,
+  "status": "active"
+}
