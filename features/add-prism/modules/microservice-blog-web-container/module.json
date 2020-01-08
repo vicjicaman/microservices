@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-blog-web-container.git",
   "fullname": "repoflow/microservice-blog-web-container",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Container for the blog web service",
   "created": 1578495315,
   "updated": 1578495315,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "d420d73a1ef2a13e24acb6e18bcec654af5f72e4",
+    "message": "RELEASE:auth-common-update:1.70.5-master\n"
+  }
 }
