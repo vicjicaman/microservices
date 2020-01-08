@@ -1,6 +1,6 @@
 {
   "releaseid": "add-prism",
-  "phase": "releasing",
+  "phase": "released",
   "hierarchy": [
     "microservice-blog-realm",
     "microservice-blog-web-container",

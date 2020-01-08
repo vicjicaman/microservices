@@ -2,6 +2,9 @@
   "moduleid": "microservice-blog-web",
   "releases": [
     {
+      "releaseid": "add-prism"
+    },
+    {
       "releaseid": "auth-common-update"
     },
     {
@@ -24,7 +27,7 @@
         {
           "dependencyid": "dependency|container.json|source",
           "fullname": "@nebulario/microservice-blog-web",
-          "version": "1.70.3-master",
+          "version": "1.70.4-master",
           "kind": "source",
           "filename": "container.json",
           "path": "source.version"

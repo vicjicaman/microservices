@@ -1,0 +1,29 @@
+{
+  "iterationid": 1,
+  "phase": "iterated",
+  "hierarchy": [
+    "microservice-blog-realm",
+    "microservice-blog-web-container",
+    "microservice-blog-web"
+  ],
+  "latest": [
+    {
+      "moduleid": "microservice-blog-realm",
+      "iterationid": 1,
+      "version": "1.70.0-add-prism-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web-container",
+      "iterationid": 1,
+      "version": "1.70.0-add-prism-prod"
+    },
+    {
+      "moduleid": "microservice-blog-web",
+      "iterationid": 1,
+      "version": "1.70.0-add-prism-prod"
+    }
+  ],
+  "created": 1578495636,
+  "updated": 1578495636,
+  "status": "active"
+}

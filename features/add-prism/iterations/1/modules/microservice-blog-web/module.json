@@ -1,0 +1,24 @@
+{
+  "moduleid": "microservice-blog-web",
+  "mode": "prod",
+  "version": "1.70.0-add-prism-prod",
+  "fullname": "@nebulario/microservice-blog-web",
+  "type": "npm",
+  "url": "github.com:vicjicaman/microservice-blog-web.git",
+  "publish": {
+    "commitid": "66118011d2412717c4bea4780c92e46c9c1dc15f",
+    "message": "Sync to iteration version\n"
+  },
+  "iterate": {
+    "commitid": "e58479b30c9c16e6a02c2381f32b6a591ec5f26b",
+    "message": "Add prism js and css\n"
+  },
+  "mergeback": {
+    "commitid": "afd43f83b6aa2faea5ac6547cd659891175f2b66",
+    "message": "ITERATION:1\n"
+  },
+  "releasedOn": 1,
+  "created": 1578495637,
+  "updated": 1578495637,
+  "status": "active"
+}
