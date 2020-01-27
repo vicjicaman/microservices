@@ -1,0 +1,8 @@
+{
+  "featureid": "mail-recover",
+  "baselineid": "master",
+  "description": "Auth mail recover",
+  "created": 1580157157,
+  "updated": 1580157157,
+  "status": "active"
+}
