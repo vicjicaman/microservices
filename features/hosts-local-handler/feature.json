@@ -1,0 +1,8 @@
+{
+  "featureid": "hosts-local-handler",
+  "baselineid": "master",
+  "description": "Add hosts data to local handler",
+  "created": 1580180592,
+  "updated": 1580180592,
+  "status": "active"
+}
