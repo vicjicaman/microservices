@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-graph.git",
   "fullname": "@nebulario/microservice-auth-graph",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Service app for the auth graph ",
   "created": 1580157223,
   "updated": 1580157223,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "e26d02086a4d0c1cee75ecab9548f26688ac0dfe",
+    "message": "RELEASE:auth-linker-update:1.70.9-master\n"
+  }
 }

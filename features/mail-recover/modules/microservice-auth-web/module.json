@@ -4,7 +4,7 @@
   "url": "github.com:vicjicaman/microservice-auth-web.git",
   "fullname": "@nebulario/microservice-auth-web",
   "iteration": {
-    "mode": "dev"
+    "mode": "prod"
   },
   "release": {
     "type": "patch"
@@ -12,5 +12,9 @@
   "description": "Auth functionality web app",
   "created": 1580157927,
   "updated": 1580157927,
-  "status": "active"
+  "status": "active",
+  "commit": {
+    "commitid": "b626b0c2249c489c6882f0cfa441101804d3c7ea",
+    "message": "RELEASE:auth-linker-update:1.70.3-master\n"
+  }
 }
